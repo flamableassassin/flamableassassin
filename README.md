@@ -6,4 +6,7 @@
 - <img src="https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png" alt="drawing" width="25"/>: `♛ ᖴᒪᗩᙏᙏᗩᙖᒪᙓᗩSSᗩSSIᑎ® ♛#4701`
 - 🌐 [highlyflammable.tech](highlyflammable.tech)
 
+### Recent Activity
+<!--START_SECTION:activity-->
+
 ![My stats](https://github-readme-stats.vercel.app/api?username=flamableassassin&count_private=true&show_icons=true&theme=radical&title_color=88ff59)
