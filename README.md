@@ -8,5 +8,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#8](https://github.com/codedtogether/chip/issues/8) in [codedtogether/chip](https://github.com/codedtogether/chip)
+2. 💪 Opened PR [#8](https://github.com/codedtogether/chip/pull/8) in [codedtogether/chip](https://github.com/codedtogether/chip)
+3. 🗣 Commented on [#7](https://github.com/codedtogether/chip/issues/7) in [codedtogether/chip](https://github.com/codedtogether/chip)
+4. 💪 Opened PR [#7](https://github.com/codedtogether/chip/pull/7) in [codedtogether/chip](https://github.com/codedtogether/chip)
+5. ❌ Closed PR [#3](https://github.com/pointscity/quartz/pull/3) in [pointscity/quartz](https://github.com/pointscity/quartz)
+<!--END_SECTION:activity-->
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=flamableassassin&count_private=true&show_icons=true&theme=radical&title_color=88ff59)
