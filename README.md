@@ -6,6 +6,9 @@
 - <img src="https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png" alt="drawing" width="25"/>: `♛ ᖴᒪᗩᙏᙏᗩᙖᒪᙓᗩSSᗩSSIᑎ® ♛#4701`
 - 🌐 [highlyflammable.tech](highlyflammable.tech)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#8](https://github.com/codedtogether/chip/issues/8) in [codedtogether/chip](https://github.com/codedtogether/chip)
