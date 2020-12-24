@@ -6,6 +6,7 @@
 - <img src="https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png" alt="drawing" width="25"/>: `♛ ᖴᒪᗩᙏᙏᗩᙖᒪᙓᗩSSᗩSSIᑎ® ♛#4701`
 - 🌐 [highlyflammable.tech](highlyflammable.tech)
 
+### Development Activity
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
