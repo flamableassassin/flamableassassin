@@ -9,7 +9,9 @@
 ### Development Activity
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   46 mins         ████████████▓░░░░░░░░░░░░   50.87 % 
+Other        37 mins         ██████████░░░░░░░░░░░░░░░   40.27 % 
+C#           8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
 ```
 <!--END_SECTION:waka-->
 
