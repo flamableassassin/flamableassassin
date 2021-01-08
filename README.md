@@ -9,10 +9,8 @@
 ### Development Activity
 <!--START_SECTION:waka-->
 ```text
-Other        3 hrs 58 mins   ███████████████████▒░░░░░   77.08 % 
-Docker       44 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-JavaScript   19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-JSON         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Other        2 hrs 4 mins    ████████████████████░░░░░   80.38 % 
+Docker       29 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.93 % 
 ```
 <!--END_SECTION:waka-->
 
