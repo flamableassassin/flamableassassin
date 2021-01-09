@@ -9,8 +9,7 @@
 ### Development Activity
 <!--START_SECTION:waka-->
 ```text
-Other        2 hrs 4 mins    ████████████████████░░░░░   80.38 % 
-Docker       29 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.93 % 
+Docker   22 mins         ████████████████████████▓   99.01 % 
 ```
 <!--END_SECTION:waka-->
 
