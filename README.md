@@ -9,7 +9,7 @@
 ### Development Activity
 <!--START_SECTION:waka-->
 ```text
-Docker   22 mins         ████████████████████████▓   99.01 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
