@@ -9,7 +9,11 @@
 ### Development Activity
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   4 hrs 27 mins   ███████████████████████▓░   94.15 % 
+JSON         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+YAML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 ```
 <!--END_SECTION:waka-->
 
