@@ -9,11 +9,9 @@
 ### Development Activity
 <!--START_SECTION:waka-->
 ```text
-JSON         6 hrs 14 mins   ██████████████░░░░░░░░░░░   55.38 % 
-JavaScript   4 hrs 53 mins   ███████████░░░░░░░░░░░░░░   43.46 % 
-Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+JSON         6 hrs 12 mins   ███████████████▓░░░░░░░░░   62.97 % 
+JavaScript   3 hrs 36 mins   █████████░░░░░░░░░░░░░░░░   36.59 % 
+YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 ```
 <!--END_SECTION:waka-->
 
