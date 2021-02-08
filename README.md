@@ -9,10 +9,9 @@
 ### Development Activity
 <!--START_SECTION:waka-->
 ```text
-C#           3 hrs 36 mins   █████████████▓░░░░░░░░░░░   54.03 % 
-JavaScript   2 hrs 29 mins   █████████▒░░░░░░░░░░░░░░░   37.34 % 
-Other        19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-HTML         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+JavaScript   3 hrs 29 mins   ████████████████████████▒   96.89 % 
+Text         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 ```
 <!--END_SECTION:waka-->
 
