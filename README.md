@@ -23,7 +23,7 @@
 </details>
 
 <details>
-  <summary><b>Recent Activity Activity</b></summary>
+  <summary><b>Recent Activity</b></summary>
     <br>
 
 <!--START_SECTION:activity-->
