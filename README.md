@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word: [ok](https://www.wordnik.com/words/ok)
+- Random word: [pleomorphism](https://www.wordnik.com/words/pleomorphism)
 <!--END_SECTION:randomWord-->
 
 <details>

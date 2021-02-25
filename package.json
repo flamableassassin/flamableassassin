@@ -2,7 +2,7 @@
   "name": "flamableassassin",
   "main": "bot.js",
   "scripts": {
-    "start":"node randomWord/index.js",
+    "start": "node randomWord/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
