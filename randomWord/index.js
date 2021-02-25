@@ -11,6 +11,6 @@ const oldReadMe = fs.readFileSync("./README.md").toString();
 (async () => {
   let res = await fetch(`https://s.highlyflammable.tech/randomword/?secret=${core.getInput('WEBSITE_TOKEN')}`)
   res = await res.text();
-  let newReadMe = oldReadMe.replace(commentRegex, `${startComment}\n- Random word: [${res}](https://www.wordnik.com/words/${res})\n${endComment}`);
+  let newReadMe = oldReadMe.replace(commentRegex, `${startComment}\n- Random word of the day: [${res}](https://www.wordnik.com/words/${res})\n${endComment}`);
   fs.writeFileSync('./README.md', newReadMe);
 })();
