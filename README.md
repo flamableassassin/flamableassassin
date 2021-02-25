@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word:
+- Random word: [ok](https://www.wordnik.com/words/ok)
 <!--END_SECTION:randomWord-->
 
 <details>

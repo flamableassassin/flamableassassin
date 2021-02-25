@@ -1,0 +1,10 @@
+# https://github.com/benjaminsampica/benjaminsampica/blob/master/roll/action.yml
+name: 'Random Word'
+description: 'Random Word'
+inputs:
+  WEBSITE_TOKEN:
+    description: 'Token for accessing my api'
+    required: true
+runs:
+  using: 'node12'
+  main: 'index.js'

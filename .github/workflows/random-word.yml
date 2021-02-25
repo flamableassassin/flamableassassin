@@ -1,0 +1,28 @@
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+# https://github.com/benjaminsampica/benjaminsampica/blob/master/.github/workflows/readme.yml
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: |
+          git pull origin master
+      - run: npm install
+      - name: Random word
+        uses: ./randomWord
+        id: randomWord
+        with:
+          WEBSITE_TOKEN: ${{ secrets.WEBSITE_TOKEN }}
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m "Add changes" -a
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
