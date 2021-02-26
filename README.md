@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word: [pleomorphism](https://www.wordnik.com/words/pleomorphism)
+- Random word of the day: [unfoppish](https://www.wordnik.com/words/unfoppish)
 <!--END_SECTION:randomWord-->
 
 <details>
