@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [unfoppish](https://www.wordnik.com/words/unfoppish)
+- Random word of the day: [ambosexual](https://www.wordnik.com/words/ambosexual)
 <!--END_SECTION:randomWord-->
 
 <details>
