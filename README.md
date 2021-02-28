@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [ambosexual](https://www.wordnik.com/words/ambosexual)
+- Random word of the day: [noncounty](https://www.wordnik.com/words/noncounty)
 <!--END_SECTION:randomWord-->
 
 <details>
