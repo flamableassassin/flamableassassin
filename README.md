@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [noncounty](https://www.wordnik.com/words/noncounty)
+- Random word of the day: [sedged](https://www.wordnik.com/words/sedged)
 <!--END_SECTION:randomWord-->
 
 <details>
