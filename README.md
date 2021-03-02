@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [sedged](https://www.wordnik.com/words/sedged)
+- Random word of the day: [luncheons](https://www.wordnik.com/words/luncheons)
 <!--END_SECTION:randomWord-->
 
 <details>
