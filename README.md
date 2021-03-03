@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [luncheons](https://www.wordnik.com/words/luncheons)
+- Random word of the day: [brachypyramid](https://www.wordnik.com/words/brachypyramid)
 <!--END_SECTION:randomWord-->
 
 <details>
