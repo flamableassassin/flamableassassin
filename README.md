@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [ancora](https://www.wordnik.com/words/ancora)
+- Random word of the day: [pulsatance](https://www.wordnik.com/words/pulsatance)
 <!--END_SECTION:randomWord-->
 
 <details>
