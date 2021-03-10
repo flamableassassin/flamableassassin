@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [unrostrated](https://www.wordnik.com/words/unrostrated)
+- Random word of the day: [subnanosecond](https://www.wordnik.com/words/subnanosecond)
 <!--END_SECTION:randomWord-->
 
 <details>
