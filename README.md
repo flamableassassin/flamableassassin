@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [fawkener](https://www.wordnik.com/words/fawkener)
+- Random word of the day: [resubscribed](https://www.wordnik.com/words/resubscribed)
 <!--END_SECTION:randomWord-->
 
 <details>
