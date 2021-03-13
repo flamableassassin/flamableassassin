@@ -29,11 +29,11 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
     <br>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/codedtogether/chip/pull/10) in [codedtogether/chip](https://github.com/codedtogether/chip)
-2. 🎉 Merged PR [#9](https://github.com/codedtogether/chip/pull/9) in [codedtogether/chip](https://github.com/codedtogether/chip)
-3. 💪 Opened PR [#9](https://github.com/codedtogether/chip/pull/9) in [codedtogether/chip](https://github.com/codedtogether/chip)
-4. 💪 Opened PR [#11](https://github.com/project-blurple/blurple-hammer/pull/11) in [project-blurple/blurple-hammer](https://github.com/project-blurple/blurple-hammer)
-5. ❌ Closed PR [#9](https://github.com/flamableassassin/notify/pull/9) in [flamableassassin/notify](https://github.com/flamableassassin/notify)
+1. 🗣 Commented on [#2698](https://github.com/discord/discord-api-docs/issues/2698) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+2. 🗣 Commented on [#2698](https://github.com/discord/discord-api-docs/issues/2698) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+3. 🗣 Commented on [#2698](https://github.com/discord/discord-api-docs/issues/2698) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+4. 🗣 Commented on [#2698](https://github.com/discord/discord-api-docs/issues/2698) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+5. 💪 Opened PR [#1143](https://github.com/abalabahaha/eris/pull/1143) in [abalabahaha/eris](https://github.com/abalabahaha/eris)
   <!--END_SECTION:activity-->
 
 </details>
