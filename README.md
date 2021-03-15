@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [underemphasizes](https://www.wordnik.com/words/underemphasizes)
+- Random word of the day: [conifers](https://www.wordnik.com/words/conifers)
 <!--END_SECTION:randomWord-->
 
 <details>
