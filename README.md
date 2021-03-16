@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [conifers](https://www.wordnik.com/words/conifers)
+- Random word of the day: [flagellative](https://www.wordnik.com/words/flagellative)
 <!--END_SECTION:randomWord-->
 
 <details>
