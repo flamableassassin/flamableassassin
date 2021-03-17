@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [flagellative](https://www.wordnik.com/words/flagellative)
+- Random word of the day: [canonic](https://www.wordnik.com/words/canonic)
 <!--END_SECTION:randomWord-->
 
 <details>
