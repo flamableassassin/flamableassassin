@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [viperish](https://www.wordnik.com/words/viperish)
+- Random word of the day: [nabobish](https://www.wordnik.com/words/nabobish)
 <!--END_SECTION:randomWord-->
 
 <details>
