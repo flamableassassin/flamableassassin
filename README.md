@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [nabobish](https://www.wordnik.com/words/nabobish)
+- Random word of the day: [sandpapers](https://www.wordnik.com/words/sandpapers)
 <!--END_SECTION:randomWord-->
 
 <details>
