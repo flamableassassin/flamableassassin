@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [sandpapers](https://www.wordnik.com/words/sandpapers)
+- Random word of the day: [mauther](https://www.wordnik.com/words/mauther)
 <!--END_SECTION:randomWord-->
 
 <details>
