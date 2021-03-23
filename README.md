@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [gombos](https://www.wordnik.com/words/gombos)
+- Random word of the day: [pockmarking](https://www.wordnik.com/words/pockmarking)
 <!--END_SECTION:randomWord-->
 
 <details>
