@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [pockmarking](https://www.wordnik.com/words/pockmarking)
+- Random word of the day: [rerefief](https://www.wordnik.com/words/rerefief)
 <!--END_SECTION:randomWord-->
 
 <details>
