@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [rerefief](https://www.wordnik.com/words/rerefief)
+- Random word of the day: [noreaster](https://www.wordnik.com/words/noreaster)
 <!--END_SECTION:randomWord-->
 
 <details>
