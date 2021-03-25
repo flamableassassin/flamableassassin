@@ -30,11 +30,11 @@ CSON         3 mins          ▒░░░░░░░░░░░░░░░░
     <br>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2698](https://github.com/discord/discord-api-docs/issues/2698) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-2. 🗣 Commented on [#2698](https://github.com/discord/discord-api-docs/issues/2698) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-3. 🗣 Commented on [#2698](https://github.com/discord/discord-api-docs/issues/2698) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-4. 🗣 Commented on [#2698](https://github.com/discord/discord-api-docs/issues/2698) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-5. 💪 Opened PR [#1143](https://github.com/abalabahaha/eris/pull/1143) in [abalabahaha/eris](https://github.com/abalabahaha/eris)
+1. 🗣 Commented on [#1148](https://github.com/abalabahaha/eris/issues/1148) in [abalabahaha/eris](https://github.com/abalabahaha/eris)
+2. 💪 Opened PR [#1148](https://github.com/abalabahaha/eris/pull/1148) in [abalabahaha/eris](https://github.com/abalabahaha/eris)
+3. ❌ Closed PR [#1143](https://github.com/abalabahaha/eris/pull/1143) in [abalabahaha/eris](https://github.com/abalabahaha/eris)
+4. 🎉 Merged PR [#2](https://github.com/flamableassassin/eris/pull/2) in [flamableassassin/eris](https://github.com/flamableassassin/eris)
+5. 💪 Opened PR [#2](https://github.com/flamableassassin/eris/pull/2) in [flamableassassin/eris](https://github.com/flamableassassin/eris)
   <!--END_SECTION:activity-->
 
 </details>
