@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [noreaster](https://www.wordnik.com/words/noreaster)
+- Random word of the day: [muzzier](https://www.wordnik.com/words/muzzier)
 <!--END_SECTION:randomWord-->
 
 <details>
