@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [muzzier](https://www.wordnik.com/words/muzzier)
+- Random word of the day: [polyandria](https://www.wordnik.com/words/polyandria)
 <!--END_SECTION:randomWord-->
 
 <details>
