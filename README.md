@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [polyandria](https://www.wordnik.com/words/polyandria)
+- Random word of the day: [alleviator](https://www.wordnik.com/words/alleviator)
 <!--END_SECTION:randomWord-->
 
 <details>
