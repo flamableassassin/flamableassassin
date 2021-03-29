@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [alleviator](https://www.wordnik.com/words/alleviator)
+- Random word of the day: [amelioration](https://www.wordnik.com/words/amelioration)
 <!--END_SECTION:randomWord-->
 
 <details>
