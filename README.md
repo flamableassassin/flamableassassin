@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [amelioration](https://www.wordnik.com/words/amelioration)
+- Random word of the day: [connived](https://www.wordnik.com/words/connived)
 <!--END_SECTION:randomWord-->
 
 <details>
