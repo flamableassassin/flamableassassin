@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [connived](https://www.wordnik.com/words/connived)
+- Random word of the day: [cervicolumbar](https://www.wordnik.com/words/cervicolumbar)
 <!--END_SECTION:randomWord-->
 
 <details>
