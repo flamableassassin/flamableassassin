@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cervicolumbar](https://www.wordnik.com/words/cervicolumbar)
+- Random word of the day: [mammilloplasty](https://www.wordnik.com/words/mammilloplasty)
 <!--END_SECTION:randomWord-->
 
 <details>
