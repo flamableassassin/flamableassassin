@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [mammilloplasty](https://www.wordnik.com/words/mammilloplasty)
+- Random word of the day: [durableness](https://www.wordnik.com/words/durableness)
 <!--END_SECTION:randomWord-->
 
 <details>
