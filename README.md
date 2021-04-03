@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [durableness](https://www.wordnik.com/words/durableness)
+- Random word of the day: [pyocele](https://www.wordnik.com/words/pyocele)
 <!--END_SECTION:randomWord-->
 
 <details>
