@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [rebeginner](https://www.wordnik.com/words/rebeginner)
+- Random word of the day: [discountable](https://www.wordnik.com/words/discountable)
 <!--END_SECTION:randomWord-->
 
 <details>
