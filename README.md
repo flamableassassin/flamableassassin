@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [safekeeping](https://www.wordnik.com/words/safekeeping)
+- Random word of the day: [layback](https://www.wordnik.com/words/layback)
 <!--END_SECTION:randomWord-->
 
 <details>
