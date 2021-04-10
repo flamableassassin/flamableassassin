@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [shoddies](https://www.wordnik.com/words/shoddies)
+- Random word of the day: [anodizing](https://www.wordnik.com/words/anodizing)
 <!--END_SECTION:randomWord-->
 
 <details>
