@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [dahoons](https://www.wordnik.com/words/dahoons)
+- Random word of the day: [unextinguished](https://www.wordnik.com/words/unextinguished)
 <!--END_SECTION:randomWord-->
 
 <details>
