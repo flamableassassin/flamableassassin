@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [terrenely](https://www.wordnik.com/words/terrenely)
+- Random word of the day: [fasher](https://www.wordnik.com/words/fasher)
 <!--END_SECTION:randomWord-->
 
 <details>
