@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [fasher](https://www.wordnik.com/words/fasher)
+- Random word of the day: [backcross](https://www.wordnik.com/words/backcross)
 <!--END_SECTION:randomWord-->
 
 <details>
