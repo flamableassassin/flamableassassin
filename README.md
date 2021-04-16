@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [backcross](https://www.wordnik.com/words/backcross)
+- Random word of the day: [browless](https://www.wordnik.com/words/browless)
 <!--END_SECTION:randomWord-->
 
 <details>
