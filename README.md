@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [camerate](https://www.wordnik.com/words/camerate)
+- Random word of the day: [eupatory](https://www.wordnik.com/words/eupatory)
 <!--END_SECTION:randomWord-->
 
 <details>
