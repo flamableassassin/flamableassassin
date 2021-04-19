@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [eupatory](https://www.wordnik.com/words/eupatory)
+- Random word of the day: [pyrotechnic](https://www.wordnik.com/words/pyrotechnic)
 <!--END_SECTION:randomWord-->
 
 <details>
