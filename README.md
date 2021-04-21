@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [charlie](https://www.wordnik.com/words/charlie)
+- Random word of the day: [acousma](https://www.wordnik.com/words/acousma)
 <!--END_SECTION:randomWord-->
 
 <details>
