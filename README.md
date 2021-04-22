@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [acousma](https://www.wordnik.com/words/acousma)
+- Random word of the day: [byname](https://www.wordnik.com/words/byname)
 <!--END_SECTION:randomWord-->
 
 <details>
