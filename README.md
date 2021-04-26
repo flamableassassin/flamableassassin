@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [fuggy](https://www.wordnik.com/words/fuggy)
+- Random word of the day: [gremials](https://www.wordnik.com/words/gremials)
 <!--END_SECTION:randomWord-->
 
 <details>
