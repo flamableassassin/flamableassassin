@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [gremials](https://www.wordnik.com/words/gremials)
+- Random word of the day: [protremata](https://www.wordnik.com/words/protremata)
 <!--END_SECTION:randomWord-->
 
 <details>
