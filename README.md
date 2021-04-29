@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [coals](https://www.wordnik.com/words/coals)
+- Random word of the day: [protuberantly](https://www.wordnik.com/words/protuberantly)
 <!--END_SECTION:randomWord-->
 
 <details>
