@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [protuberantly](https://www.wordnik.com/words/protuberantly)
+- Random word of the day: [abasers](https://www.wordnik.com/words/abasers)
 <!--END_SECTION:randomWord-->
 
 <details>
