@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [abasers](https://www.wordnik.com/words/abasers)
+- Random word of the day: [protocolist](https://www.wordnik.com/words/protocolist)
 <!--END_SECTION:randomWord-->
 
 <details>
