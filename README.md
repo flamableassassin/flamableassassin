@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [surplicewise](https://www.wordnik.com/words/surplicewise)
+- Random word of the day: [hydrophid](https://www.wordnik.com/words/hydrophid)
 <!--END_SECTION:randomWord-->
 
 <details>
