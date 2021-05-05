@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [inked](https://www.wordnik.com/words/inked)
+- Random word of the day: [lumina](https://www.wordnik.com/words/lumina)
 <!--END_SECTION:randomWord-->
 
 <details>
