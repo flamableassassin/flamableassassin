@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [lumina](https://www.wordnik.com/words/lumina)
+- Random word of the day: [naturellement](https://www.wordnik.com/words/naturellement)
 <!--END_SECTION:randomWord-->
 
 <details>
