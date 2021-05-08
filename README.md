@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [grammaticality](https://www.wordnik.com/words/grammaticality)
+- Random word of the day: [expiate](https://www.wordnik.com/words/expiate)
 <!--END_SECTION:randomWord-->
 
 <details>
