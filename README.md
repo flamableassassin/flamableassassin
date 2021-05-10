@@ -13,7 +13,7 @@
 <details>
   <summary><b>Recent Development Activity</b></summary>
     <br>
-
+  Currently broken cause it was using all of my cpu
   <!--START_SECTION:waka-->
 ```text
 JavaScript   20 hrs 44 mins  ███████████████████▒░░░░░   77.96 % 
