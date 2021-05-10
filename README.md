@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [psychanalysist](https://www.wordnik.com/words/psychanalysist)
+- Random word of the day: [ecchondrotome](https://www.wordnik.com/words/ecchondrotome)
 <!--END_SECTION:randomWord-->
 
 <details>
