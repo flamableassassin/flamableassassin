@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [ecchondrotome](https://www.wordnik.com/words/ecchondrotome)
+- Random word of the day: [developability](https://www.wordnik.com/words/developability)
 <!--END_SECTION:randomWord-->
 
 <details>
