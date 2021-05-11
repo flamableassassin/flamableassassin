@@ -16,10 +16,10 @@
   Currently broken cause it was using all of my cpu
   <!--START_SECTION:waka-->
 ```text
-JavaScript   20 hrs 44 mins  ███████████████████▒░░░░░   77.96 % 
-Other        5 hrs 23 mins   █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-unity        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-JSON         10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+JavaScript   15 hrs 5 mins   ██████████████████░░░░░░░   72.30 % 
+Other        5 hrs 23 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.81 % 
+unity        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+JSON         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 ```
 <!--END_SECTION:waka-->
 
