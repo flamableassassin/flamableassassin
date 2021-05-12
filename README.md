@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [developability](https://www.wordnik.com/words/developability)
+- Random word of the day: [involutes](https://www.wordnik.com/words/involutes)
 <!--END_SECTION:randomWord-->
 
 <details>
