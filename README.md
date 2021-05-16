@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [pellitories](https://www.wordnik.com/words/pellitories)
+- Random word of the day: [thermochemical](https://www.wordnik.com/words/thermochemical)
 <!--END_SECTION:randomWord-->
 
 <details>
