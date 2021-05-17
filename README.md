@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [thermochemical](https://www.wordnik.com/words/thermochemical)
+- Random word of the day: [ensnarling](https://www.wordnik.com/words/ensnarling)
 <!--END_SECTION:randomWord-->
 
 <details>
