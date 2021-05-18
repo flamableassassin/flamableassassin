@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [ensnarling](https://www.wordnik.com/words/ensnarling)
+- Random word of the day: [bicylindrical](https://www.wordnik.com/words/bicylindrical)
 <!--END_SECTION:randomWord-->
 
 <details>
