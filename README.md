@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [bicylindrical](https://www.wordnik.com/words/bicylindrical)
+- Random word of the day: [flukiest](https://www.wordnik.com/words/flukiest)
 <!--END_SECTION:randomWord-->
 
 <details>
