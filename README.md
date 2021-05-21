@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [infamed](https://www.wordnik.com/words/infamed)
+- Random word of the day: [fimbrillae](https://www.wordnik.com/words/fimbrillae)
 <!--END_SECTION:randomWord-->
 
 <details>
