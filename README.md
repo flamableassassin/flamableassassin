@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [fimbrillae](https://www.wordnik.com/words/fimbrillae)
+- Random word of the day: [livers](https://www.wordnik.com/words/livers)
 <!--END_SECTION:randomWord-->
 
 <details>
