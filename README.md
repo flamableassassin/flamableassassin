@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [livers](https://www.wordnik.com/words/livers)
+- Random word of the day: [waesome](https://www.wordnik.com/words/waesome)
 <!--END_SECTION:randomWord-->
 
 <details>
