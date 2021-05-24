@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [waesome](https://www.wordnik.com/words/waesome)
+- Random word of the day: [driver](https://www.wordnik.com/words/driver)
 <!--END_SECTION:randomWord-->
 
 <details>
