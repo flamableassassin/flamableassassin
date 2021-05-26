@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [homerooms](https://www.wordnik.com/words/homerooms)
+- Random word of the day: [eldritch](https://www.wordnik.com/words/eldritch)
 <!--END_SECTION:randomWord-->
 
 <details>
