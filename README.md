@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [eldritch](https://www.wordnik.com/words/eldritch)
+- Random word of the day: [genuflexuous](https://www.wordnik.com/words/genuflexuous)
 <!--END_SECTION:randomWord-->
 
 <details>
