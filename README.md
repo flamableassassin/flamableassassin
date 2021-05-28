@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [genuflexuous](https://www.wordnik.com/words/genuflexuous)
+- Random word of the day: [microcultural](https://www.wordnik.com/words/microcultural)
 <!--END_SECTION:randomWord-->
 
 <details>
