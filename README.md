@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [microcultural](https://www.wordnik.com/words/microcultural)
+- Random word of the day: [brawn](https://www.wordnik.com/words/brawn)
 <!--END_SECTION:randomWord-->
 
 <details>
