@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [brawn](https://www.wordnik.com/words/brawn)
+- Random word of the day: [orthagoriscus](https://www.wordnik.com/words/orthagoriscus)
 <!--END_SECTION:randomWord-->
 
 <details>
