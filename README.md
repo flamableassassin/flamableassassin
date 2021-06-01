@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [burdensomeness](https://www.wordnik.com/words/burdensomeness)
+- Random word of the day: [raphides](https://www.wordnik.com/words/raphides)
 <!--END_SECTION:randomWord-->
 
 <details>
