@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [raphides](https://www.wordnik.com/words/raphides)
+- Random word of the day: [regimented](https://www.wordnik.com/words/regimented)
 <!--END_SECTION:randomWord-->
 
 <details>
