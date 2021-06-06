@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [sexist](https://www.wordnik.com/words/sexist)
+- Random word of the day: [plumbums](https://www.wordnik.com/words/plumbums)
 <!--END_SECTION:randomWord-->
 
 <details>
