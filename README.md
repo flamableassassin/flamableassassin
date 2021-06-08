@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [nonpropagative](https://www.wordnik.com/words/nonpropagative)
+- Random word of the day: [multilirate](https://www.wordnik.com/words/multilirate)
 <!--END_SECTION:randomWord-->
 
 <details>
