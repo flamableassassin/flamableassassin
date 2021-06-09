@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [multilirate](https://www.wordnik.com/words/multilirate)
+- Random word of the day: [cuticle](https://www.wordnik.com/words/cuticle)
 <!--END_SECTION:randomWord-->
 
 <details>
