@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [niepa](https://www.wordnik.com/words/niepa)
+- Random word of the day: [lambadi](https://www.wordnik.com/words/lambadi)
 <!--END_SECTION:randomWord-->
 
 <details>
