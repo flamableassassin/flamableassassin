@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [stempost](https://www.wordnik.com/words/stempost)
+- Random word of the day: [autodidact](https://www.wordnik.com/words/autodidact)
 <!--END_SECTION:randomWord-->
 
 <details>
