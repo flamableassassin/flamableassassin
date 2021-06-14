@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [autodidact](https://www.wordnik.com/words/autodidact)
+- Random word of the day: [gelds](https://www.wordnik.com/words/gelds)
 <!--END_SECTION:randomWord-->
 
 <details>
