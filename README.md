@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [gelds](https://www.wordnik.com/words/gelds)
+- Random word of the day: [becluster](https://www.wordnik.com/words/becluster)
 <!--END_SECTION:randomWord-->
 
 <details>
