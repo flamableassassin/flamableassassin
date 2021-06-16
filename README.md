@@ -16,7 +16,7 @@
   Currently broken cause it was using all of my cpu
   <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+
 ```
 <!--END_SECTION:waka-->
 
