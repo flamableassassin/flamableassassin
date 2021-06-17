@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [dogwoods](https://www.wordnik.com/words/dogwoods)
+- Random word of the day: [feculae](https://www.wordnik.com/words/feculae)
 <!--END_SECTION:randomWord-->
 
 <details>
