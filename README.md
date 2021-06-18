@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [feculae](https://www.wordnik.com/words/feculae)
+- Random word of the day: [letterin](https://www.wordnik.com/words/letterin)
 <!--END_SECTION:randomWord-->
 
 <details>
