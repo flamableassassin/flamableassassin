@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [kumshaw](https://www.wordnik.com/words/kumshaw)
+- Random word of the day: [spoilbank](https://www.wordnik.com/words/spoilbank)
 <!--END_SECTION:randomWord-->
 
 <details>
