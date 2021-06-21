@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [spoilbank](https://www.wordnik.com/words/spoilbank)
+- Random word of the day: [licania](https://www.wordnik.com/words/licania)
 <!--END_SECTION:randomWord-->
 
 <details>
