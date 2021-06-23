@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [lemnisci](https://www.wordnik.com/words/lemnisci)
+- Random word of the day: [nematogen](https://www.wordnik.com/words/nematogen)
 <!--END_SECTION:randomWord-->
 
 <details>
