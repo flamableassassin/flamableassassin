@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [nematogen](https://www.wordnik.com/words/nematogen)
+- Random word of the day: [unsuccessfully](https://www.wordnik.com/words/unsuccessfully)
 <!--END_SECTION:randomWord-->
 
 <details>
