@@ -12,7 +12,9 @@
 
 <details>
   <summary><b>Recent Development Activity</b></summary>
-    <br>  <!--START_SECTION:waka-->
+    <br> 
+  
+  <!--START_SECTION:waka-->
 ```text
 JSON         4 hrs 4 mins    ███████████████████▓░░░░░   78.02 % 
 JavaScript   1 hr 8 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.79 % 
