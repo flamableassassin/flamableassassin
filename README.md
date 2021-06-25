@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [unsuccessfully](https://www.wordnik.com/words/unsuccessfully)
+- Random word of the day: [clypeastroida](https://www.wordnik.com/words/clypeastroida)
 <!--END_SECTION:randomWord-->
 
 <details>
