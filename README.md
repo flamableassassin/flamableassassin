@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [nonjuries](https://www.wordnik.com/words/nonjuries)
+- Random word of the day: [lunches](https://www.wordnik.com/words/lunches)
 <!--END_SECTION:randomWord-->
 
 <details>
