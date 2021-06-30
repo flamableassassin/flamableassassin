@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [csnet](https://www.wordnik.com/words/csnet)
+- Random word of the day: [mendelssohn](https://www.wordnik.com/words/mendelssohn)
 <!--END_SECTION:randomWord-->
 
 <details>
