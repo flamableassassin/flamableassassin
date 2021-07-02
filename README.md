@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [basan](https://www.wordnik.com/words/basan)
+- Random word of the day: [zeuctocoelomata](https://www.wordnik.com/words/zeuctocoelomata)
 <!--END_SECTION:randomWord-->
 
 <details>
