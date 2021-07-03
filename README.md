@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [zeuctocoelomata](https://www.wordnik.com/words/zeuctocoelomata)
+- Random word of the day: [readapts](https://www.wordnik.com/words/readapts)
 <!--END_SECTION:randomWord-->
 
 <details>
