@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [nonregulation](https://www.wordnik.com/words/nonregulation)
+- Random word of the day: [unperplexed](https://www.wordnik.com/words/unperplexed)
 <!--END_SECTION:randomWord-->
 
 <details>
