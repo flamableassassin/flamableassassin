@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [unperplexed](https://www.wordnik.com/words/unperplexed)
+- Random word of the day: [cocoa](https://www.wordnik.com/words/cocoa)
 <!--END_SECTION:randomWord-->
 
 <details>
