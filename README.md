@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cocoa](https://www.wordnik.com/words/cocoa)
+- Random word of the day: [shafts](https://www.wordnik.com/words/shafts)
 <!--END_SECTION:randomWord-->
 
 <details>
