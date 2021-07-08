@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [shafts](https://www.wordnik.com/words/shafts)
+- Random word of the day: [tangentally](https://www.wordnik.com/words/tangentally)
 <!--END_SECTION:randomWord-->
 
 <details>
