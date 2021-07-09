@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [tangentally](https://www.wordnik.com/words/tangentally)
+- Random word of the day: [cerionidae](https://www.wordnik.com/words/cerionidae)
 <!--END_SECTION:randomWord-->
 
 <details>
