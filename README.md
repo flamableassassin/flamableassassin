@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cerionidae](https://www.wordnik.com/words/cerionidae)
+- Random word of the day: [harbour](https://www.wordnik.com/words/harbour)
 <!--END_SECTION:randomWord-->
 
 <details>
