@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [harbour](https://www.wordnik.com/words/harbour)
+- Random word of the day: [gemutlichkeit](https://www.wordnik.com/words/gemutlichkeit)
 <!--END_SECTION:randomWord-->
 
 <details>
