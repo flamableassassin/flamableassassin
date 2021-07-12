@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [gemutlichkeit](https://www.wordnik.com/words/gemutlichkeit)
+- Random word of the day: [summons](https://www.wordnik.com/words/summons)
 <!--END_SECTION:randomWord-->
 
 <details>
