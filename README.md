@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [solvolytic](https://www.wordnik.com/words/solvolytic)
+- Random word of the day: [nonrectified](https://www.wordnik.com/words/nonrectified)
 <!--END_SECTION:randomWord-->
 
 <details>
