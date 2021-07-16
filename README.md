@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [nonrectified](https://www.wordnik.com/words/nonrectified)
+- Random word of the day: [sopranist](https://www.wordnik.com/words/sopranist)
 <!--END_SECTION:randomWord-->
 
 <details>
