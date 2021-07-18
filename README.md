@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [prereduction](https://www.wordnik.com/words/prereduction)
+- Random word of the day: [lotophagously](https://www.wordnik.com/words/lotophagously)
 <!--END_SECTION:randomWord-->
 
 <details>
