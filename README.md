@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [hyperpyramid](https://www.wordnik.com/words/hyperpyramid)
+- Random word of the day: [oculopalpebral](https://www.wordnik.com/words/oculopalpebral)
 <!--END_SECTION:randomWord-->
 
 <details>
