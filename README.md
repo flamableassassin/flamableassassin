@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [oculopalpebral](https://www.wordnik.com/words/oculopalpebral)
+- Random word of the day: [dolcian](https://www.wordnik.com/words/dolcian)
 <!--END_SECTION:randomWord-->
 
 <details>
