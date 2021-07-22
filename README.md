@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [dolcian](https://www.wordnik.com/words/dolcian)
+- Random word of the day: [cypriniform](https://www.wordnik.com/words/cypriniform)
 <!--END_SECTION:randomWord-->
 
 <details>
