@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cypriniform](https://www.wordnik.com/words/cypriniform)
+- Random word of the day: [spindlier](https://www.wordnik.com/words/spindlier)
 <!--END_SECTION:randomWord-->
 
 <details>
