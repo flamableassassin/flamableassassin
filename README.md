@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [spindlier](https://www.wordnik.com/words/spindlier)
+- Random word of the day: [cricothyroid](https://www.wordnik.com/words/cricothyroid)
 <!--END_SECTION:randomWord-->
 
 <details>
