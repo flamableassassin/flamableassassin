@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cricothyroid](https://www.wordnik.com/words/cricothyroid)
+- Random word of the day: [amaroid](https://www.wordnik.com/words/amaroid)
 <!--END_SECTION:randomWord-->
 
 <details>
