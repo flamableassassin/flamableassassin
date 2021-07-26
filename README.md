@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [amaroid](https://www.wordnik.com/words/amaroid)
+- Random word of the day: [jeerers](https://www.wordnik.com/words/jeerers)
 <!--END_SECTION:randomWord-->
 
 <details>
