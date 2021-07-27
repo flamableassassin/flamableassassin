@@ -16,9 +16,9 @@
   
   <!--START_SECTION:waka-->
 ```text
-JavaScript   2 hrs 29 mins   ██████████████████▓░░░░░░   75.06 % 
-CSV          42 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.53 % 
-Git Config   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+JavaScript   1 hr 56 mins    ██████████████████▓░░░░░░   74.08 % 
+Docker       28 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.07 % 
+Other        10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
 ```
 <!--END_SECTION:waka-->
 
