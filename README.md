@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [couchers](https://www.wordnik.com/words/couchers)
+- Random word of the day: [varna](https://www.wordnik.com/words/varna)
 <!--END_SECTION:randomWord-->
 
 <details>
