@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [varna](https://www.wordnik.com/words/varna)
+- Random word of the day: [tribuneship](https://www.wordnik.com/words/tribuneship)
 <!--END_SECTION:randomWord-->
 
 <details>
