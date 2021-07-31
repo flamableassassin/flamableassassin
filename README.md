@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [noncongruously](https://www.wordnik.com/words/noncongruously)
+- Random word of the day: [kineses](https://www.wordnik.com/words/kineses)
 <!--END_SECTION:randomWord-->
 
 <details>
