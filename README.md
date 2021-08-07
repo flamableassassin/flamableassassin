@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [parlaying](https://www.wordnik.com/words/parlaying)
+- Random word of the day: [unspasmodically](https://www.wordnik.com/words/unspasmodically)
 <!--END_SECTION:randomWord-->
 
 <details>
