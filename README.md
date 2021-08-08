@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [unspasmodically](https://www.wordnik.com/words/unspasmodically)
+- Random word of the day: [emballonurine](https://www.wordnik.com/words/emballonurine)
 <!--END_SECTION:randomWord-->
 
 <details>
