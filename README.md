@@ -16,8 +16,7 @@
   
   <!--START_SECTION:waka-->
 ```text
-JavaScript   5 mins          ███████████████████▓░░░░░   78.05 % 
-Git          1 min           █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
+
 ```
 <!--END_SECTION:waka-->
 
