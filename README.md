@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [emballonurine](https://www.wordnik.com/words/emballonurine)
+- Random word of the day: [quintadene](https://www.wordnik.com/words/quintadene)
 <!--END_SECTION:randomWord-->
 
 <details>
