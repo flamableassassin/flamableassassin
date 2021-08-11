@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [boardinghouses](https://www.wordnik.com/words/boardinghouses)
+- Random word of the day: [imbathe](https://www.wordnik.com/words/imbathe)
 <!--END_SECTION:randomWord-->
 
 <details>
