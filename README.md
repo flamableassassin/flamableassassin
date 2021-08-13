@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [guises](https://www.wordnik.com/words/guises)
+- Random word of the day: [unsnubbable](https://www.wordnik.com/words/unsnubbable)
 <!--END_SECTION:randomWord-->
 
 <details>
