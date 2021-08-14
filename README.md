@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [unsnubbable](https://www.wordnik.com/words/unsnubbable)
+- Random word of the day: [teschenite](https://www.wordnik.com/words/teschenite)
 <!--END_SECTION:randomWord-->
 
 <details>
