@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [teschenite](https://www.wordnik.com/words/teschenite)
+- Random word of the day: [antisynod](https://www.wordnik.com/words/antisynod)
 <!--END_SECTION:randomWord-->
 
 <details>
