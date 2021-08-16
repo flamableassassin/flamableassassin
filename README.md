@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [antisynod](https://www.wordnik.com/words/antisynod)
+- Random word of the day: [breenge](https://www.wordnik.com/words/breenge)
 <!--END_SECTION:randomWord-->
 
 <details>
