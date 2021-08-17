@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [breenge](https://www.wordnik.com/words/breenge)
+- Random word of the day: [biotically](https://www.wordnik.com/words/biotically)
 <!--END_SECTION:randomWord-->
 
 <details>
