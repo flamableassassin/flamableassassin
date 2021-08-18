@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [biotically](https://www.wordnik.com/words/biotically)
+- Random word of the day: [tellable](https://www.wordnik.com/words/tellable)
 <!--END_SECTION:randomWord-->
 
 <details>
