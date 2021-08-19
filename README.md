@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [tellable](https://www.wordnik.com/words/tellable)
+- Random word of the day: [overbashful](https://www.wordnik.com/words/overbashful)
 <!--END_SECTION:randomWord-->
 
 <details>
