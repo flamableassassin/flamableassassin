@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [pinnulate](https://www.wordnik.com/words/pinnulate)
+- Random word of the day: [keratophyr](https://www.wordnik.com/words/keratophyr)
 <!--END_SECTION:randomWord-->
 
 <details>
