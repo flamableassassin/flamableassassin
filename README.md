@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cowlstaff](https://www.wordnik.com/words/cowlstaff)
+- Random word of the day: [fewnesses](https://www.wordnik.com/words/fewnesses)
 <!--END_SECTION:randomWord-->
 
 <details>
