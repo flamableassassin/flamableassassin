@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [fewnesses](https://www.wordnik.com/words/fewnesses)
+- Random word of the day: [psammocharid](https://www.wordnik.com/words/psammocharid)
 <!--END_SECTION:randomWord-->
 
 <details>
