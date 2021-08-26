@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [psammocharid](https://www.wordnik.com/words/psammocharid)
+- Random word of the day: [integripallial](https://www.wordnik.com/words/integripallial)
 <!--END_SECTION:randomWord-->
 
 <details>
