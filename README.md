@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [integripallial](https://www.wordnik.com/words/integripallial)
+- Random word of the day: [infidelism](https://www.wordnik.com/words/infidelism)
 <!--END_SECTION:randomWord-->
 
 <details>
