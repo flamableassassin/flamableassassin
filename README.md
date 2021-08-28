@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [infidelism](https://www.wordnik.com/words/infidelism)
+- Random word of the day: [supraloral](https://www.wordnik.com/words/supraloral)
 <!--END_SECTION:randomWord-->
 
 <details>
