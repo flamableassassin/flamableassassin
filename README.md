@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [ciliferous](https://www.wordnik.com/words/ciliferous)
+- Random word of the day: [acescent](https://www.wordnik.com/words/acescent)
 <!--END_SECTION:randomWord-->
 
 <details>
