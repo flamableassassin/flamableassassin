@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [acescent](https://www.wordnik.com/words/acescent)
+- Random word of the day: [texan](https://www.wordnik.com/words/texan)
 <!--END_SECTION:randomWord-->
 
 <details>
