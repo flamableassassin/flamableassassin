@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [santali](https://www.wordnik.com/words/santali)
+- Random word of the day: [actions](https://www.wordnik.com/words/actions)
 <!--END_SECTION:randomWord-->
 
 <details>
