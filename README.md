@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [actions](https://www.wordnik.com/words/actions)
+- Random word of the day: [demisemiquaver](https://www.wordnik.com/words/demisemiquaver)
 <!--END_SECTION:randomWord-->
 
 <details>
