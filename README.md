@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [pushers](https://www.wordnik.com/words/pushers)
+- Random word of the day: [denicotinize](https://www.wordnik.com/words/denicotinize)
 <!--END_SECTION:randomWord-->
 
 <details>
