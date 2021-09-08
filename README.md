@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [denicotinize](https://www.wordnik.com/words/denicotinize)
+- Random word of the day: [drybeard](https://www.wordnik.com/words/drybeard)
 <!--END_SECTION:randomWord-->
 
 <details>
