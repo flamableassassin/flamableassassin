@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [drybeard](https://www.wordnik.com/words/drybeard)
+- Random word of the day: [hemerocallis](https://www.wordnik.com/words/hemerocallis)
 <!--END_SECTION:randomWord-->
 
 <details>
