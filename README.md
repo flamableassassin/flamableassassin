@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [hemerocallis](https://www.wordnik.com/words/hemerocallis)
+- Random word of the day: [tabes](https://www.wordnik.com/words/tabes)
 <!--END_SECTION:randomWord-->
 
 <details>
