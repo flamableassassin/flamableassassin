@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [tabes](https://www.wordnik.com/words/tabes)
+- Random word of the day: [carburizing](https://www.wordnik.com/words/carburizing)
 <!--END_SECTION:randomWord-->
 
 <details>
