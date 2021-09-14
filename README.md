@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [saprogenicity](https://www.wordnik.com/words/saprogenicity)
+- Random word of the day: [ignote](https://www.wordnik.com/words/ignote)
 <!--END_SECTION:randomWord-->
 
 <details>
