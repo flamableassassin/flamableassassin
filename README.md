@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [bepaste](https://www.wordnik.com/words/bepaste)
+- Random word of the day: [distributorship](https://www.wordnik.com/words/distributorship)
 <!--END_SECTION:randomWord-->
 
 <details>
