@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [vicarial](https://www.wordnik.com/words/vicarial)
+- Random word of the day: [dictyopteris](https://www.wordnik.com/words/dictyopteris)
 <!--END_SECTION:randomWord-->
 
 <details>
