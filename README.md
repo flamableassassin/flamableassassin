@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [dictyopteris](https://www.wordnik.com/words/dictyopteris)
+- Random word of the day: [indemnitor](https://www.wordnik.com/words/indemnitor)
 <!--END_SECTION:randomWord-->
 
 <details>
