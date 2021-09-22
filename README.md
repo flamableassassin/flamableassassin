@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [hi I currently have 349174 words stored!](https://www.wordnik.com/words/hi I currently have 349174 words stored!)
+- Random word of the day: [strawfork](https://www.wordnik.com/words/strawfork)
 <!--END_SECTION:randomWord-->
 
 <details>
