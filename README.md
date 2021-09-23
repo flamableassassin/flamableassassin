@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [strawfork](https://www.wordnik.com/words/strawfork)
+- Random word of the day: [charismatic](https://www.wordnik.com/words/charismatic)
 <!--END_SECTION:randomWord-->
 
 <details>
