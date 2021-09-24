@@ -17,7 +17,8 @@
   
   <!--START_SECTION:waka-->
 ```text
-Nginx configuration file   1 hr 31 mins    ████████████████████████▓   99.03 % 
+Other        27 mins         ███████████████████████░░   92.45 % 
+JSON         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 ```
 <!--END_SECTION:waka-->
 
