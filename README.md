@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [redistributory](https://www.wordnik.com/words/redistributory)
+- Random word of the day: [reflexivity](https://www.wordnik.com/words/reflexivity)
 <!--END_SECTION:randomWord-->
 
 <details>
