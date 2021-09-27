@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [upconjure](https://www.wordnik.com/words/upconjure)
+- Random word of the day: [carroon](https://www.wordnik.com/words/carroon)
 <!--END_SECTION:randomWord-->
 
 <details>
