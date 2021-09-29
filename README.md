@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [beluga](https://www.wordnik.com/words/beluga)
+- Random word of the day: [hilloing](https://www.wordnik.com/words/hilloing)
 <!--END_SECTION:randomWord-->
 
 <details>
