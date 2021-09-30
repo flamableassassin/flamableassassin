@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [hilloing](https://www.wordnik.com/words/hilloing)
+- Random word of the day: [spieler](https://www.wordnik.com/words/spieler)
 <!--END_SECTION:randomWord-->
 
 <details>
