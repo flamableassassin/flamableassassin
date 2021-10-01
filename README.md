@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [spieler](https://www.wordnik.com/words/spieler)
+- Random word of the day: [pristodus](https://www.wordnik.com/words/pristodus)
 <!--END_SECTION:randomWord-->
 
 <details>
