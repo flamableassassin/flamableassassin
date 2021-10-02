@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [pristodus](https://www.wordnik.com/words/pristodus)
+- Random word of the day: [bribee](https://www.wordnik.com/words/bribee)
 <!--END_SECTION:randomWord-->
 
 <details>
