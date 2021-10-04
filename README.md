@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [clackama](https://www.wordnik.com/words/clackama)
+- Random word of the day: [chaukidari](https://www.wordnik.com/words/chaukidari)
 <!--END_SECTION:randomWord-->
 
 <details>
