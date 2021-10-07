@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [subinfection](https://www.wordnik.com/words/subinfection)
+- Random word of the day: [esthesia](https://www.wordnik.com/words/esthesia)
 <!--END_SECTION:randomWord-->
 
 <details>
