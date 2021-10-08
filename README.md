@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [esthesia](https://www.wordnik.com/words/esthesia)
+- Random word of the day: [habilimented](https://www.wordnik.com/words/habilimented)
 <!--END_SECTION:randomWord-->
 
 <details>
