@@ -17,7 +17,9 @@
   
   <!--START_SECTION:waka-->
 ```text
-
+XML          1 hr 52 mins    ███████████████████▓░░░░░   78.61 % 
+JavaScript   28 mins         █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 ```
 <!--END_SECTION:waka-->
 
