@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [nutwoods](https://www.wordnik.com/words/nutwoods)
+- Random word of the day: [isothermobath](https://www.wordnik.com/words/isothermobath)
 <!--END_SECTION:randomWord-->
 
 <details>
