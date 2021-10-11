@@ -48,4 +48,14 @@ Other        2 mins          ▒░░░░░░░░░░░░░░░░
       <img width="48%" src="https://github-readme-stats.vercel.app/api?username=flamableassassin&count_private=true&show_icons=true&theme=radical"/>
       <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=flamableassassin&theme=neon-dark"/>
     </p>
+  
+</details>
+
+<details>
+  <summary><b>Other Stuff</b></summary>
+  <br>
+<a href="https://www.abuseipdb.com/user/67633" title="AbuseIPDB" alt="AbuseIPDB Contributor Badge">
+	<img src="https://www.abuseipdb.com/contributor/67633.svg" style="width: 180px;">
+</a>
+  
 </details>
