@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [diazomethane](https://www.wordnik.com/words/diazomethane)
+- Random word of the day: [ahrendahronon](https://www.wordnik.com/words/ahrendahronon)
 <!--END_SECTION:randomWord-->
 
 <details>
