@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [riptides](https://www.wordnik.com/words/riptides)
+- Random word of the day: [settleability](https://www.wordnik.com/words/settleability)
 <!--END_SECTION:randomWord-->
 
 <details>
