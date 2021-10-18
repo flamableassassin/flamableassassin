@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [kneadable](https://www.wordnik.com/words/kneadable)
+- Random word of the day: [reillustrate](https://www.wordnik.com/words/reillustrate)
 <!--END_SECTION:randomWord-->
 
 <details>
