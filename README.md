@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [reillustrate](https://www.wordnik.com/words/reillustrate)
+- Random word of the day: [urethrograph](https://www.wordnik.com/words/urethrograph)
 <!--END_SECTION:randomWord-->
 
 <details>
