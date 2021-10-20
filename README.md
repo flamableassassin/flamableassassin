@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [urethrograph](https://www.wordnik.com/words/urethrograph)
+- Random word of the day: [adsorbing](https://www.wordnik.com/words/adsorbing)
 <!--END_SECTION:randomWord-->
 
 <details>
