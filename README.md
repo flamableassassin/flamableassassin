@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [adsorbing](https://www.wordnik.com/words/adsorbing)
+- Random word of the day: [noncurling](https://www.wordnik.com/words/noncurling)
 <!--END_SECTION:randomWord-->
 
 <details>
