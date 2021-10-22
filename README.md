@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [noncurling](https://www.wordnik.com/words/noncurling)
+- Random word of the day: [bronchotetany](https://www.wordnik.com/words/bronchotetany)
 <!--END_SECTION:randomWord-->
 
 <details>
