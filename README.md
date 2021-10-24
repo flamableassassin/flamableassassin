@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [fervidor](https://www.wordnik.com/words/fervidor)
+- Random word of the day: [lithoglyph](https://www.wordnik.com/words/lithoglyph)
 <!--END_SECTION:randomWord-->
 
 <details>
