@@ -29,7 +29,7 @@ HTML         48 mins         █████████░░░░░░░░
     <br>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Flagmaker-Print/fastify-secure-session/pull/1) in [Flagmaker-Print/fastify-secure-session](https://github.com/Flagmaker-Print/fastify-secure-session)
+1. ❗️ Opened issue [#1](https://github.com/flamableassassin/mycelium/issues/1) in [flamableassassin/mycelium](https://github.com/flamableassassin/mycelium)
 2. 💪 Opened PR [#1](https://github.com/Flagmaker-Print/fastify-secure-session/pull/1) in [Flagmaker-Print/fastify-secure-session](https://github.com/Flagmaker-Print/fastify-secure-session)
 3. 🗣 Commented on [#21](https://github.com/project-blurple/blurple-hammer/issues/21) in [project-blurple/blurple-hammer](https://github.com/project-blurple/blurple-hammer)
 4. ❗️ Reopened issue [#2698](https://github.com/discord/discord-api-docs/issues/2698) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
