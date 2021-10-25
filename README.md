@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [lithoglyph](https://www.wordnik.com/words/lithoglyph)
+- Random word of the day: [vestimentary](https://www.wordnik.com/words/vestimentary)
 <!--END_SECTION:randomWord-->
 
 <details>
