@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [vestimentary](https://www.wordnik.com/words/vestimentary)
+- Random word of the day: [prodromus](https://www.wordnik.com/words/prodromus)
 <!--END_SECTION:randomWord-->
 
 <details>
