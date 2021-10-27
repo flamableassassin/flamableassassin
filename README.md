@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [prodromus](https://www.wordnik.com/words/prodromus)
+- Random word of the day: [carbolic](https://www.wordnik.com/words/carbolic)
 <!--END_SECTION:randomWord-->
 
 <details>
