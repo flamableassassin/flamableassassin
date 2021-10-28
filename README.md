@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [carbolic](https://www.wordnik.com/words/carbolic)
+- Random word of the day: [inearthing](https://www.wordnik.com/words/inearthing)
 <!--END_SECTION:randomWord-->
 
 <details>
