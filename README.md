@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [aftermarket](https://www.wordnik.com/words/aftermarket)
+- Random word of the day: [attended](https://www.wordnik.com/words/attended)
 <!--END_SECTION:randomWord-->
 
 <details>
