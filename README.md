@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [citrins](https://www.wordnik.com/words/citrins)
+- Random word of the day: [awrist](https://www.wordnik.com/words/awrist)
 <!--END_SECTION:randomWord-->
 
 <details>
