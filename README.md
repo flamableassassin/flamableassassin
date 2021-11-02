@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [awrist](https://www.wordnik.com/words/awrist)
+- Random word of the day: [flail](https://www.wordnik.com/words/flail)
 <!--END_SECTION:randomWord-->
 
 <details>
