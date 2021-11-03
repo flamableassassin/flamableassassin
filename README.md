@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [flail](https://www.wordnik.com/words/flail)
+- Random word of the day: [cremation](https://www.wordnik.com/words/cremation)
 <!--END_SECTION:randomWord-->
 
 <details>
