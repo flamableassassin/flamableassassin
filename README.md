@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cremation](https://www.wordnik.com/words/cremation)
+- Random word of the day: [spendful](https://www.wordnik.com/words/spendful)
 <!--END_SECTION:randomWord-->
 
 <details>
