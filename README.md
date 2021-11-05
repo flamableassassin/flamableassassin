@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [spendful](https://www.wordnik.com/words/spendful)
+- Random word of the day: [tarentine](https://www.wordnik.com/words/tarentine)
 <!--END_SECTION:randomWord-->
 
 <details>
