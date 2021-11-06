@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [tarentine](https://www.wordnik.com/words/tarentine)
+- Random word of the day: [aspergillaceae](https://www.wordnik.com/words/aspergillaceae)
 <!--END_SECTION:randomWord-->
 
 <details>
