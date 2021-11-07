@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [aspergillaceae](https://www.wordnik.com/words/aspergillaceae)
+- Random word of the day: [tetrodon](https://www.wordnik.com/words/tetrodon)
 <!--END_SECTION:randomWord-->
 
 <details>
