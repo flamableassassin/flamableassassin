@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [tetrodon](https://www.wordnik.com/words/tetrodon)
+- Random word of the day: [bloomed](https://www.wordnik.com/words/bloomed)
 <!--END_SECTION:randomWord-->
 
 <details>
