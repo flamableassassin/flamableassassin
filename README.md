@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [antidiuretic](https://www.wordnik.com/words/antidiuretic)
+- Random word of the day: [delph](https://www.wordnik.com/words/delph)
 <!--END_SECTION:randomWord-->
 
 <details>
