@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [reabsorbs](https://www.wordnik.com/words/reabsorbs)
+- Random word of the day: [cherubim](https://www.wordnik.com/words/cherubim)
 <!--END_SECTION:randomWord-->
 
 <details>
