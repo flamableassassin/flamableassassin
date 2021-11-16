@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [misnarrate](https://www.wordnik.com/words/misnarrate)
+- Random word of the day: [mutoscope](https://www.wordnik.com/words/mutoscope)
 <!--END_SECTION:randomWord-->
 
 <details>
