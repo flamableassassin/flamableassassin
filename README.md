@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [volvocaceous](https://www.wordnik.com/words/volvocaceous)
+- Random word of the day: [reselects](https://www.wordnik.com/words/reselects)
 <!--END_SECTION:randomWord-->
 
 <details>
