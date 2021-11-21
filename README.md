@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [crippledom](https://www.wordnik.com/words/crippledom)
+- Random word of the day: [kokoon](https://www.wordnik.com/words/kokoon)
 <!--END_SECTION:randomWord-->
 
 <details>
