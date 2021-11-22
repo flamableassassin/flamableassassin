@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [kokoon](https://www.wordnik.com/words/kokoon)
+- Random word of the day: [irrelatively](https://www.wordnik.com/words/irrelatively)
 <!--END_SECTION:randomWord-->
 
 <details>
