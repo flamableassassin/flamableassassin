@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [irrelatively](https://www.wordnik.com/words/irrelatively)
+- Random word of the day: [infirmarer](https://www.wordnik.com/words/infirmarer)
 <!--END_SECTION:randomWord-->
 
 <details>
