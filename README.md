@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [infirmarer](https://www.wordnik.com/words/infirmarer)
+- Random word of the day: [latinate](https://www.wordnik.com/words/latinate)
 <!--END_SECTION:randomWord-->
 
 <details>
