@@ -17,8 +17,7 @@
   
   <!--START_SECTION:waka-->
 ```text
-XML          2 hrs 32 mins   ████████████████████████▓   98.57 % 
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
