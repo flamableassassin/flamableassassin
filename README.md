@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [latinate](https://www.wordnik.com/words/latinate)
+- Random word of the day: [inkwriter](https://www.wordnik.com/words/inkwriter)
 <!--END_SECTION:randomWord-->
 
 <details>
