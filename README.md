@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [neighbourless](https://www.wordnik.com/words/neighbourless)
+- Random word of the day: [noncolonial](https://www.wordnik.com/words/noncolonial)
 <!--END_SECTION:randomWord-->
 
 <details>
