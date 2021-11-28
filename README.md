@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [noncolonial](https://www.wordnik.com/words/noncolonial)
+- Random word of the day: [cephalopathy](https://www.wordnik.com/words/cephalopathy)
 <!--END_SECTION:randomWord-->
 
 <details>
