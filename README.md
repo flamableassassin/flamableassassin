@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cephalopathy](https://www.wordnik.com/words/cephalopathy)
+- Random word of the day: [dipus](https://www.wordnik.com/words/dipus)
 <!--END_SECTION:randomWord-->
 
 <details>
