@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [dipus](https://www.wordnik.com/words/dipus)
+- Random word of the day: [dunness](https://www.wordnik.com/words/dunness)
 <!--END_SECTION:randomWord-->
 
 <details>
