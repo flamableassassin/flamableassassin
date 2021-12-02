@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [lewnite](https://www.wordnik.com/words/lewnite)
+- Random word of the day: [bucktail](https://www.wordnik.com/words/bucktail)
 <!--END_SECTION:randomWord-->
 
 <details>
