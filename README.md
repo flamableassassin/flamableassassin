@@ -28,11 +28,11 @@ YAML                       22 mins         ████████████�
     <br>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/flamableassassin/mycelium/issues/1) in [flamableassassin/mycelium](https://github.com/flamableassassin/mycelium)
-2. 💪 Opened PR [#1](https://github.com/Flagmaker-Print/fastify-secure-session/pull/1) in [Flagmaker-Print/fastify-secure-session](https://github.com/Flagmaker-Print/fastify-secure-session)
-3. 🗣 Commented on [#21](https://github.com/project-blurple/blurple-hammer/issues/21) in [project-blurple/blurple-hammer](https://github.com/project-blurple/blurple-hammer)
-4. ❗️ Reopened issue [#2698](https://github.com/discord/discord-api-docs/issues/2698) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-5. ❗️ Closed issue [#2698](https://github.com/discord/discord-api-docs/issues/2698) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+1. ❗️ Closed issue [#2](https://github.com/flamableassassin/status/issues/2) in [flamableassassin/status](https://github.com/flamableassassin/status)
+2. 🗣 Commented on [#2](https://github.com/flamableassassin/status/issues/2) in [flamableassassin/status](https://github.com/flamableassassin/status)
+3. ❗️ Closed issue [#1](https://github.com/flamableassassin/status/issues/1) in [flamableassassin/status](https://github.com/flamableassassin/status)
+4. 🗣 Commented on [#1](https://github.com/flamableassassin/status/issues/1) in [flamableassassin/status](https://github.com/flamableassassin/status)
+5. ❗️ Opened issue [#2](https://github.com/flamableassassin/status/issues/2) in [flamableassassin/status](https://github.com/flamableassassin/status)
   <!--END_SECTION:activity-->
 
 </details>
