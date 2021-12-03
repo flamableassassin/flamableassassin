@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [bucktail](https://www.wordnik.com/words/bucktail)
+- Random word of the day: [imperent](https://www.wordnik.com/words/imperent)
 <!--END_SECTION:randomWord-->
 
 <details>
