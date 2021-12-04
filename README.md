@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [imperent](https://www.wordnik.com/words/imperent)
+- Random word of the day: [antalgol](https://www.wordnik.com/words/antalgol)
 <!--END_SECTION:randomWord-->
 
 <details>
