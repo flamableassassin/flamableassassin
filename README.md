@@ -17,10 +17,10 @@
   
   <!--START_SECTION:waka-->
 ```text
-JavaScript                 3 hrs 3 mins    ████████████████████▓░░░░   83.11 % 
-YAML                       22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-Text                       13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Nginx configuration file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+JavaScript                 3 hrs 28 mins   █████████████████████▓░░░   86.77 % 
+Text                       17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+YAML                       13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Nginx configuration file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 ```
 <!--END_SECTION:waka-->
 
