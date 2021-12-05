@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [antalgol](https://www.wordnik.com/words/antalgol)
+- Random word of the day: [skleropelite](https://www.wordnik.com/words/skleropelite)
 <!--END_SECTION:randomWord-->
 
 <details>
