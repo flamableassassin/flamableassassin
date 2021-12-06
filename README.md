@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [skleropelite](https://www.wordnik.com/words/skleropelite)
+- Random word of the day: [saleratus](https://www.wordnik.com/words/saleratus)
 <!--END_SECTION:randomWord-->
 
 <details>
