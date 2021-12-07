@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [saleratus](https://www.wordnik.com/words/saleratus)
+- Random word of the day: [seambiter](https://www.wordnik.com/words/seambiter)
 <!--END_SECTION:randomWord-->
 
 <details>
