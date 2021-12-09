@@ -17,9 +17,8 @@
   
   <!--START_SECTION:waka-->
 ```text
-JavaScript                 4 hrs 13 mins   ██████████████████████░░░   88.58 % 
-Text                       31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Nginx configuration file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+JavaScript   3 hrs 14 mins   ██████████████████████▓░░   90.37 % 
+Text         20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
 ```
 <!--END_SECTION:waka-->
 
