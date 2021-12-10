@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [sourpussed](https://www.wordnik.com/words/sourpussed)
+- Random word of the day: [astasias](https://www.wordnik.com/words/astasias)
 <!--END_SECTION:randomWord-->
 
 <details>
