@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [astasias](https://www.wordnik.com/words/astasias)
+- Random word of the day: [gestate](https://www.wordnik.com/words/gestate)
 <!--END_SECTION:randomWord-->
 
 <details>
