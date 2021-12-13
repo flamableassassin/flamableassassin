@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [tammies](https://www.wordnik.com/words/tammies)
+- Random word of the day: [lustrine](https://www.wordnik.com/words/lustrine)
 <!--END_SECTION:randomWord-->
 
 <details>
