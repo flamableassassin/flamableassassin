@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [lustrine](https://www.wordnik.com/words/lustrine)
+- Random word of the day: [ammines](https://www.wordnik.com/words/ammines)
 <!--END_SECTION:randomWord-->
 
 <details>
