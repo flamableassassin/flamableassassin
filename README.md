@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [ammines](https://www.wordnik.com/words/ammines)
+- Random word of the day: [oxphony](https://www.wordnik.com/words/oxphony)
 <!--END_SECTION:randomWord-->
 
 <details>
