@@ -1,6 +1,6 @@
 ## Hey I'm flammableassassin
 
-- 🔭 I’m currently working on a backend rewrite for [Flagmaker-print.com](https://flagmaker-print.com)
+- 🔭 I’m currently working on [Flagmaker-print.com](https://flagmaker-print.com)
 - 🌱  Currently looking for a job as a software developer
 - 📫 How to reach me: [lighter@highlyflammable.tech](mailto:lighter@highlyflammable.tech?subject=Hello)
 - <img src="https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png" alt="drawing" width="25"/>: `♛ ᖴᒪᗩᙏᙏᗩᙖᒪᙓᗩSSᗩSSIᑎ® ♛#4701`
