@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cathetometer](https://www.wordnik.com/words/cathetometer)
+- Random word of the day: [signboard](https://www.wordnik.com/words/signboard)
 <!--END_SECTION:randomWord-->
 
 <details>
