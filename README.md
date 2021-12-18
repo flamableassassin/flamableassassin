@@ -1,4 +1,4 @@
-## Hey im flammableassassin a student studying computer sicence
+## Hey I'm flammableassassin
 
 - 🔭 I’m currently working on a backend rewrite for [Flagmaker-print.com](https://flagmaker-print.com)
 - 🌱  Currently looking for a job as a software developer
