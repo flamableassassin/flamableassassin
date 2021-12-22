@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [peery](https://www.wordnik.com/words/peery)
+- Random word of the day: [coachmaking](https://www.wordnik.com/words/coachmaking)
 <!--END_SECTION:randomWord-->
 
 <details>
