@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [coachmaking](https://www.wordnik.com/words/coachmaking)
+- Random word of the day: [brabanter](https://www.wordnik.com/words/brabanter)
 <!--END_SECTION:randomWord-->
 
 <details>
