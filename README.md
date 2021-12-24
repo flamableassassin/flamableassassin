@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [brabanter](https://www.wordnik.com/words/brabanter)
+- Random word of the day: [mettlesome](https://www.wordnik.com/words/mettlesome)
 <!--END_SECTION:randomWord-->
 
 <details>
