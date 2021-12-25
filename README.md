@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [mettlesome](https://www.wordnik.com/words/mettlesome)
+- Random word of the day: [filchery](https://www.wordnik.com/words/filchery)
 <!--END_SECTION:randomWord-->
 
 <details>
