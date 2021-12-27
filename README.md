@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [polyphloesboean](https://www.wordnik.com/words/polyphloesboean)
+- Random word of the day: [whipworms](https://www.wordnik.com/words/whipworms)
 <!--END_SECTION:randomWord-->
 
 <details>
