@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [whipworms](https://www.wordnik.com/words/whipworms)
+- Random word of the day: [linearise](https://www.wordnik.com/words/linearise)
 <!--END_SECTION:randomWord-->
 
 <details>
