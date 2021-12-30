@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [erotogenicity](https://www.wordnik.com/words/erotogenicity)
+- Random word of the day: [draffs](https://www.wordnik.com/words/draffs)
 <!--END_SECTION:randomWord-->
 
 <details>
