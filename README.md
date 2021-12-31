@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [draffs](https://www.wordnik.com/words/draffs)
+- Random word of the day: [cuppings](https://www.wordnik.com/words/cuppings)
 <!--END_SECTION:randomWord-->
 
 <details>
