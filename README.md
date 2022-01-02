@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [withania](https://www.wordnik.com/words/withania)
+- Random word of the day: [skittler](https://www.wordnik.com/words/skittler)
 <!--END_SECTION:randomWord-->
 
 <details>
