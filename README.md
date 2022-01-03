@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [skittler](https://www.wordnik.com/words/skittler)
+- Random word of the day: [bovines](https://www.wordnik.com/words/bovines)
 <!--END_SECTION:randomWord-->
 
 <details>
