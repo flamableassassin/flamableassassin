@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [nonmendicancy](https://www.wordnik.com/words/nonmendicancy)
+- Random word of the day: [boltheading](https://www.wordnik.com/words/boltheading)
 <!--END_SECTION:randomWord-->
 
 <details>
