@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [boltheading](https://www.wordnik.com/words/boltheading)
+- Random word of the day: [kegelers](https://www.wordnik.com/words/kegelers)
 <!--END_SECTION:randomWord-->
 
 <details>
