@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [kegelers](https://www.wordnik.com/words/kegelers)
+- Random word of the day: [kupfferite](https://www.wordnik.com/words/kupfferite)
 <!--END_SECTION:randomWord-->
 
 <details>
