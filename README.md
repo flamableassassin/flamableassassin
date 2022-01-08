@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [kupfferite](https://www.wordnik.com/words/kupfferite)
+- Random word of the day: [cissies](https://www.wordnik.com/words/cissies)
 <!--END_SECTION:randomWord-->
 
 <details>
