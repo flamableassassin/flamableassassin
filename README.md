@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cissies](https://www.wordnik.com/words/cissies)
+- Random word of the day: [tanrec](https://www.wordnik.com/words/tanrec)
 <!--END_SECTION:randomWord-->
 
 <details>
