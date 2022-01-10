@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [tanrec](https://www.wordnik.com/words/tanrec)
+- Random word of the day: [insecable](https://www.wordnik.com/words/insecable)
 <!--END_SECTION:randomWord-->
 
 <details>
