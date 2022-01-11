@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [insecable](https://www.wordnik.com/words/insecable)
+- Random word of the day: [pathologist](https://www.wordnik.com/words/pathologist)
 <!--END_SECTION:randomWord-->
 
 <details>
