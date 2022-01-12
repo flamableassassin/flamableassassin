@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [pathologist](https://www.wordnik.com/words/pathologist)
+- Random word of the day: [murrain](https://www.wordnik.com/words/murrain)
 <!--END_SECTION:randomWord-->
 
 <details>
