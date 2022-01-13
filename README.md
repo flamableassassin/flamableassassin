@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [murrain](https://www.wordnik.com/words/murrain)
+- Random word of the day: [stringman](https://www.wordnik.com/words/stringman)
 <!--END_SECTION:randomWord-->
 
 <details>
