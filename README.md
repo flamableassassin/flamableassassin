@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [stringman](https://www.wordnik.com/words/stringman)
+- Random word of the day: [vexilla](https://www.wordnik.com/words/vexilla)
 <!--END_SECTION:randomWord-->
 
 <details>
