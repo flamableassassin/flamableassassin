@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [vexilla](https://www.wordnik.com/words/vexilla)
+- Random word of the day: [massig](https://www.wordnik.com/words/massig)
 <!--END_SECTION:randomWord-->
 
 <details>
