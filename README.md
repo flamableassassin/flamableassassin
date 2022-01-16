@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [massig](https://www.wordnik.com/words/massig)
+- Random word of the day: [sheldrakes](https://www.wordnik.com/words/sheldrakes)
 <!--END_SECTION:randomWord-->
 
 <details>
