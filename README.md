@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [sheldrakes](https://www.wordnik.com/words/sheldrakes)
+- Random word of the day: [tyrasole](https://www.wordnik.com/words/tyrasole)
 <!--END_SECTION:randomWord-->
 
 <details>
