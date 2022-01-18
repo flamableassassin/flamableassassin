@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [tyrasole](https://www.wordnik.com/words/tyrasole)
+- Random word of the day: [neoplasticism](https://www.wordnik.com/words/neoplasticism)
 <!--END_SECTION:randomWord-->
 
 <details>
