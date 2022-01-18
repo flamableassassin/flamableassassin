@@ -28,8 +28,8 @@ HTML   22 mins         ███████████████████
     <br>
 
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/flamableassassin/status/issues/4) in [flamableassassin/status](https://github.com/flamableassassin/status)
-2. ❗️ Closed issue [#3](https://github.com/flamableassassin/status/issues/3) in [flamableassassin/status](https://github.com/flamableassassin/status)
+1. 🎉 Merged PR [#2](https://github.com/Flagmaker-Print/fastify-secure-session/pull/2) in [Flagmaker-Print/fastify-secure-session](https://github.com/Flagmaker-Print/fastify-secure-session)
+2. 💪 Opened PR [#2](https://github.com/Flagmaker-Print/fastify-secure-session/pull/2) in [Flagmaker-Print/fastify-secure-session](https://github.com/Flagmaker-Print/fastify-secure-session)
 3. 🗣 Commented on [#4](https://github.com/flamableassassin/status/issues/4) in [flamableassassin/status](https://github.com/flamableassassin/status)
 4. 🗣 Commented on [#3](https://github.com/flamableassassin/status/issues/3) in [flamableassassin/status](https://github.com/flamableassassin/status)
 5. ❗️ Opened issue [#4](https://github.com/flamableassassin/status/issues/4) in [flamableassassin/status](https://github.com/flamableassassin/status)
