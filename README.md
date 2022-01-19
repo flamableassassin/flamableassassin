@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [neoplasticism](https://www.wordnik.com/words/neoplasticism)
+- Random word of the day: [secreted](https://www.wordnik.com/words/secreted)
 <!--END_SECTION:randomWord-->
 
 <details>
