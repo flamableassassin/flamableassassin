@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [secreted](https://www.wordnik.com/words/secreted)
+- Random word of the day: [timbale](https://www.wordnik.com/words/timbale)
 <!--END_SECTION:randomWord-->
 
 <details>
