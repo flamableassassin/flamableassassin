@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [aliquots](https://www.wordnik.com/words/aliquots)
+- Random word of the day: [catechising](https://www.wordnik.com/words/catechising)
 <!--END_SECTION:randomWord-->
 
 <details>
