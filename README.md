@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [catechising](https://www.wordnik.com/words/catechising)
+- Random word of the day: [encrinital](https://www.wordnik.com/words/encrinital)
 <!--END_SECTION:randomWord-->
 
 <details>
