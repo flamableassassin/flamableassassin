@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [encrinital](https://www.wordnik.com/words/encrinital)
+- Random word of the day: [neurotripsy](https://www.wordnik.com/words/neurotripsy)
 <!--END_SECTION:randomWord-->
 
 <details>
