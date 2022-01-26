@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [neurotripsy](https://www.wordnik.com/words/neurotripsy)
+- Random word of the day: [galvanising](https://www.wordnik.com/words/galvanising)
 <!--END_SECTION:randomWord-->
 
 <details>
