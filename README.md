@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [undularly](https://www.wordnik.com/words/undularly)
+- Random word of the day: [carbethoxy](https://www.wordnik.com/words/carbethoxy)
 <!--END_SECTION:randomWord-->
 
 <details>
