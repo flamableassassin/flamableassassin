@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [carbethoxy](https://www.wordnik.com/words/carbethoxy)
+- Random word of the day: [paedomorphosis](https://www.wordnik.com/words/paedomorphosis)
 <!--END_SECTION:randomWord-->
 
 <details>
