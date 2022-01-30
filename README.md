@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [paedomorphosis](https://www.wordnik.com/words/paedomorphosis)
+- Random word of the day: [dietist](https://www.wordnik.com/words/dietist)
 <!--END_SECTION:randomWord-->
 
 <details>
