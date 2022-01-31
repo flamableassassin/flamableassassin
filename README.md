@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [dietist](https://www.wordnik.com/words/dietist)
+- Random word of the day: [redshirting](https://www.wordnik.com/words/redshirting)
 <!--END_SECTION:randomWord-->
 
 <details>
