@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [redshirting](https://www.wordnik.com/words/redshirting)
+- Random word of the day: [unstabilising](https://www.wordnik.com/words/unstabilising)
 <!--END_SECTION:randomWord-->
 
 <details>
