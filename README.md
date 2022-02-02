@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [unstabilising](https://www.wordnik.com/words/unstabilising)
+- Random word of the day: [cerumniparous](https://www.wordnik.com/words/cerumniparous)
 <!--END_SECTION:randomWord-->
 
 <details>
