@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cerumniparous](https://www.wordnik.com/words/cerumniparous)
+- Random word of the day: [phylogerontism](https://www.wordnik.com/words/phylogerontism)
 <!--END_SECTION:randomWord-->
 
 <details>
