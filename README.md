@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [phylogerontism](https://www.wordnik.com/words/phylogerontism)
+- Random word of the day: [smithery](https://www.wordnik.com/words/smithery)
 <!--END_SECTION:randomWord-->
 
 <details>
