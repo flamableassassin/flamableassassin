@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [smithery](https://www.wordnik.com/words/smithery)
+- Random word of the day: [flushboard](https://www.wordnik.com/words/flushboard)
 <!--END_SECTION:randomWord-->
 
 <details>
