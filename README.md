@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [flushboard](https://www.wordnik.com/words/flushboard)
+- Random word of the day: [lentos](https://www.wordnik.com/words/lentos)
 <!--END_SECTION:randomWord-->
 
 <details>
