@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [nontranslucent](https://www.wordnik.com/words/nontranslucent)
+- Random word of the day: [executable](https://www.wordnik.com/words/executable)
 <!--END_SECTION:randomWord-->
 
 <details>
