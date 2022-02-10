@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [executable](https://www.wordnik.com/words/executable)
+- Random word of the day: [guianan](https://www.wordnik.com/words/guianan)
 <!--END_SECTION:randomWord-->
 
 <details>
