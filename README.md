@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [pentapodies](https://www.wordnik.com/words/pentapodies)
+- Random word of the day: [hoodful](https://www.wordnik.com/words/hoodful)
 <!--END_SECTION:randomWord-->
 
 <details>
