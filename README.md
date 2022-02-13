@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [hoodful](https://www.wordnik.com/words/hoodful)
+- Random word of the day: [dearth](https://www.wordnik.com/words/dearth)
 <!--END_SECTION:randomWord-->
 
 <details>
