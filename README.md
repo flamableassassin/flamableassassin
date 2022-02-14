@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [dearth](https://www.wordnik.com/words/dearth)
+- Random word of the day: [unreceding](https://www.wordnik.com/words/unreceding)
 <!--END_SECTION:randomWord-->
 
 <details>
