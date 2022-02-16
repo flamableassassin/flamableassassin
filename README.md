@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [milty](https://www.wordnik.com/words/milty)
+- Random word of the day: [explosible](https://www.wordnik.com/words/explosible)
 <!--END_SECTION:randomWord-->
 
 <details>
