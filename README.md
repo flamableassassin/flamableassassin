@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [hemocry](https://www.wordnik.com/words/hemocry)
+- Random word of the day: [oomiak](https://www.wordnik.com/words/oomiak)
 <!--END_SECTION:randomWord-->
 
 <details>
