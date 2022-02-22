@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [knockout](https://www.wordnik.com/words/knockout)
+- Random word of the day: [plinther](https://www.wordnik.com/words/plinther)
 <!--END_SECTION:randomWord-->
 
 <details>
