@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [apostolian](https://www.wordnik.com/words/apostolian)
+- Random word of the day: [metallographist](https://www.wordnik.com/words/metallographist)
 <!--END_SECTION:randomWord-->
 
 <details>
