@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [metallographist](https://www.wordnik.com/words/metallographist)
+- Random word of the day: [unamatively](https://www.wordnik.com/words/unamatively)
 <!--END_SECTION:randomWord-->
 
 <details>
