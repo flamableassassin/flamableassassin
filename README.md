@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [gazangabin](https://www.wordnik.com/words/gazangabin)
+- Random word of the day: [piggies](https://www.wordnik.com/words/piggies)
 <!--END_SECTION:randomWord-->
 
 <details>
