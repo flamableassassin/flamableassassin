@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [piggies](https://www.wordnik.com/words/piggies)
+- Random word of the day: [lexiphanes](https://www.wordnik.com/words/lexiphanes)
 <!--END_SECTION:randomWord-->
 
 <details>
