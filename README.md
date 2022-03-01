@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [lexiphanes](https://www.wordnik.com/words/lexiphanes)
+- Random word of the day: [comparate](https://www.wordnik.com/words/comparate)
 <!--END_SECTION:randomWord-->
 
 <details>
