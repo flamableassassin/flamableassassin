@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [comparate](https://www.wordnik.com/words/comparate)
+- Random word of the day: [archpriest](https://www.wordnik.com/words/archpriest)
 <!--END_SECTION:randomWord-->
 
 <details>
