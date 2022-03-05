@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [calvarial](https://www.wordnik.com/words/calvarial)
+- Random word of the day: [sumach](https://www.wordnik.com/words/sumach)
 <!--END_SECTION:randomWord-->
 
 <details>
