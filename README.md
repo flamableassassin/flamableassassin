@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [pbxes](https://www.wordnik.com/words/pbxes)
+- Random word of the day: [autotropic](https://www.wordnik.com/words/autotropic)
 <!--END_SECTION:randomWord-->
 
 <details>
