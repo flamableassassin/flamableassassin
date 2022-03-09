@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [autotropic](https://www.wordnik.com/words/autotropic)
+- Random word of the day: [unsteeling](https://www.wordnik.com/words/unsteeling)
 <!--END_SECTION:randomWord-->
 
 <details>
