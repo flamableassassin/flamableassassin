@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [witchbells](https://www.wordnik.com/words/witchbells)
+- Random word of the day: [unlecherousness](https://www.wordnik.com/words/unlecherousness)
 <!--END_SECTION:randomWord-->
 
 <details>
