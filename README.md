@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [unlecherousness](https://www.wordnik.com/words/unlecherousness)
+- Random word of the day: [wheelie](https://www.wordnik.com/words/wheelie)
 <!--END_SECTION:randomWord-->
 
 <details>
