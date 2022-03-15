@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [towsy](https://www.wordnik.com/words/towsy)
+- Random word of the day: [heatdrop](https://www.wordnik.com/words/heatdrop)
 <!--END_SECTION:randomWord-->
 
 <details>
