@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [jazzed](https://www.wordnik.com/words/jazzed)
+- Random word of the day: [unvisualized](https://www.wordnik.com/words/unvisualized)
 <!--END_SECTION:randomWord-->
 
 <details>
