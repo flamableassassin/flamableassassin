@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [presuspension](https://www.wordnik.com/words/presuspension)
+- Random word of the day: [readmitting](https://www.wordnik.com/words/readmitting)
 <!--END_SECTION:randomWord-->
 
 <details>
