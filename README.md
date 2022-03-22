@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [readmitting](https://www.wordnik.com/words/readmitting)
+- Random word of the day: [mesoplast](https://www.wordnik.com/words/mesoplast)
 <!--END_SECTION:randomWord-->
 
 <details>
