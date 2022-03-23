@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [mesoplast](https://www.wordnik.com/words/mesoplast)
+- Random word of the day: [elegant](https://www.wordnik.com/words/elegant)
 <!--END_SECTION:randomWord-->
 
 <details>
