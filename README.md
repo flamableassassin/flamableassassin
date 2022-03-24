@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [elegant](https://www.wordnik.com/words/elegant)
+- Random word of the day: [manticism](https://www.wordnik.com/words/manticism)
 <!--END_SECTION:randomWord-->
 
 <details>
