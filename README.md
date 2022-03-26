@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [determining](https://www.wordnik.com/words/determining)
+- Random word of the day: [gnotobiology](https://www.wordnik.com/words/gnotobiology)
 <!--END_SECTION:randomWord-->
 
 <details>
