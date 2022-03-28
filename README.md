@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [tinner](https://www.wordnik.com/words/tinner)
+- Random word of the day: [husbander](https://www.wordnik.com/words/husbander)
 <!--END_SECTION:randomWord-->
 
 <details>
