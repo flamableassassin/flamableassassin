@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [husbander](https://www.wordnik.com/words/husbander)
+- Random word of the day: [basketworm](https://www.wordnik.com/words/basketworm)
 <!--END_SECTION:randomWord-->
 
 <details>
