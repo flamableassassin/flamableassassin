@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [basketworm](https://www.wordnik.com/words/basketworm)
+- Random word of the day: [protoxid](https://www.wordnik.com/words/protoxid)
 <!--END_SECTION:randomWord-->
 
 <details>
