@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [protoxid](https://www.wordnik.com/words/protoxid)
+- Random word of the day: [ornithology](https://www.wordnik.com/words/ornithology)
 <!--END_SECTION:randomWord-->
 
 <details>
