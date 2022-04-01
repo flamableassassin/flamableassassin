@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [ornithology](https://www.wordnik.com/words/ornithology)
+- Random word of the day: [ragamuffin](https://www.wordnik.com/words/ragamuffin)
 <!--END_SECTION:randomWord-->
 
 <details>
