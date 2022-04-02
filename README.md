@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [ragamuffin](https://www.wordnik.com/words/ragamuffin)
+- Random word of the day: [stellify](https://www.wordnik.com/words/stellify)
 <!--END_SECTION:randomWord-->
 
 <details>
