@@ -31,11 +31,11 @@ Other        10 mins         ██████░░░░░░░░░░░
     <br>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4619](https://github.com/discord/discord-api-docs/issues/4619) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-2. ❗️ Opened issue [#4619](https://github.com/discord/discord-api-docs/issues/4619) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-3. ❗️ Closed issue [#5](https://github.com/flamableassassin/status/issues/5) in [flamableassassin/status](https://github.com/flamableassassin/status)
-4. 🗣 Commented on [#5](https://github.com/flamableassassin/status/issues/5) in [flamableassassin/status](https://github.com/flamableassassin/status)
-5. ❗️ Opened issue [#5](https://github.com/flamableassassin/status/issues/5) in [flamableassassin/status](https://github.com/flamableassassin/status)
+1. ❗️ Closed issue [#7](https://github.com/flamableassassin/status/issues/7) in [flamableassassin/status](https://github.com/flamableassassin/status)
+2. 🗣 Commented on [#7](https://github.com/flamableassassin/status/issues/7) in [flamableassassin/status](https://github.com/flamableassassin/status)
+3. ❗️ Opened issue [#7](https://github.com/flamableassassin/status/issues/7) in [flamableassassin/status](https://github.com/flamableassassin/status)
+4. ❗️ Closed issue [#6](https://github.com/flamableassassin/status/issues/6) in [flamableassassin/status](https://github.com/flamableassassin/status)
+5. 🗣 Commented on [#6](https://github.com/flamableassassin/status/issues/6) in [flamableassassin/status](https://github.com/flamableassassin/status)
   <!--END_SECTION:activity-->
 
 </details>
