@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [snaggier](https://www.wordnik.com/words/snaggier)
+- Random word of the day: [coder](https://www.wordnik.com/words/coder)
 <!--END_SECTION:randomWord-->
 
 <details>
