@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [coder](https://www.wordnik.com/words/coder)
+- Random word of the day: [lagophthalmos](https://www.wordnik.com/words/lagophthalmos)
 <!--END_SECTION:randomWord-->
 
 <details>
