@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [lagophthalmos](https://www.wordnik.com/words/lagophthalmos)
+- Random word of the day: [extruct](https://www.wordnik.com/words/extruct)
 <!--END_SECTION:randomWord-->
 
 <details>
