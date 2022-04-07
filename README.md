@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [extruct](https://www.wordnik.com/words/extruct)
+- Random word of the day: [myoblastic](https://www.wordnik.com/words/myoblastic)
 <!--END_SECTION:randomWord-->
 
 <details>
