@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [myoblastic](https://www.wordnik.com/words/myoblastic)
+- Random word of the day: [lampions](https://www.wordnik.com/words/lampions)
 <!--END_SECTION:randomWord-->
 
 <details>
