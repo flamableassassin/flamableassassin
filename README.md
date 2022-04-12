@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [coaid](https://www.wordnik.com/words/coaid)
+- Random word of the day: [demidandiprat](https://www.wordnik.com/words/demidandiprat)
 <!--END_SECTION:randomWord-->
 
 <details>
