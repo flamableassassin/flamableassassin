@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [angustifoliate](https://www.wordnik.com/words/angustifoliate)
+- Random word of the day: [toughened](https://www.wordnik.com/words/toughened)
 <!--END_SECTION:randomWord-->
 
 <details>
