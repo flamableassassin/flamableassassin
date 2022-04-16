@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [petrolize](https://www.wordnik.com/words/petrolize)
+- Random word of the day: [miseducates](https://www.wordnik.com/words/miseducates)
 <!--END_SECTION:randomWord-->
 
 <details>
