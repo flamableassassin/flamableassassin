@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [stilliform](https://www.wordnik.com/words/stilliform)
+- Random word of the day: [flingdust](https://www.wordnik.com/words/flingdust)
 <!--END_SECTION:randomWord-->
 
 <details>
