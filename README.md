@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [flingdust](https://www.wordnik.com/words/flingdust)
+- Random word of the day: [cynocrambaceous](https://www.wordnik.com/words/cynocrambaceous)
 <!--END_SECTION:randomWord-->
 
 <details>
