@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cynocrambaceous](https://www.wordnik.com/words/cynocrambaceous)
+- Random word of the day: [outrang](https://www.wordnik.com/words/outrang)
 <!--END_SECTION:randomWord-->
 
 <details>
