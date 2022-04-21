@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [outrang](https://www.wordnik.com/words/outrang)
+- Random word of the day: [indigency](https://www.wordnik.com/words/indigency)
 <!--END_SECTION:randomWord-->
 
 <details>
