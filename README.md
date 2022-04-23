@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [seaworthiness](https://www.wordnik.com/words/seaworthiness)
+- Random word of the day: [godfathers](https://www.wordnik.com/words/godfathers)
 <!--END_SECTION:randomWord-->
 
 <details>
