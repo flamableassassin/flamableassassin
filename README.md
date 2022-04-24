@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [godfathers](https://www.wordnik.com/words/godfathers)
+- Random word of the day: [jument](https://www.wordnik.com/words/jument)
 <!--END_SECTION:randomWord-->
 
 <details>
