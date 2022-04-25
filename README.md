@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [jument](https://www.wordnik.com/words/jument)
+- Random word of the day: [apteryges](https://www.wordnik.com/words/apteryges)
 <!--END_SECTION:randomWord-->
 
 <details>
