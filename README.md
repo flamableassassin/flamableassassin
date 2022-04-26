@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [apteryges](https://www.wordnik.com/words/apteryges)
+- Random word of the day: [frizzed](https://www.wordnik.com/words/frizzed)
 <!--END_SECTION:randomWord-->
 
 <details>
