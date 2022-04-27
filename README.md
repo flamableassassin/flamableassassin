@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [frizzed](https://www.wordnik.com/words/frizzed)
+- Random word of the day: [lampstand](https://www.wordnik.com/words/lampstand)
 <!--END_SECTION:randomWord-->
 
 <details>
