@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [objurgatrix](https://www.wordnik.com/words/objurgatrix)
+- Random word of the day: [werowance](https://www.wordnik.com/words/werowance)
 <!--END_SECTION:randomWord-->
 
 <details>
