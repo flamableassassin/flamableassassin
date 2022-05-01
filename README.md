@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [crackmans](https://www.wordnik.com/words/crackmans)
+- Random word of the day: [precolor](https://www.wordnik.com/words/precolor)
 <!--END_SECTION:randomWord-->
 
 <details>
