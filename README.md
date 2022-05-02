@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [precolor](https://www.wordnik.com/words/precolor)
+- Random word of the day: [predeterminer](https://www.wordnik.com/words/predeterminer)
 <!--END_SECTION:randomWord-->
 
 <details>
