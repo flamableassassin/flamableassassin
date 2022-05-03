@@ -35,11 +35,11 @@ TypeScript   0 secs          ░░░░░░░░░░░░░░░░░
     <br>
 
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#9](https://github.com/flamableassassin/status/issues/9) in [flamableassassin/status](https://github.com/flamableassassin/status)
-2. 🗣 Commented on [#9](https://github.com/flamableassassin/status/issues/9) in [flamableassassin/status](https://github.com/flamableassassin/status)
-3. ❗️ Closed issue [#8](https://github.com/flamableassassin/status/issues/8) in [flamableassassin/status](https://github.com/flamableassassin/status)
-4. 🗣 Commented on [#8](https://github.com/flamableassassin/status/issues/8) in [flamableassassin/status](https://github.com/flamableassassin/status)
-5. ❗️ Opened issue [#9](https://github.com/flamableassassin/status/issues/9) in [flamableassassin/status](https://github.com/flamableassassin/status)
+1. 💪 Opened PR [#1369](https://github.com/abalabahaha/eris/pull/1369) in [abalabahaha/eris](https://github.com/abalabahaha/eris)
+2. ❗️ Closed issue [#9](https://github.com/flamableassassin/status/issues/9) in [flamableassassin/status](https://github.com/flamableassassin/status)
+3. 🗣 Commented on [#9](https://github.com/flamableassassin/status/issues/9) in [flamableassassin/status](https://github.com/flamableassassin/status)
+4. ❗️ Closed issue [#8](https://github.com/flamableassassin/status/issues/8) in [flamableassassin/status](https://github.com/flamableassassin/status)
+5. 🗣 Commented on [#8](https://github.com/flamableassassin/status/issues/8) in [flamableassassin/status](https://github.com/flamableassassin/status)
   <!--END_SECTION:activity-->
 
 </details>
