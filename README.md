@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [flaps](https://www.wordnik.com/words/flaps)
+- Random word of the day: [hebraistic](https://www.wordnik.com/words/hebraistic)
 <!--END_SECTION:randomWord-->
 
 <details>
