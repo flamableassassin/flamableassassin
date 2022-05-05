@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [hebraistic](https://www.wordnik.com/words/hebraistic)
+- Random word of the day: [overpleasing](https://www.wordnik.com/words/overpleasing)
 <!--END_SECTION:randomWord-->
 
 <details>
