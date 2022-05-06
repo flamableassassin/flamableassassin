@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [overpleasing](https://www.wordnik.com/words/overpleasing)
+- Random word of the day: [undulance](https://www.wordnik.com/words/undulance)
 <!--END_SECTION:randomWord-->
 
 <details>
