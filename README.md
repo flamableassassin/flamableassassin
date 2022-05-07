@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [undulance](https://www.wordnik.com/words/undulance)
+- Random word of the day: [bacillophobia](https://www.wordnik.com/words/bacillophobia)
 <!--END_SECTION:randomWord-->
 
 <details>
