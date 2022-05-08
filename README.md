@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [bacillophobia](https://www.wordnik.com/words/bacillophobia)
+- Random word of the day: [alcor](https://www.wordnik.com/words/alcor)
 <!--END_SECTION:randomWord-->
 
 <details>
