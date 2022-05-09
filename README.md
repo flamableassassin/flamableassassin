@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [alcor](https://www.wordnik.com/words/alcor)
+- Random word of the day: [kindlers](https://www.wordnik.com/words/kindlers)
 <!--END_SECTION:randomWord-->
 
 <details>
