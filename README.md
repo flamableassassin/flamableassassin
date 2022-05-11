@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [jibers](https://www.wordnik.com/words/jibers)
+- Random word of the day: [cymaphen](https://www.wordnik.com/words/cymaphen)
 <!--END_SECTION:randomWord-->
 
 <details>
