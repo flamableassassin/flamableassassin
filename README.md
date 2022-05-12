@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cymaphen](https://www.wordnik.com/words/cymaphen)
+- Random word of the day: [cracksman](https://www.wordnik.com/words/cracksman)
 <!--END_SECTION:randomWord-->
 
 <details>
