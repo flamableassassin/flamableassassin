@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cracksman](https://www.wordnik.com/words/cracksman)
+- Random word of the day: [jetbead](https://www.wordnik.com/words/jetbead)
 <!--END_SECTION:randomWord-->
 
 <details>
