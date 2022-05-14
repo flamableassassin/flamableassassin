@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [jetbead](https://www.wordnik.com/words/jetbead)
+- Random word of the day: [discompose](https://www.wordnik.com/words/discompose)
 <!--END_SECTION:randomWord-->
 
 <details>
