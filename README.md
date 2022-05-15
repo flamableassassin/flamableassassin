@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [discompose](https://www.wordnik.com/words/discompose)
+- Random word of the day: [platycephaloid](https://www.wordnik.com/words/platycephaloid)
 <!--END_SECTION:randomWord-->
 
 <details>
