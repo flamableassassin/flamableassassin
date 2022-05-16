@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [platycephaloid](https://www.wordnik.com/words/platycephaloid)
+- Random word of the day: [rimer](https://www.wordnik.com/words/rimer)
 <!--END_SECTION:randomWord-->
 
 <details>
