@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [rimer](https://www.wordnik.com/words/rimer)
+- Random word of the day: [triflagellate](https://www.wordnik.com/words/triflagellate)
 <!--END_SECTION:randomWord-->
 
 <details>
