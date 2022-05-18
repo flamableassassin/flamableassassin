@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [triflagellate](https://www.wordnik.com/words/triflagellate)
+- Random word of the day: [dextrotartaric](https://www.wordnik.com/words/dextrotartaric)
 <!--END_SECTION:randomWord-->
 
 <details>
