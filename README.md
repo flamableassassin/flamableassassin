@@ -30,9 +30,9 @@ No activity tracked
     <br>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1369](https://github.com/abalabahaha/eris/pull/1369) in [abalabahaha/eris](https://github.com/abalabahaha/eris)
-2. ❗️ Closed issue [#9](https://github.com/flamableassassin/status/issues/9) in [flamableassassin/status](https://github.com/flamableassassin/status)
-3. 🗣 Commented on [#9](https://github.com/flamableassassin/status/issues/9) in [flamableassassin/status](https://github.com/flamableassassin/status)
+1. 🗣 Commented on [#1](https://github.com/Flagmaker-Print/status/issues/1) in [Flagmaker-Print/status](https://github.com/Flagmaker-Print/status)
+2. 🗣 Commented on [#1](https://github.com/Flagmaker-Print/status/issues/1) in [Flagmaker-Print/status](https://github.com/Flagmaker-Print/status)
+3. 💪 Opened PR [#1369](https://github.com/abalabahaha/eris/pull/1369) in [abalabahaha/eris](https://github.com/abalabahaha/eris)
 4. ❗️ Closed issue [#8](https://github.com/flamableassassin/status/issues/8) in [flamableassassin/status](https://github.com/flamableassassin/status)
 5. 🗣 Commented on [#8](https://github.com/flamableassassin/status/issues/8) in [flamableassassin/status](https://github.com/flamableassassin/status)
   <!--END_SECTION:activity-->
