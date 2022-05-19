@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [dextrotartaric](https://www.wordnik.com/words/dextrotartaric)
+- Random word of the day: [duopod](https://www.wordnik.com/words/duopod)
 <!--END_SECTION:randomWord-->
 
 <details>
