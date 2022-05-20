@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [duopod](https://www.wordnik.com/words/duopod)
+- Random word of the day: [untasteable](https://www.wordnik.com/words/untasteable)
 <!--END_SECTION:randomWord-->
 
 <details>
