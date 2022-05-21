@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [untasteable](https://www.wordnik.com/words/untasteable)
+- Random word of the day: [monticoline](https://www.wordnik.com/words/monticoline)
 <!--END_SECTION:randomWord-->
 
 <details>
