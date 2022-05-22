@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [monticoline](https://www.wordnik.com/words/monticoline)
+- Random word of the day: [dasyurine](https://www.wordnik.com/words/dasyurine)
 <!--END_SECTION:randomWord-->
 
 <details>
