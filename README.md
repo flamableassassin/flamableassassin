@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [dasyurine](https://www.wordnik.com/words/dasyurine)
+- Random word of the day: [atelectasis](https://www.wordnik.com/words/atelectasis)
 <!--END_SECTION:randomWord-->
 
 <details>
