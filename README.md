@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [atelectasis](https://www.wordnik.com/words/atelectasis)
+- Random word of the day: [localizing](https://www.wordnik.com/words/localizing)
 <!--END_SECTION:randomWord-->
 
 <details>
