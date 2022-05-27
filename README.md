@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [saxicoline](https://www.wordnik.com/words/saxicoline)
+- Random word of the day: [nutcrackers](https://www.wordnik.com/words/nutcrackers)
 <!--END_SECTION:randomWord-->
 
 <details>
