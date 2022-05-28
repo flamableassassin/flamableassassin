@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [nutcrackers](https://www.wordnik.com/words/nutcrackers)
+- Random word of the day: [nonepical](https://www.wordnik.com/words/nonepical)
 <!--END_SECTION:randomWord-->
 
 <details>
