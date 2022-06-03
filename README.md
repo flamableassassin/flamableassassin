@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [concentred](https://www.wordnik.com/words/concentred)
+- Random word of the day: [bigamistically](https://www.wordnik.com/words/bigamistically)
 <!--END_SECTION:randomWord-->
 
 <details>
