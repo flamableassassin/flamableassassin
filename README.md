@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [bigamistically](https://www.wordnik.com/words/bigamistically)
+- Random word of the day: [yellower](https://www.wordnik.com/words/yellower)
 <!--END_SECTION:randomWord-->
 
 <details>
