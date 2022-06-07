@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [unhad](https://www.wordnik.com/words/unhad)
+- Random word of the day: [noncatholicity](https://www.wordnik.com/words/noncatholicity)
 <!--END_SECTION:randomWord-->
 
 <details>
