@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [noncatholicity](https://www.wordnik.com/words/noncatholicity)
+- Random word of the day: [workfolks](https://www.wordnik.com/words/workfolks)
 <!--END_SECTION:randomWord-->
 
 <details>
