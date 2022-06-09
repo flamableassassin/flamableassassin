@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [workfolks](https://www.wordnik.com/words/workfolks)
+- Random word of the day: [echoized](https://www.wordnik.com/words/echoized)
 <!--END_SECTION:randomWord-->
 
 <details>
