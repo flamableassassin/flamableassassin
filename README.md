@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [ataman](https://www.wordnik.com/words/ataman)
+- Random word of the day: [reeks](https://www.wordnik.com/words/reeks)
 <!--END_SECTION:randomWord-->
 
 <details>
