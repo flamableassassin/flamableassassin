@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [pleat](https://www.wordnik.com/words/pleat)
+- Random word of the day: [pipages](https://www.wordnik.com/words/pipages)
 <!--END_SECTION:randomWord-->
 
 <details>
