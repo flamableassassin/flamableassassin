@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [pipages](https://www.wordnik.com/words/pipages)
+- Random word of the day: [cobus](https://www.wordnik.com/words/cobus)
 <!--END_SECTION:randomWord-->
 
 <details>
