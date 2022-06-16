@@ -35,11 +35,11 @@ Other        1 min           ▒░░░░░░░░░░░░░░░░
     <br>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Flagmaker-Print/fastify-secure-session/pull/3) in [Flagmaker-Print/fastify-secure-session](https://github.com/Flagmaker-Print/fastify-secure-session)
-2. 💪 Opened PR [#3](https://github.com/Flagmaker-Print/fastify-secure-session/pull/3) in [Flagmaker-Print/fastify-secure-session](https://github.com/Flagmaker-Print/fastify-secure-session)
-3. 🗣 Commented on [#1](https://github.com/Flagmaker-Print/status/issues/1) in [Flagmaker-Print/status](https://github.com/Flagmaker-Print/status)
-4. 🗣 Commented on [#1](https://github.com/Flagmaker-Print/status/issues/1) in [Flagmaker-Print/status](https://github.com/Flagmaker-Print/status)
-5. 🗣 Commented on [#8](https://github.com/flamableassassin/status/issues/8) in [flamableassassin/status](https://github.com/flamableassassin/status)
+1. ❗️ Closed issue [#13](https://github.com/flamableassassin/status/issues/13) in [flamableassassin/status](https://github.com/flamableassassin/status)
+2. 🗣 Commented on [#13](https://github.com/flamableassassin/status/issues/13) in [flamableassassin/status](https://github.com/flamableassassin/status)
+3. 🗣 Commented on [#12](https://github.com/flamableassassin/status/issues/12) in [flamableassassin/status](https://github.com/flamableassassin/status)
+4. ❗️ Closed issue [#12](https://github.com/flamableassassin/status/issues/12) in [flamableassassin/status](https://github.com/flamableassassin/status)
+5. ❗️ Closed issue [#11](https://github.com/flamableassassin/status/issues/11) in [flamableassassin/status](https://github.com/flamableassassin/status)
   <!--END_SECTION:activity-->
 
 </details>
