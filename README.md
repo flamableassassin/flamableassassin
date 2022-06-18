@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [confines](https://www.wordnik.com/words/confines)
+- Random word of the day: [devoutness](https://www.wordnik.com/words/devoutness)
 <!--END_SECTION:randomWord-->
 
 <details>
