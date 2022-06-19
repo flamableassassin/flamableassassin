@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [devoutness](https://www.wordnik.com/words/devoutness)
+- Random word of the day: [teleports](https://www.wordnik.com/words/teleports)
 <!--END_SECTION:randomWord-->
 
 <details>
