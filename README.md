@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [alemmal](https://www.wordnik.com/words/alemmal)
+- Random word of the day: [mouthpipe](https://www.wordnik.com/words/mouthpipe)
 <!--END_SECTION:randomWord-->
 
 <details>
