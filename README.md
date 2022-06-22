@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [mouthpipe](https://www.wordnik.com/words/mouthpipe)
+- Random word of the day: [endoangiitis](https://www.wordnik.com/words/endoangiitis)
 <!--END_SECTION:randomWord-->
 
 <details>
