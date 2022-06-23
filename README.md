@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [endoangiitis](https://www.wordnik.com/words/endoangiitis)
+- Random word of the day: [ignobly](https://www.wordnik.com/words/ignobly)
 <!--END_SECTION:randomWord-->
 
 <details>
