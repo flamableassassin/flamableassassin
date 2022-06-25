@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [mesatiskelic](https://www.wordnik.com/words/mesatiskelic)
+- Random word of the day: [latrididae](https://www.wordnik.com/words/latrididae)
 <!--END_SECTION:randomWord-->
 
 <details>
