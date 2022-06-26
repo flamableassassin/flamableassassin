@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [latrididae](https://www.wordnik.com/words/latrididae)
+- Random word of the day: [overminuteness](https://www.wordnik.com/words/overminuteness)
 <!--END_SECTION:randomWord-->
 
 <details>
