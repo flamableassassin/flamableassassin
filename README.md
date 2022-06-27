@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [overminuteness](https://www.wordnik.com/words/overminuteness)
+- Random word of the day: [catwood](https://www.wordnik.com/words/catwood)
 <!--END_SECTION:randomWord-->
 
 <details>
