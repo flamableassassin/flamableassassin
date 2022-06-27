@@ -18,8 +18,7 @@
   <!--START_SECTION:waka-->
 
 ```text
-HTML         10 mins         ████████████▓░░░░░░░░░░░░   50.10 %
-JavaScript   10 mins         ████████████▒░░░░░░░░░░░░   49.90 %
+JavaScript   10 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
