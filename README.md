@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [catwood](https://www.wordnik.com/words/catwood)
+- Random word of the day: [entertainingly](https://www.wordnik.com/words/entertainingly)
 <!--END_SECTION:randomWord-->
 
 <details>
