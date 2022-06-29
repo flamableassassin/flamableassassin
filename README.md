@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [entertainingly](https://www.wordnik.com/words/entertainingly)
+- Random word of the day: [penumbras](https://www.wordnik.com/words/penumbras)
 <!--END_SECTION:randomWord-->
 
 <details>
