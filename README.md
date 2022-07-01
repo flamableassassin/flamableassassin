@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [postpyretic](https://www.wordnik.com/words/postpyretic)
+- Random word of the day: [eugenesic](https://www.wordnik.com/words/eugenesic)
 <!--END_SECTION:randomWord-->
 
 <details>
