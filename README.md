@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [eugenesic](https://www.wordnik.com/words/eugenesic)
+- Random word of the day: [pepsinogenous](https://www.wordnik.com/words/pepsinogenous)
 <!--END_SECTION:randomWord-->
 
 <details>
