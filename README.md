@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [pepsinogenous](https://www.wordnik.com/words/pepsinogenous)
+- Random word of the day: [specificatively](https://www.wordnik.com/words/specificatively)
 <!--END_SECTION:randomWord-->
 
 <details>
