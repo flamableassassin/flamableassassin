@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [specificatively](https://www.wordnik.com/words/specificatively)
+- Random word of the day: [payaguan](https://www.wordnik.com/words/payaguan)
 <!--END_SECTION:randomWord-->
 
 <details>
