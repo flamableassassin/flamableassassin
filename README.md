@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [acetylbenzoic](https://www.wordnik.com/words/acetylbenzoic)
+- Random word of the day: [pluckily](https://www.wordnik.com/words/pluckily)
 <!--END_SECTION:randomWord-->
 
 <details>
