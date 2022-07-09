@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [subpharyngeal](https://www.wordnik.com/words/subpharyngeal)
+- Random word of the day: [glastonbury](https://www.wordnik.com/words/glastonbury)
 <!--END_SECTION:randomWord-->
 
 <details>
