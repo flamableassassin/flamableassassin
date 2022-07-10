@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [glastonbury](https://www.wordnik.com/words/glastonbury)
+- Random word of the day: [coboss](https://www.wordnik.com/words/coboss)
 <!--END_SECTION:randomWord-->
 
 <details>
