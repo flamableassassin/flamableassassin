@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [euchlorite](https://www.wordnik.com/words/euchlorite)
+- Random word of the day: [bowingly](https://www.wordnik.com/words/bowingly)
 <!--END_SECTION:randomWord-->
 
 <details>
