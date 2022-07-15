@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [incommend](https://www.wordnik.com/words/incommend)
+- Random word of the day: [unsweltering](https://www.wordnik.com/words/unsweltering)
 <!--END_SECTION:randomWord-->
 
 <details>
