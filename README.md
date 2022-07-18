@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [untwilled](https://www.wordnik.com/words/untwilled)
+- Random word of the day: [tulipwood](https://www.wordnik.com/words/tulipwood)
 <!--END_SECTION:randomWord-->
 
 <details>
