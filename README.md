@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [transformism](https://www.wordnik.com/words/transformism)
+- Random word of the day: [octrois](https://www.wordnik.com/words/octrois)
 <!--END_SECTION:randomWord-->
 
 <details>
