@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [octrois](https://www.wordnik.com/words/octrois)
+- Random word of the day: [palmellaceous](https://www.wordnik.com/words/palmellaceous)
 <!--END_SECTION:randomWord-->
 
 <details>
