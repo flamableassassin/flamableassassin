@@ -32,11 +32,11 @@ Other        4 mins          ▓░░░░░░░░░░░░░░░░
     <br>
 
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#55](https://github.com/flamableassassin/status/issues/55) in [flamableassassin/status](https://github.com/flamableassassin/status)
-2. 🗣 Commented on [#55](https://github.com/flamableassassin/status/issues/55) in [flamableassassin/status](https://github.com/flamableassassin/status)
-3. ❗️ Closed issue [#54](https://github.com/flamableassassin/status/issues/54) in [flamableassassin/status](https://github.com/flamableassassin/status)
-4. 🗣 Commented on [#54](https://github.com/flamableassassin/status/issues/54) in [flamableassassin/status](https://github.com/flamableassassin/status)
-5. ❗️ Opened issue [#55](https://github.com/flamableassassin/status/issues/55) in [flamableassassin/status](https://github.com/flamableassassin/status)
+1. 🗣 Commented on [#28](https://github.com/Flagmaker-Print/status/issues/28) in [Flagmaker-Print/status](https://github.com/Flagmaker-Print/status)
+2. 🗣 Commented on [#28](https://github.com/Flagmaker-Print/status/issues/28) in [Flagmaker-Print/status](https://github.com/Flagmaker-Print/status)
+3. ❗️ Closed issue [#55](https://github.com/flamableassassin/status/issues/55) in [flamableassassin/status](https://github.com/flamableassassin/status)
+4. 🗣 Commented on [#55](https://github.com/flamableassassin/status/issues/55) in [flamableassassin/status](https://github.com/flamableassassin/status)
+5. ❗️ Closed issue [#54](https://github.com/flamableassassin/status/issues/54) in [flamableassassin/status](https://github.com/flamableassassin/status)
   <!--END_SECTION:activity-->
 
 </details>
