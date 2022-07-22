@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [palmellaceous](https://www.wordnik.com/words/palmellaceous)
+- Random word of the day: [immoralise](https://www.wordnik.com/words/immoralise)
 <!--END_SECTION:randomWord-->
 
 <details>
