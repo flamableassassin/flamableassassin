@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [civilizing](https://www.wordnik.com/words/civilizing)
+- Random word of the day: [tridacnidae](https://www.wordnik.com/words/tridacnidae)
 <!--END_SECTION:randomWord-->
 
 <details>
