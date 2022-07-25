@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [tridacnidae](https://www.wordnik.com/words/tridacnidae)
+- Random word of the day: [lecanomancer](https://www.wordnik.com/words/lecanomancer)
 <!--END_SECTION:randomWord-->
 
 <details>
