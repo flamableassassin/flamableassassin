@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [guniter](https://www.wordnik.com/words/guniter)
+- Random word of the day: [speedful](https://www.wordnik.com/words/speedful)
 <!--END_SECTION:randomWord-->
 
 <details>
