@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [animists](https://www.wordnik.com/words/animists)
+- Random word of the day: [excitements](https://www.wordnik.com/words/excitements)
 <!--END_SECTION:randomWord-->
 
 <details>
