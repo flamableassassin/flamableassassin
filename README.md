@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [clubionidae](https://www.wordnik.com/words/clubionidae)
+- Random word of the day: [berean](https://www.wordnik.com/words/berean)
 <!--END_SECTION:randomWord-->
 
 <details>
