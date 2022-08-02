@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [berean](https://www.wordnik.com/words/berean)
+- Random word of the day: [lunatic](https://www.wordnik.com/words/lunatic)
 <!--END_SECTION:randomWord-->
 
 <details>
