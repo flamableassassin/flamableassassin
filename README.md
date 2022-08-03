@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [lunatic](https://www.wordnik.com/words/lunatic)
+- Random word of the day: [allegorizer](https://www.wordnik.com/words/allegorizer)
 <!--END_SECTION:randomWord-->
 
 <details>
