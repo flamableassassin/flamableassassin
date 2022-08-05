@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [syndactylus](https://www.wordnik.com/words/syndactylus)
+- Random word of the day: [werefox](https://www.wordnik.com/words/werefox)
 <!--END_SECTION:randomWord-->
 
 <details>
