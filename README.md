@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [werefox](https://www.wordnik.com/words/werefox)
+- Random word of the day: [pellucent](https://www.wordnik.com/words/pellucent)
 <!--END_SECTION:randomWord-->
 
 <details>
