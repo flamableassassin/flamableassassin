@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [pellucent](https://www.wordnik.com/words/pellucent)
+- Random word of the day: [poleman](https://www.wordnik.com/words/poleman)
 <!--END_SECTION:randomWord-->
 
 <details>
