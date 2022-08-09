@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [protemperance](https://www.wordnik.com/words/protemperance)
+- Random word of the day: [hirseled](https://www.wordnik.com/words/hirseled)
 <!--END_SECTION:randomWord-->
 
 <details>
