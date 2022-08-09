@@ -33,11 +33,11 @@ Other        42 mins         ▓░░░░░░░░░░░░░░░░
     <br>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/Flagmaker-Print/status/issues/31) in [Flagmaker-Print/status](https://github.com/Flagmaker-Print/status)
-2. ❗️ Opened issue [#31](https://github.com/Flagmaker-Print/status/issues/31) in [Flagmaker-Print/status](https://github.com/Flagmaker-Print/status)
-3. ❗️ Closed issue [#29](https://github.com/Flagmaker-Print/status/issues/29) in [Flagmaker-Print/status](https://github.com/Flagmaker-Print/status)
-4. 🗣 Commented on [#30](https://github.com/Flagmaker-Print/status/issues/30) in [Flagmaker-Print/status](https://github.com/Flagmaker-Print/status)
-5. ❗️ Opened issue [#29](https://github.com/Flagmaker-Print/status/issues/29) in [Flagmaker-Print/status](https://github.com/Flagmaker-Print/status)
+1. ❗️ Opened issue [#1](https://github.com/acikek/Vexii/issues/1) in [acikek/Vexii](https://github.com/acikek/Vexii)
+2. 🗣 Commented on [#31](https://github.com/Flagmaker-Print/status/issues/31) in [Flagmaker-Print/status](https://github.com/Flagmaker-Print/status)
+3. ❗️ Opened issue [#31](https://github.com/Flagmaker-Print/status/issues/31) in [Flagmaker-Print/status](https://github.com/Flagmaker-Print/status)
+4. ❗️ Closed issue [#29](https://github.com/Flagmaker-Print/status/issues/29) in [Flagmaker-Print/status](https://github.com/Flagmaker-Print/status)
+5. 🗣 Commented on [#30](https://github.com/Flagmaker-Print/status/issues/30) in [Flagmaker-Print/status](https://github.com/Flagmaker-Print/status)
   <!--END_SECTION:activity-->
 
 </details>
