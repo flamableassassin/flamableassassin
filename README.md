@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [hypermagically](https://www.wordnik.com/words/hypermagically)
+- Random word of the day: [extrahepatic](https://www.wordnik.com/words/extrahepatic)
 <!--END_SECTION:randomWord-->
 
 <details>
