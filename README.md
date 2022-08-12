@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [extrahepatic](https://www.wordnik.com/words/extrahepatic)
+- Random word of the day: [caswellite](https://www.wordnik.com/words/caswellite)
 <!--END_SECTION:randomWord-->
 
 <details>
