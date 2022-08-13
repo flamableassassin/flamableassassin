@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [caswellite](https://www.wordnik.com/words/caswellite)
+- Random word of the day: [autoallogamous](https://www.wordnik.com/words/autoallogamous)
 <!--END_SECTION:randomWord-->
 
 <details>
