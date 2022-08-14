@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [autoallogamous](https://www.wordnik.com/words/autoallogamous)
+- Random word of the day: [impala](https://www.wordnik.com/words/impala)
 <!--END_SECTION:randomWord-->
 
 <details>
