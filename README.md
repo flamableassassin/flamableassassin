@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [impala](https://www.wordnik.com/words/impala)
+- Random word of the day: [prespurring](https://www.wordnik.com/words/prespurring)
 <!--END_SECTION:randomWord-->
 
 <details>
