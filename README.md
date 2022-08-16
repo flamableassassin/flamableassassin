@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [prespurring](https://www.wordnik.com/words/prespurring)
+- Random word of the day: [gastrophilus](https://www.wordnik.com/words/gastrophilus)
 <!--END_SECTION:randomWord-->
 
 <details>
