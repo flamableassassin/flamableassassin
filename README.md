@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [msink](https://www.wordnik.com/words/msink)
+- Random word of the day: [injudicial](https://www.wordnik.com/words/injudicial)
 <!--END_SECTION:randomWord-->
 
 <details>
