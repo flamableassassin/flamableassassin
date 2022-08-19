@@ -18,12 +18,12 @@
   <!--START_SECTION:waka-->
 
 ```text
-YAML                       11 hrs 20 mins  ████████████░░░░░░░░░░░░░   47.53 %
-JavaScript                 5 hrs 51 mins   ██████░░░░░░░░░░░░░░░░░░░   24.55 %
-Docker                     4 hrs 1 min     ████▒░░░░░░░░░░░░░░░░░░░░   16.84 %
-Nginx configuration file   1 hr 50 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
-Bash                       18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-JSON                       7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+YAML                       11 hrs 20 mins  █████████▓░░░░░░░░░░░░░░░   38.03 %
+JavaScript                 9 hrs 36 mins   ████████░░░░░░░░░░░░░░░░░   32.21 %
+Docker                     4 hrs 33 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.28 %
+Nginx configuration file   1 hr 50 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+Bash                       1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+JSON                       38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 ```
 
 <!--END_SECTION:waka-->
