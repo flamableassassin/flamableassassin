@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [injudicial](https://www.wordnik.com/words/injudicial)
+- Random word of the day: [hansard](https://www.wordnik.com/words/hansard)
 <!--END_SECTION:randomWord-->
 
 <details>
