@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [yadim](https://www.wordnik.com/words/yadim)
+- Random word of the day: [adulterously](https://www.wordnik.com/words/adulterously)
 <!--END_SECTION:randomWord-->
 
 <details>
