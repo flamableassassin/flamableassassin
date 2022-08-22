@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [adulterously](https://www.wordnik.com/words/adulterously)
+- Random word of the day: [semisaturation](https://www.wordnik.com/words/semisaturation)
 <!--END_SECTION:randomWord-->
 
 <details>
