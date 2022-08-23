@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [semisaturation](https://www.wordnik.com/words/semisaturation)
+- Random word of the day: [perforate](https://www.wordnik.com/words/perforate)
 <!--END_SECTION:randomWord-->
 
 <details>
