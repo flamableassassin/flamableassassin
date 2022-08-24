@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [perforate](https://www.wordnik.com/words/perforate)
+- Random word of the day: [ambiversion](https://www.wordnik.com/words/ambiversion)
 <!--END_SECTION:randomWord-->
 
 <details>
