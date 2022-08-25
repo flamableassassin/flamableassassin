@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [ambiversion](https://www.wordnik.com/words/ambiversion)
+- Random word of the day: [befreight](https://www.wordnik.com/words/befreight)
 <!--END_SECTION:randomWord-->
 
 <details>
