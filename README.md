@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [befreight](https://www.wordnik.com/words/befreight)
+- Random word of the day: [kolkhosy](https://www.wordnik.com/words/kolkhosy)
 <!--END_SECTION:randomWord-->
 
 <details>
