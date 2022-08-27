@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [kolkhosy](https://www.wordnik.com/words/kolkhosy)
+- Random word of the day: [aurorae](https://www.wordnik.com/words/aurorae)
 <!--END_SECTION:randomWord-->
 
 <details>
