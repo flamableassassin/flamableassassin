@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [aurorae](https://www.wordnik.com/words/aurorae)
+- Random word of the day: [decalog](https://www.wordnik.com/words/decalog)
 <!--END_SECTION:randomWord-->
 
 <details>
