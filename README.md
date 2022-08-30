@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [forfairn](https://www.wordnik.com/words/forfairn)
+- Random word of the day: [hyoideal](https://www.wordnik.com/words/hyoideal)
 <!--END_SECTION:randomWord-->
 
 <details>
