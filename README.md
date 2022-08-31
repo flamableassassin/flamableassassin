@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [hyoideal](https://www.wordnik.com/words/hyoideal)
+- Random word of the day: [proliturgical](https://www.wordnik.com/words/proliturgical)
 <!--END_SECTION:randomWord-->
 
 <details>
