@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [proliturgical](https://www.wordnik.com/words/proliturgical)
+- Random word of the day: [puckishly](https://www.wordnik.com/words/puckishly)
 <!--END_SECTION:randomWord-->
 
 <details>
