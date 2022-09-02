@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [puckishly](https://www.wordnik.com/words/puckishly)
+- Random word of the day: [mediative](https://www.wordnik.com/words/mediative)
 <!--END_SECTION:randomWord-->
 
 <details>
