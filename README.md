@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [mediative](https://www.wordnik.com/words/mediative)
+- Random word of the day: [polypods](https://www.wordnik.com/words/polypods)
 <!--END_SECTION:randomWord-->
 
 <details>
