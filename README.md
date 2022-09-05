@@ -7,7 +7,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [mouthiest](https://www.wordnik.com/words/mouthiest)
+- Random word of the day: [hemocyanin](https://www.wordnik.com/words/hemocyanin)
 <!--END_SECTION:randomWord-->
 
 <details>
