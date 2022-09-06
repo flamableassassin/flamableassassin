@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [hemocyanin](https://www.wordnik.com/words/hemocyanin)
+- Random word of the day: [ectobatic](https://www.wordnik.com/words/ectobatic)
 <!--END_SECTION:randomWord-->
 
 <details>
