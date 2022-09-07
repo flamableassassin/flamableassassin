@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [ectobatic](https://www.wordnik.com/words/ectobatic)
+- Random word of the day: [trunkfish](https://www.wordnik.com/words/trunkfish)
 <!--END_SECTION:randomWord-->
 
 <details>
