@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [trunkfish](https://www.wordnik.com/words/trunkfish)
+- Random word of the day: [jaggedness](https://www.wordnik.com/words/jaggedness)
 <!--END_SECTION:randomWord-->
 
 <details>
