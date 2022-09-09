@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [jaggedness](https://www.wordnik.com/words/jaggedness)
+- Random word of the day: [coelozoic](https://www.wordnik.com/words/coelozoic)
 <!--END_SECTION:randomWord-->
 
 <details>
