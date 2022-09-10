@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [coelozoic](https://www.wordnik.com/words/coelozoic)
+- Random word of the day: [misintention](https://www.wordnik.com/words/misintention)
 <!--END_SECTION:randomWord-->
 
 <details>
