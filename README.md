@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [misintention](https://www.wordnik.com/words/misintention)
+- Random word of the day: [domiciliate](https://www.wordnik.com/words/domiciliate)
 <!--END_SECTION:randomWord-->
 
 <details>
