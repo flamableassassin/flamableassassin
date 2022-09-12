@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [domiciliate](https://www.wordnik.com/words/domiciliate)
+- Random word of the day: [dyserethisia](https://www.wordnik.com/words/dyserethisia)
 <!--END_SECTION:randomWord-->
 
 <details>
