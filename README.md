@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [dyserethisia](https://www.wordnik.com/words/dyserethisia)
+- Random word of the day: [medithorax](https://www.wordnik.com/words/medithorax)
 <!--END_SECTION:randomWord-->
 
 <details>
