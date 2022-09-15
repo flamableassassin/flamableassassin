@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [gastrodisk](https://www.wordnik.com/words/gastrodisk)
+- Random word of the day: [amebicide](https://www.wordnik.com/words/amebicide)
 <!--END_SECTION:randomWord-->
 
 <details>
