@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [amebicide](https://www.wordnik.com/words/amebicide)
+- Random word of the day: [unifoliar](https://www.wordnik.com/words/unifoliar)
 <!--END_SECTION:randomWord-->
 
 <details>
