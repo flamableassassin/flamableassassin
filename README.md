@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [unifoliar](https://www.wordnik.com/words/unifoliar)
+- Random word of the day: [iberian](https://www.wordnik.com/words/iberian)
 <!--END_SECTION:randomWord-->
 
 <details>
