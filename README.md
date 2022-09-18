@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [iberian](https://www.wordnik.com/words/iberian)
+- Random word of the day: [batlike](https://www.wordnik.com/words/batlike)
 <!--END_SECTION:randomWord-->
 
 <details>
