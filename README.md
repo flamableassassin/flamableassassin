@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [batlike](https://www.wordnik.com/words/batlike)
+- Random word of the day: [meuse](https://www.wordnik.com/words/meuse)
 <!--END_SECTION:randomWord-->
 
 <details>
