@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [meuse](https://www.wordnik.com/words/meuse)
+- Random word of the day: [inflexibly](https://www.wordnik.com/words/inflexibly)
 <!--END_SECTION:randomWord-->
 
 <details>
