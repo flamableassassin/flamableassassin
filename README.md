@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [glirine](https://www.wordnik.com/words/glirine)
+- Random word of the day: [melteth](https://www.wordnik.com/words/melteth)
 <!--END_SECTION:randomWord-->
 
 <details>
