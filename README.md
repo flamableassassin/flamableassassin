@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [melteth](https://www.wordnik.com/words/melteth)
+- Random word of the day: [skinheads](https://www.wordnik.com/words/skinheads)
 <!--END_SECTION:randomWord-->
 
 <details>
