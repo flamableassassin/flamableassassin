@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [skinheads](https://www.wordnik.com/words/skinheads)
+- Random word of the day: [litherness](https://www.wordnik.com/words/litherness)
 <!--END_SECTION:randomWord-->
 
 <details>
