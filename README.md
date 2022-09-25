@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [litherness](https://www.wordnik.com/words/litherness)
+- Random word of the day: [antiauxin](https://www.wordnik.com/words/antiauxin)
 <!--END_SECTION:randomWord-->
 
 <details>
