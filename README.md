@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [antiauxin](https://www.wordnik.com/words/antiauxin)
+- Random word of the day: [unrecuperative](https://www.wordnik.com/words/unrecuperative)
 <!--END_SECTION:randomWord-->
 
 <details>
