@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [unrecuperative](https://www.wordnik.com/words/unrecuperative)
+- Random word of the day: [cadge](https://www.wordnik.com/words/cadge)
 <!--END_SECTION:randomWord-->
 
 <details>
