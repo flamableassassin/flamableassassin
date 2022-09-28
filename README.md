@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cadge](https://www.wordnik.com/words/cadge)
+- Random word of the day: [symmetrising](https://www.wordnik.com/words/symmetrising)
 <!--END_SECTION:randomWord-->
 
 <details>
