@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [copyism](https://www.wordnik.com/words/copyism)
+- Random word of the day: [discriminantal](https://www.wordnik.com/words/discriminantal)
 <!--END_SECTION:randomWord-->
 
 <details>
