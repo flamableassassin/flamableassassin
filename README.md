@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [discriminantal](https://www.wordnik.com/words/discriminantal)
+- Random word of the day: [plungeon](https://www.wordnik.com/words/plungeon)
 <!--END_SECTION:randomWord-->
 
 <details>
