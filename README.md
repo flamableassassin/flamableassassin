@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [eritrean](https://www.wordnik.com/words/eritrean)
+- Random word of the day: [chelydra](https://www.wordnik.com/words/chelydra)
 <!--END_SECTION:randomWord-->
 
 <details>
