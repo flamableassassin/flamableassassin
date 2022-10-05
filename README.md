@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [chelydra](https://www.wordnik.com/words/chelydra)
+- Random word of the day: [scavenge](https://www.wordnik.com/words/scavenge)
 <!--END_SECTION:randomWord-->
 
 <details>
