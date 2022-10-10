@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [gummic](https://www.wordnik.com/words/gummic)
+- Random word of the day: [phytoecologist](https://www.wordnik.com/words/phytoecologist)
 <!--END_SECTION:randomWord-->
 
 <details>
