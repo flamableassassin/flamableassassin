@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [phytoecologist](https://www.wordnik.com/words/phytoecologist)
+- Random word of the day: [staunchable](https://www.wordnik.com/words/staunchable)
 <!--END_SECTION:randomWord-->
 
 <details>
