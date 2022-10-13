@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cryonic](https://www.wordnik.com/words/cryonic)
+- Random word of the day: [cephalon](https://www.wordnik.com/words/cephalon)
 <!--END_SECTION:randomWord-->
 
 <details>
