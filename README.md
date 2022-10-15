@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [antepectus](https://www.wordnik.com/words/antepectus)
+- Random word of the day: [dolorimeter](https://www.wordnik.com/words/dolorimeter)
 <!--END_SECTION:randomWord-->
 
 <details>
