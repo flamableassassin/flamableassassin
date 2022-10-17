@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [becheck](https://www.wordnik.com/words/becheck)
+- Random word of the day: [lothario](https://www.wordnik.com/words/lothario)
 <!--END_SECTION:randomWord-->
 
 <details>
