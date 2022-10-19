@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [eastlings](https://www.wordnik.com/words/eastlings)
+- Random word of the day: [onomasiological](https://www.wordnik.com/words/onomasiological)
 <!--END_SECTION:randomWord-->
 
 <details>
