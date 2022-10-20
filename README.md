@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [onomasiological](https://www.wordnik.com/words/onomasiological)
+- Random word of the day: [dismayful](https://www.wordnik.com/words/dismayful)
 <!--END_SECTION:randomWord-->
 
 <details>
