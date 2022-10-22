@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [serranos](https://www.wordnik.com/words/serranos)
+- Random word of the day: [pregracious](https://www.wordnik.com/words/pregracious)
 <!--END_SECTION:randomWord-->
 
 <details>
