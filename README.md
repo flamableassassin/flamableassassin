@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [pregracious](https://www.wordnik.com/words/pregracious)
+- Random word of the day: [citola](https://www.wordnik.com/words/citola)
 <!--END_SECTION:randomWord-->
 
 <details>
