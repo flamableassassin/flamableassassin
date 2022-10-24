@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [citola](https://www.wordnik.com/words/citola)
+- Random word of the day: [homonymity](https://www.wordnik.com/words/homonymity)
 <!--END_SECTION:randomWord-->
 
 <details>
