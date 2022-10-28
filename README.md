@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cobaltamine](https://www.wordnik.com/words/cobaltamine)
+- Random word of the day: [periosteoma](https://www.wordnik.com/words/periosteoma)
 <!--END_SECTION:randomWord-->
 
 <details>
