@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [periosteoma](https://www.wordnik.com/words/periosteoma)
+- Random word of the day: [carmeloite](https://www.wordnik.com/words/carmeloite)
 <!--END_SECTION:randomWord-->
 
 <details>
