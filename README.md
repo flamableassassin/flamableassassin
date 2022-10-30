@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [carmeloite](https://www.wordnik.com/words/carmeloite)
+- Random word of the day: [dabbler](https://www.wordnik.com/words/dabbler)
 <!--END_SECTION:randomWord-->
 
 <details>
