@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [baled](https://www.wordnik.com/words/baled)
+- Random word of the day: [copperytailed](https://www.wordnik.com/words/copperytailed)
 <!--END_SECTION:randomWord-->
 
 <details>
