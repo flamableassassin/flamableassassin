@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cello](https://www.wordnik.com/words/cello)
+- Random word of the day: [steenkirk](https://www.wordnik.com/words/steenkirk)
 <!--END_SECTION:randomWord-->
 
 <details>
