@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [steenkirk](https://www.wordnik.com/words/steenkirk)
+- Random word of the day: [selenitical](https://www.wordnik.com/words/selenitical)
 <!--END_SECTION:randomWord-->
 
 <details>
