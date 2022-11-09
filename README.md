@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [psychogeny](https://www.wordnik.com/words/psychogeny)
+- Random word of the day: [onion](https://www.wordnik.com/words/onion)
 <!--END_SECTION:randomWord-->
 
 <details>
