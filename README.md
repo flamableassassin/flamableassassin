@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [onion](https://www.wordnik.com/words/onion)
+- Random word of the day: [shellak](https://www.wordnik.com/words/shellak)
 <!--END_SECTION:randomWord-->
 
 <details>
