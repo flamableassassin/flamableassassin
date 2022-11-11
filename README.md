@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [shellak](https://www.wordnik.com/words/shellak)
+- Random word of the day: [endocranium](https://www.wordnik.com/words/endocranium)
 <!--END_SECTION:randomWord-->
 
 <details>
