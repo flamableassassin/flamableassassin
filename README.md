@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [endocranium](https://www.wordnik.com/words/endocranium)
+- Random word of the day: [fibrillations](https://www.wordnik.com/words/fibrillations)
 <!--END_SECTION:randomWord-->
 
 <details>
