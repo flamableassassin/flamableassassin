@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cyanocrystallin](https://www.wordnik.com/words/cyanocrystallin)
+- Random word of the day: [homochiral](https://www.wordnik.com/words/homochiral)
 <!--END_SECTION:randomWord-->
 
 <details>
