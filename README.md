@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [homochiral](https://www.wordnik.com/words/homochiral)
+- Random word of the day: [gipsology](https://www.wordnik.com/words/gipsology)
 <!--END_SECTION:randomWord-->
 
 <details>
