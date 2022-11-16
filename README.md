@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [gipsology](https://www.wordnik.com/words/gipsology)
+- Random word of the day: [uttered](https://www.wordnik.com/words/uttered)
 <!--END_SECTION:randomWord-->
 
 <details>
