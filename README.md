@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [fritts](https://www.wordnik.com/words/fritts)
+- Random word of the day: [earjewel](https://www.wordnik.com/words/earjewel)
 <!--END_SECTION:randomWord-->
 
 <details>
