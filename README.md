@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [undisinherited](https://www.wordnik.com/words/undisinherited)
+- Random word of the day: [flagmaking](https://www.wordnik.com/words/flagmaking)
 <!--END_SECTION:randomWord-->
 
 <details>
