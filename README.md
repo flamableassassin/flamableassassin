@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [flagmaking](https://www.wordnik.com/words/flagmaking)
+- Random word of the day: [bowdlerizer](https://www.wordnik.com/words/bowdlerizer)
 <!--END_SECTION:randomWord-->
 
 <details>
