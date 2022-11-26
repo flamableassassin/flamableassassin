@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [bowdlerizer](https://www.wordnik.com/words/bowdlerizer)
+- Random word of the day: [chondroseptum](https://www.wordnik.com/words/chondroseptum)
 <!--END_SECTION:randomWord-->
 
 <details>
