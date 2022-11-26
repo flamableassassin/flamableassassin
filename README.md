@@ -11,8 +11,6 @@
 
 <details>
   <summary><b>Recent Development Activity</b></summary>
-  Doesn't record in dev containers
-    <br> 
   
   <!--START_SECTION:waka-->
 
