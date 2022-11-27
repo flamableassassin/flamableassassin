@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [chondroseptum](https://www.wordnik.com/words/chondroseptum)
+- Random word of the day: [onlap](https://www.wordnik.com/words/onlap)
 <!--END_SECTION:randomWord-->
 
 <details>
