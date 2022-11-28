@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [onlap](https://www.wordnik.com/words/onlap)
+- Random word of the day: [checkrowed](https://www.wordnik.com/words/checkrowed)
 <!--END_SECTION:randomWord-->
 
 <details>
