@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [falciparum](https://www.wordnik.com/words/falciparum)
+- Random word of the day: [caloris](https://www.wordnik.com/words/caloris)
 <!--END_SECTION:randomWord-->
 
 <details>
