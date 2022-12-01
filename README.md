@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [caloris](https://www.wordnik.com/words/caloris)
+- Random word of the day: [unbluffed](https://www.wordnik.com/words/unbluffed)
 <!--END_SECTION:randomWord-->
 
 <details>
