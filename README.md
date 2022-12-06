@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [pachytrichous](https://www.wordnik.com/words/pachytrichous)
+- Random word of the day: [gelatinizer](https://www.wordnik.com/words/gelatinizer)
 <!--END_SECTION:randomWord-->
 
 <details>
