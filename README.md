@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [gelatinizer](https://www.wordnik.com/words/gelatinizer)
+- Random word of the day: [hyperinflation](https://www.wordnik.com/words/hyperinflation)
 <!--END_SECTION:randomWord-->
 
 <details>
