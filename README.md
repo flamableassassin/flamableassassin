@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [hyperinflation](https://www.wordnik.com/words/hyperinflation)
+- Random word of the day: [tentortoria](https://www.wordnik.com/words/tentortoria)
 <!--END_SECTION:randomWord-->
 
 <details>
