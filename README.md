@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [skypipe](https://www.wordnik.com/words/skypipe)
+- Random word of the day: [laevogyrate](https://www.wordnik.com/words/laevogyrate)
 <!--END_SECTION:randomWord-->
 
 <details>
