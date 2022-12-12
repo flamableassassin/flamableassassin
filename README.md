@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [laevogyrate](https://www.wordnik.com/words/laevogyrate)
+- Random word of the day: [autostradas](https://www.wordnik.com/words/autostradas)
 <!--END_SECTION:randomWord-->
 
 <details>
