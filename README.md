@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [autostradas](https://www.wordnik.com/words/autostradas)
+- Random word of the day: [archcorsair](https://www.wordnik.com/words/archcorsair)
 <!--END_SECTION:randomWord-->
 
 <details>
