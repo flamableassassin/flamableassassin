@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [archcorsair](https://www.wordnik.com/words/archcorsair)
+- Random word of the day: [coproduce](https://www.wordnik.com/words/coproduce)
 <!--END_SECTION:randomWord-->
 
 <details>
