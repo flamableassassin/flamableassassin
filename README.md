@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [coproduce](https://www.wordnik.com/words/coproduce)
+- Random word of the day: [unallayably](https://www.wordnik.com/words/unallayably)
 <!--END_SECTION:randomWord-->
 
 <details>
