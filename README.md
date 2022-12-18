@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [rotavist](https://www.wordnik.com/words/rotavist)
+- Random word of the day: [baycuru](https://www.wordnik.com/words/baycuru)
 <!--END_SECTION:randomWord-->
 
 <details>
