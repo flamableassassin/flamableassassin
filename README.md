@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [baycuru](https://www.wordnik.com/words/baycuru)
+- Random word of the day: [unautomatically](https://www.wordnik.com/words/unautomatically)
 <!--END_SECTION:randomWord-->
 
 <details>
