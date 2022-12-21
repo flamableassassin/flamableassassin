@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [bicameral](https://www.wordnik.com/words/bicameral)
+- Random word of the day: [underfootman](https://www.wordnik.com/words/underfootman)
 <!--END_SECTION:randomWord-->
 
 <details>
