@@ -15,7 +15,9 @@
   <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   36 mins         ███████████████████████▒░   93.63 %
+JSON         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka-->
