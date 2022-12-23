@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [nonrectified](https://www.wordnik.com/words/nonrectified)
+- Random word of the day: [semiticism](https://www.wordnik.com/words/semiticism)
 <!--END_SECTION:randomWord-->
 
 <details>
