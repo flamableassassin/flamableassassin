@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [jinriki](https://www.wordnik.com/words/jinriki)
+- Random word of the day: [acyloin](https://www.wordnik.com/words/acyloin)
 <!--END_SECTION:randomWord-->
 
 <details>
