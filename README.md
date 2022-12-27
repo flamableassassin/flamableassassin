@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [wishmay](https://www.wordnik.com/words/wishmay)
+- Random word of the day: [stupidhead](https://www.wordnik.com/words/stupidhead)
 <!--END_SECTION:randomWord-->
 
 <details>
