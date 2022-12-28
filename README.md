@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [stupidhead](https://www.wordnik.com/words/stupidhead)
+- Random word of the day: [plasmodesmata](https://www.wordnik.com/words/plasmodesmata)
 <!--END_SECTION:randomWord-->
 
 <details>
