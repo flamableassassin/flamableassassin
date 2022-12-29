@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [plasmodesmata](https://www.wordnik.com/words/plasmodesmata)
+- Random word of the day: [woodlocked](https://www.wordnik.com/words/woodlocked)
 <!--END_SECTION:randomWord-->
 
 <details>
