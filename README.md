@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [woodlocked](https://www.wordnik.com/words/woodlocked)
+- Random word of the day: [firedamps](https://www.wordnik.com/words/firedamps)
 <!--END_SECTION:randomWord-->
 
 <details>
