@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [eosinophilous](https://www.wordnik.com/words/eosinophilous)
+- Random word of the day: [linnets](https://www.wordnik.com/words/linnets)
 <!--END_SECTION:randomWord-->
 
 <details>
