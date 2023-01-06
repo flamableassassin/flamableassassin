@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [linnets](https://www.wordnik.com/words/linnets)
+- Random word of the day: [theologicomoral](https://www.wordnik.com/words/theologicomoral)
 <!--END_SECTION:randomWord-->
 
 <details>
