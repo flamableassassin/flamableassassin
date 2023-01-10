@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [vanner](https://www.wordnik.com/words/vanner)
+- Random word of the day: [floorcloths](https://www.wordnik.com/words/floorcloths)
 <!--END_SECTION:randomWord-->
 
 <details>
