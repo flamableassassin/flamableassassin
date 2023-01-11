@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [floorcloths](https://www.wordnik.com/words/floorcloths)
+- Random word of the day: [sootying](https://www.wordnik.com/words/sootying)
 <!--END_SECTION:randomWord-->
 
 <details>
