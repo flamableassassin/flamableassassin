@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [kornerupine](https://www.wordnik.com/words/kornerupine)
+- Random word of the day: [minerologist](https://www.wordnik.com/words/minerologist)
 <!--END_SECTION:randomWord-->
 
 <details>
