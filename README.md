@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [minerologist](https://www.wordnik.com/words/minerologist)
+- Random word of the day: [appulses](https://www.wordnik.com/words/appulses)
 <!--END_SECTION:randomWord-->
 
 <details>
