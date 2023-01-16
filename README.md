@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [blindfishes](https://www.wordnik.com/words/blindfishes)
+- Random word of the day: [rosariums](https://www.wordnik.com/words/rosariums)
 <!--END_SECTION:randomWord-->
 
 <details>
