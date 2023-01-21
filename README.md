@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [trier](https://www.wordnik.com/words/trier)
+- Random word of the day: [elytrum](https://www.wordnik.com/words/elytrum)
 <!--END_SECTION:randomWord-->
 
 <details>
