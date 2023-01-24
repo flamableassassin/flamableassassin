@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [jardiniere](https://www.wordnik.com/words/jardiniere)
+- Random word of the day: [superpersonal](https://www.wordnik.com/words/superpersonal)
 <!--END_SECTION:randomWord-->
 
 <details>
