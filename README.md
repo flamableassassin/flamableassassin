@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [superpersonal](https://www.wordnik.com/words/superpersonal)
+- Random word of the day: [jockeying](https://www.wordnik.com/words/jockeying)
 <!--END_SECTION:randomWord-->
 
 <details>
