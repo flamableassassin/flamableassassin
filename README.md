@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [jockeying](https://www.wordnik.com/words/jockeying)
+- Random word of the day: [ptinid](https://www.wordnik.com/words/ptinid)
 <!--END_SECTION:randomWord-->
 
 <details>
