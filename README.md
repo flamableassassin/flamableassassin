@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [potstone](https://www.wordnik.com/words/potstone)
+- Random word of the day: [anopias](https://www.wordnik.com/words/anopias)
 <!--END_SECTION:randomWord-->
 
 <details>
