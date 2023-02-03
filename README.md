@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [fratched](https://www.wordnik.com/words/fratched)
+- Random word of the day: [erudition](https://www.wordnik.com/words/erudition)
 <!--END_SECTION:randomWord-->
 
 <details>
