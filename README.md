@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [erudition](https://www.wordnik.com/words/erudition)
+- Random word of the day: [transmissory](https://www.wordnik.com/words/transmissory)
 <!--END_SECTION:randomWord-->
 
 <details>
