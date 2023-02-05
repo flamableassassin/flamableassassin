@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [transmissory](https://www.wordnik.com/words/transmissory)
+- Random word of the day: [belauding](https://www.wordnik.com/words/belauding)
 <!--END_SECTION:randomWord-->
 
 <details>
