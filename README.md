@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [belauding](https://www.wordnik.com/words/belauding)
+- Random word of the day: [intervocalic](https://www.wordnik.com/words/intervocalic)
 <!--END_SECTION:randomWord-->
 
 <details>
