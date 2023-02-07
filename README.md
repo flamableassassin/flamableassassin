@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [intervocalic](https://www.wordnik.com/words/intervocalic)
+- Random word of the day: [antarchy](https://www.wordnik.com/words/antarchy)
 <!--END_SECTION:randomWord-->
 
 <details>
