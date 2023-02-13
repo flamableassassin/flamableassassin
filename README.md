@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [makedom](https://www.wordnik.com/words/makedom)
+- Random word of the day: [modernizing](https://www.wordnik.com/words/modernizing)
 <!--END_SECTION:randomWord-->
 
 <details>
