@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [emmetropism](https://www.wordnik.com/words/emmetropism)
+- Random word of the day: [literatos](https://www.wordnik.com/words/literatos)
 <!--END_SECTION:randomWord-->
 
 <details>
