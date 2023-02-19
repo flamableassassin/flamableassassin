@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [literatos](https://www.wordnik.com/words/literatos)
+- Random word of the day: [hydrogenizing](https://www.wordnik.com/words/hydrogenizing)
 <!--END_SECTION:randomWord-->
 
 <details>
