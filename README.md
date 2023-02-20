@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [hydrogenizing](https://www.wordnik.com/words/hydrogenizing)
+- Random word of the day: [excuser](https://www.wordnik.com/words/excuser)
 <!--END_SECTION:randomWord-->
 
 <details>
