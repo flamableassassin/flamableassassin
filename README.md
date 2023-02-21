@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [excuser](https://www.wordnik.com/words/excuser)
+- Random word of the day: [annotation](https://www.wordnik.com/words/annotation)
 <!--END_SECTION:randomWord-->
 
 <details>
