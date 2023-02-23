@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [bypass](https://www.wordnik.com/words/bypass)
+- Random word of the day: [homestretches](https://www.wordnik.com/words/homestretches)
 <!--END_SECTION:randomWord-->
 
 <details>
