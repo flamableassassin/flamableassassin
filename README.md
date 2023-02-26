@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [poroplastic](https://www.wordnik.com/words/poroplastic)
+- Random word of the day: [howks](https://www.wordnik.com/words/howks)
 <!--END_SECTION:randomWord-->
 
 <details>
