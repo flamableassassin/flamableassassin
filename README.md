@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [tetrachlorides](https://www.wordnik.com/words/tetrachlorides)
+- Random word of the day: [disbuds](https://www.wordnik.com/words/disbuds)
 <!--END_SECTION:randomWord-->
 
 <details>
