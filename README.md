@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [intermede](https://www.wordnik.com/words/intermede)
+- Random word of the day: [polyantha](https://www.wordnik.com/words/polyantha)
 <!--END_SECTION:randomWord-->
 
 <details>
