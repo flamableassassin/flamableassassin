@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [polyantha](https://www.wordnik.com/words/polyantha)
+- Random word of the day: [utopisms](https://www.wordnik.com/words/utopisms)
 <!--END_SECTION:randomWord-->
 
 <details>
