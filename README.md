@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [utopisms](https://www.wordnik.com/words/utopisms)
+- Random word of the day: [symbiosis](https://www.wordnik.com/words/symbiosis)
 <!--END_SECTION:randomWord-->
 
 <details>
