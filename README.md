@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [symbiosis](https://www.wordnik.com/words/symbiosis)
+- Random word of the day: [marshs](https://www.wordnik.com/words/marshs)
 <!--END_SECTION:randomWord-->
 
 <details>
