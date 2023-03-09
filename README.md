@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [marshs](https://www.wordnik.com/words/marshs)
+- Random word of the day: [intracerebral](https://www.wordnik.com/words/intracerebral)
 <!--END_SECTION:randomWord-->
 
 <details>
