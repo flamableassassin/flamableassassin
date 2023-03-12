@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [broadhorn](https://www.wordnik.com/words/broadhorn)
+- Random word of the day: [becoom](https://www.wordnik.com/words/becoom)
 <!--END_SECTION:randomWord-->
 
 <details>
