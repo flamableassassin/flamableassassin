@@ -15,11 +15,9 @@
   <!--START_SECTION:waka-->
 
 ```text
-Python           4 hrs 15 mins   ███████████░░░░░░░░░░░░░░   44.04 %
-TSConfig         1 hr 50 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.11 %
-JavaScript       1 hr 12 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.47 %
-TypeScript       1 hr 10 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.08 %
-Other            32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+Python       4 hrs 15 mins   ████████████████░░░░░░░░░   64.08 %
+JavaScript   1 hr 2 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.71 %
+Other        31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
 ```
 
 <!--END_SECTION:waka-->
