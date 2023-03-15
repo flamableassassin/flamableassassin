@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [naturalizing](https://www.wordnik.com/words/naturalizing)
+- Random word of the day: [autoing](https://www.wordnik.com/words/autoing)
 <!--END_SECTION:randomWord-->
 
 <details>
