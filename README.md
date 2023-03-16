@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [autoing](https://www.wordnik.com/words/autoing)
+- Random word of the day: [neohipparion](https://www.wordnik.com/words/neohipparion)
 <!--END_SECTION:randomWord-->
 
 <details>
