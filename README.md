@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [neohipparion](https://www.wordnik.com/words/neohipparion)
+- Random word of the day: [nonmental](https://www.wordnik.com/words/nonmental)
 <!--END_SECTION:randomWord-->
 
 <details>
