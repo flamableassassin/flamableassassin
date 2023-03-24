@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [foothils](https://www.wordnik.com/words/foothils)
+- Random word of the day: [alleviation](https://www.wordnik.com/words/alleviation)
 <!--END_SECTION:randomWord-->
 
 <details>
