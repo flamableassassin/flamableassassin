@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [alleviation](https://www.wordnik.com/words/alleviation)
+- Random word of the day: [coralbush](https://www.wordnik.com/words/coralbush)
 <!--END_SECTION:randomWord-->
 
 <details>
