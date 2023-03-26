@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [coralbush](https://www.wordnik.com/words/coralbush)
+- Random word of the day: [supertaxation](https://www.wordnik.com/words/supertaxation)
 <!--END_SECTION:randomWord-->
 
 <details>
