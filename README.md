@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [supertaxation](https://www.wordnik.com/words/supertaxation)
+- Random word of the day: [squillgeeing](https://www.wordnik.com/words/squillgeeing)
 <!--END_SECTION:randomWord-->
 
 <details>
