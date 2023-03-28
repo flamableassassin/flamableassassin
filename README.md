@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [squillgeeing](https://www.wordnik.com/words/squillgeeing)
+- Random word of the day: [umpirism](https://www.wordnik.com/words/umpirism)
 <!--END_SECTION:randomWord-->
 
 <details>
