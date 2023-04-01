@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [peers](https://www.wordnik.com/words/peers)
+- Random word of the day: [nonrandomness](https://www.wordnik.com/words/nonrandomness)
 <!--END_SECTION:randomWord-->
 
 <details>
