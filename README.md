@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [graziers](https://www.wordnik.com/words/graziers)
+- Random word of the day: [neoclassicist](https://www.wordnik.com/words/neoclassicist)
 <!--END_SECTION:randomWord-->
 
 <details>
