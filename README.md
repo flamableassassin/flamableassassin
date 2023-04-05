@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [neoclassicist](https://www.wordnik.com/words/neoclassicist)
+- Random word of the day: [misthink](https://www.wordnik.com/words/misthink)
 <!--END_SECTION:randomWord-->
 
 <details>
