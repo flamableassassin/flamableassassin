@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [ricebirds](https://www.wordnik.com/words/ricebirds)
+- Random word of the day: [uterography](https://www.wordnik.com/words/uterography)
 <!--END_SECTION:randomWord-->
 
 <details>
