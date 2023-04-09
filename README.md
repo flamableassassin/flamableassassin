@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [uterography](https://www.wordnik.com/words/uterography)
+- Random word of the day: [autodynes](https://www.wordnik.com/words/autodynes)
 <!--END_SECTION:randomWord-->
 
 <details>
