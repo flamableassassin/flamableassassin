@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [effete](https://www.wordnik.com/words/effete)
+- Random word of the day: [matar](https://www.wordnik.com/words/matar)
 <!--END_SECTION:randomWord-->
 
 <details>
