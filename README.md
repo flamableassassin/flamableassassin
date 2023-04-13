@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [matar](https://www.wordnik.com/words/matar)
+- Random word of the day: [hydrocele](https://www.wordnik.com/words/hydrocele)
 <!--END_SECTION:randomWord-->
 
 <details>
