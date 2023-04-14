@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [hydrocele](https://www.wordnik.com/words/hydrocele)
+- Random word of the day: [handfastly](https://www.wordnik.com/words/handfastly)
 <!--END_SECTION:randomWord-->
 
 <details>
