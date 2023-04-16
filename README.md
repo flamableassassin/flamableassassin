@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [convocationally](https://www.wordnik.com/words/convocationally)
+- Random word of the day: [jobation](https://www.wordnik.com/words/jobation)
 <!--END_SECTION:randomWord-->
 
 <details>
