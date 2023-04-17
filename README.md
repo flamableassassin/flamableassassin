@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [jobation](https://www.wordnik.com/words/jobation)
+- Random word of the day: [unhomogeneously](https://www.wordnik.com/words/unhomogeneously)
 <!--END_SECTION:randomWord-->
 
 <details>
