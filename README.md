@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [greeniest](https://www.wordnik.com/words/greeniest)
+- Random word of the day: [carlos](https://www.wordnik.com/words/carlos)
 <!--END_SECTION:randomWord-->
 
 <details>
