@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [greynesses](https://www.wordnik.com/words/greynesses)
+- Random word of the day: [sheltron](https://www.wordnik.com/words/sheltron)
 <!--END_SECTION:randomWord-->
 
 <details>
