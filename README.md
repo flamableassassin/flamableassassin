@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [unmistressed](https://www.wordnik.com/words/unmistressed)
+- Random word of the day: [subcyaneous](https://www.wordnik.com/words/subcyaneous)
 <!--END_SECTION:randomWord-->
 
 <details>
