@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [subcyaneous](https://www.wordnik.com/words/subcyaneous)
+- Random word of the day: [expungeable](https://www.wordnik.com/words/expungeable)
 <!--END_SECTION:randomWord-->
 
 <details>
