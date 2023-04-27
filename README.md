@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [expungeable](https://www.wordnik.com/words/expungeable)
+- Random word of the day: [deerdrive](https://www.wordnik.com/words/deerdrive)
 <!--END_SECTION:randomWord-->
 
 <details>
