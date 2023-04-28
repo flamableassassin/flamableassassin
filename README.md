@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [deerdrive](https://www.wordnik.com/words/deerdrive)
+- Random word of the day: [reardoss](https://www.wordnik.com/words/reardoss)
 <!--END_SECTION:randomWord-->
 
 <details>
