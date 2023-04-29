@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [reardoss](https://www.wordnik.com/words/reardoss)
+- Random word of the day: [cankerfret](https://www.wordnik.com/words/cankerfret)
 <!--END_SECTION:randomWord-->
 
 <details>
