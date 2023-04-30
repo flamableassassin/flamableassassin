@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cankerfret](https://www.wordnik.com/words/cankerfret)
+- Random word of the day: [kebbuck](https://www.wordnik.com/words/kebbuck)
 <!--END_SECTION:randomWord-->
 
 <details>
