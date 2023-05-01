@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [kebbuck](https://www.wordnik.com/words/kebbuck)
+- Random word of the day: [immingle](https://www.wordnik.com/words/immingle)
 <!--END_SECTION:randomWord-->
 
 <details>
