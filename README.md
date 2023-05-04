@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [oceans](https://www.wordnik.com/words/oceans)
+- Random word of the day: [lituites](https://www.wordnik.com/words/lituites)
 <!--END_SECTION:randomWord-->
 
 <details>
