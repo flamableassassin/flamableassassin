@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [lituites](https://www.wordnik.com/words/lituites)
+- Random word of the day: [asterisms](https://www.wordnik.com/words/asterisms)
 <!--END_SECTION:randomWord-->
 
 <details>
