@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [calico](https://www.wordnik.com/words/calico)
+- Random word of the day: [replevy](https://www.wordnik.com/words/replevy)
 <!--END_SECTION:randomWord-->
 
 <details>
