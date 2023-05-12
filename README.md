@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [realism](https://www.wordnik.com/words/realism)
+- Random word of the day: [admittatur](https://www.wordnik.com/words/admittatur)
 <!--END_SECTION:randomWord-->
 
 <details>
