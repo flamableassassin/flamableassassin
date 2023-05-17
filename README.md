@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [multifold](https://www.wordnik.com/words/multifold)
+- Random word of the day: [enlighteners](https://www.wordnik.com/words/enlighteners)
 <!--END_SECTION:randomWord-->
 
 <details>
