@@ -15,8 +15,10 @@
   <!--START_SECTION:waka-->
 
 ```text
-Other        54 mins         █████████████████████████   99.99 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+PowerQuery   3 hrs 8 mins    ██████████████▒░░░░░░░░░░   57.37 %
+Python       1 hr 23 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.50 %
+Other        56 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.12 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
