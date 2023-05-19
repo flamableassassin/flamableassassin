@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [registrar](https://www.wordnik.com/words/registrar)
+- Random word of the day: [sphalerite](https://www.wordnik.com/words/sphalerite)
 <!--END_SECTION:randomWord-->
 
 <details>
