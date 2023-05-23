@@ -15,11 +15,11 @@
   <!--START_SECTION:waka-->
 
 ```text
-Other        4 hrs 12 mins   ███████▓░░░░░░░░░░░░░░░░░   30.92 %
-PowerQuery   3 hrs 39 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.89 %
-PowerShell   3 hrs 11 mins   ██████░░░░░░░░░░░░░░░░░░░   23.43 %
-Python       1 hr 25 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
-CSV          1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
+PowerQuery   3 hrs 39 mins   ███████▒░░░░░░░░░░░░░░░░░   28.81 %
+Other        3 hrs 18 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.99 %
+PowerShell   3 hrs 11 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.10 %
+Python       1 hr 25 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
+CSV          1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
 ```
 
 <!--END_SECTION:waka-->
