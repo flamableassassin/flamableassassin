@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [undertenant](https://www.wordnik.com/words/undertenant)
+- Random word of the day: [verticaling](https://www.wordnik.com/words/verticaling)
 <!--END_SECTION:randomWord-->
 
 <details>
