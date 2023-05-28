@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [dacryolin](https://www.wordnik.com/words/dacryolin)
+- Random word of the day: [hyphopodium](https://www.wordnik.com/words/hyphopodium)
 <!--END_SECTION:randomWord-->
 
 <details>
