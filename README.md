@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [fairnesses](https://www.wordnik.com/words/fairnesses)
+- Random word of the day: [beavered](https://www.wordnik.com/words/beavered)
 <!--END_SECTION:randomWord-->
 
 <details>
