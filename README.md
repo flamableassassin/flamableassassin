@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [manchets](https://www.wordnik.com/words/manchets)
+- Random word of the day: [excommunicative](https://www.wordnik.com/words/excommunicative)
 <!--END_SECTION:randomWord-->
 
 <details>
