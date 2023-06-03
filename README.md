@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [excommunicative](https://www.wordnik.com/words/excommunicative)
+- Random word of the day: [garran](https://www.wordnik.com/words/garran)
 <!--END_SECTION:randomWord-->
 
 <details>
