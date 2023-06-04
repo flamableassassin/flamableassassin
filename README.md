@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [garran](https://www.wordnik.com/words/garran)
+- Random word of the day: [mileposts](https://www.wordnik.com/words/mileposts)
 <!--END_SECTION:randomWord-->
 
 <details>
