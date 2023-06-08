@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [malaxation](https://www.wordnik.com/words/malaxation)
+- Random word of the day: [cocksureness](https://www.wordnik.com/words/cocksureness)
 <!--END_SECTION:randomWord-->
 
 <details>
