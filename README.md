@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cocksureness](https://www.wordnik.com/words/cocksureness)
+- Random word of the day: [berreaves](https://www.wordnik.com/words/berreaves)
 <!--END_SECTION:randomWord-->
 
 <details>
