@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [berreaves](https://www.wordnik.com/words/berreaves)
+- Random word of the day: [gruelings](https://www.wordnik.com/words/gruelings)
 <!--END_SECTION:randomWord-->
 
 <details>
