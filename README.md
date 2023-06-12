@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [adenometritis](https://www.wordnik.com/words/adenometritis)
+- Random word of the day: [totalizator](https://www.wordnik.com/words/totalizator)
 <!--END_SECTION:randomWord-->
 
 <details>
