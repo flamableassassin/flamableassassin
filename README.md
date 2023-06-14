@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [telephonically](https://www.wordnik.com/words/telephonically)
+- Random word of the day: [regalities](https://www.wordnik.com/words/regalities)
 <!--END_SECTION:randomWord-->
 
 <details>
