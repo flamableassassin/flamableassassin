@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [regalities](https://www.wordnik.com/words/regalities)
+- Random word of the day: [swedenborgian](https://www.wordnik.com/words/swedenborgian)
 <!--END_SECTION:randomWord-->
 
 <details>
