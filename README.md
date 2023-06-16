@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [swedenborgian](https://www.wordnik.com/words/swedenborgian)
+- Random word of the day: [trackpot](https://www.wordnik.com/words/trackpot)
 <!--END_SECTION:randomWord-->
 
 <details>
