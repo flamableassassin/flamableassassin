@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [trackpot](https://www.wordnik.com/words/trackpot)
+- Random word of the day: [volume](https://www.wordnik.com/words/volume)
 <!--END_SECTION:randomWord-->
 
 <details>
