@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [imperforates](https://www.wordnik.com/words/imperforates)
+- Random word of the day: [quadrantes](https://www.wordnik.com/words/quadrantes)
 <!--END_SECTION:randomWord-->
 
 <details>
