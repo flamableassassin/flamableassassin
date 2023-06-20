@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [quadrantes](https://www.wordnik.com/words/quadrantes)
+- Random word of the day: [boosterism](https://www.wordnik.com/words/boosterism)
 <!--END_SECTION:randomWord-->
 
 <details>
