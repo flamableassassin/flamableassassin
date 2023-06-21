@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [boosterism](https://www.wordnik.com/words/boosterism)
+- Random word of the day: [beltways](https://www.wordnik.com/words/beltways)
 <!--END_SECTION:randomWord-->
 
 <details>
