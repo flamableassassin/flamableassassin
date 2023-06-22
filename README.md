@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [beltways](https://www.wordnik.com/words/beltways)
+- Random word of the day: [glack](https://www.wordnik.com/words/glack)
 <!--END_SECTION:randomWord-->
 
 <details>
