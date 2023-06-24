@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [resuperheat](https://www.wordnik.com/words/resuperheat)
+- Random word of the day: [slipless](https://www.wordnik.com/words/slipless)
 <!--END_SECTION:randomWord-->
 
 <details>
