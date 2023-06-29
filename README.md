@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [evenhanded](https://www.wordnik.com/words/evenhanded)
+- Random word of the day: [phenylmethane](https://www.wordnik.com/words/phenylmethane)
 <!--END_SECTION:randomWord-->
 
 <details>
