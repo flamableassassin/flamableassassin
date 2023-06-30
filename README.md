@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [phenylmethane](https://www.wordnik.com/words/phenylmethane)
+- Random word of the day: [trollings](https://www.wordnik.com/words/trollings)
 <!--END_SECTION:randomWord-->
 
 <details>
