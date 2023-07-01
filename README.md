@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [trollings](https://www.wordnik.com/words/trollings)
+- Random word of the day: [biscuits](https://www.wordnik.com/words/biscuits)
 <!--END_SECTION:randomWord-->
 
 <details>
