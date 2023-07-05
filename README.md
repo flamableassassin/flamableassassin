@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [precombination](https://www.wordnik.com/words/precombination)
+- Random word of the day: [lycanthropous](https://www.wordnik.com/words/lycanthropous)
 <!--END_SECTION:randomWord-->
 
 <details>
