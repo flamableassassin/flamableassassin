@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [lycanthropous](https://www.wordnik.com/words/lycanthropous)
+- Random word of the day: [choragus](https://www.wordnik.com/words/choragus)
 <!--END_SECTION:randomWord-->
 
 <details>
