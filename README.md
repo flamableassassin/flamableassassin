@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [silicane](https://www.wordnik.com/words/silicane)
+- Random word of the day: [fujis](https://www.wordnik.com/words/fujis)
 <!--END_SECTION:randomWord-->
 
 <details>
