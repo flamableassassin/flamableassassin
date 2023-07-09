@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [fujis](https://www.wordnik.com/words/fujis)
+- Random word of the day: [musical](https://www.wordnik.com/words/musical)
 <!--END_SECTION:randomWord-->
 
 <details>
