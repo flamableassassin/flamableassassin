@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [musical](https://www.wordnik.com/words/musical)
+- Random word of the day: [wramp](https://www.wordnik.com/words/wramp)
 <!--END_SECTION:randomWord-->
 
 <details>
