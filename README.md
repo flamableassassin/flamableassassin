@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [rockhearted](https://www.wordnik.com/words/rockhearted)
+- Random word of the day: [chicos](https://www.wordnik.com/words/chicos)
 <!--END_SECTION:randomWord-->
 
 <details>
