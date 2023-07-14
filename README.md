@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [chicos](https://www.wordnik.com/words/chicos)
+- Random word of the day: [missionarize](https://www.wordnik.com/words/missionarize)
 <!--END_SECTION:randomWord-->
 
 <details>
