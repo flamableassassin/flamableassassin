@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [missionarize](https://www.wordnik.com/words/missionarize)
+- Random word of the day: [incumbentess](https://www.wordnik.com/words/incumbentess)
 <!--END_SECTION:randomWord-->
 
 <details>
