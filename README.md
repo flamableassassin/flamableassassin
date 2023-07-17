@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [ratchety](https://www.wordnik.com/words/ratchety)
+- Random word of the day: [musses](https://www.wordnik.com/words/musses)
 <!--END_SECTION:randomWord-->
 
 <details>
