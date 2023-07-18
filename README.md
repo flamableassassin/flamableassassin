@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [musses](https://www.wordnik.com/words/musses)
+- Random word of the day: [polycycly](https://www.wordnik.com/words/polycycly)
 <!--END_SECTION:randomWord-->
 
 <details>
