@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [childbear](https://www.wordnik.com/words/childbear)
+- Random word of the day: [befrounce](https://www.wordnik.com/words/befrounce)
 <!--END_SECTION:randomWord-->
 
 <details>
