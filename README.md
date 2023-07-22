@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [befrounce](https://www.wordnik.com/words/befrounce)
+- Random word of the day: [astrogeny](https://www.wordnik.com/words/astrogeny)
 <!--END_SECTION:randomWord-->
 
 <details>
