@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [unenlightenment](https://www.wordnik.com/words/unenlightenment)
+- Random word of the day: [psilophyte](https://www.wordnik.com/words/psilophyte)
 <!--END_SECTION:randomWord-->
 
 <details>
