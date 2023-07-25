@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [psilophyte](https://www.wordnik.com/words/psilophyte)
+- Random word of the day: [clape](https://www.wordnik.com/words/clape)
 <!--END_SECTION:randomWord-->
 
 <details>
