@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [clape](https://www.wordnik.com/words/clape)
+- Random word of the day: [decentralise](https://www.wordnik.com/words/decentralise)
 <!--END_SECTION:randomWord-->
 
 <details>
