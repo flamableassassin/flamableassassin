@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [decentralise](https://www.wordnik.com/words/decentralise)
+- Random word of the day: [sabbathbreaking](https://www.wordnik.com/words/sabbathbreaking)
 <!--END_SECTION:randomWord-->
 
 <details>
