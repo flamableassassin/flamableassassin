@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [sabbathbreaking](https://www.wordnik.com/words/sabbathbreaking)
+- Random word of the day: [clinia](https://www.wordnik.com/words/clinia)
 <!--END_SECTION:randomWord-->
 
 <details>
