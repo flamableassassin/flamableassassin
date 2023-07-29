@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [clinia](https://www.wordnik.com/words/clinia)
+- Random word of the day: [twiglike](https://www.wordnik.com/words/twiglike)
 <!--END_SECTION:randomWord-->
 
 <details>
