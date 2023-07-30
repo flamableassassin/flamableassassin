@@ -15,11 +15,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Python       5 hrs 43 mins   ███████████▒░░░░░░░░░░░░░   45.57 %
-PowerQuery   3 hrs 5 mins    ██████░░░░░░░░░░░░░░░░░░░   24.55 %
-PowerShell   1 hr 54 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 %
-Other        1 hr 30 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.97 %
-JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Python       5 hrs 43 mins   ████████░░░░░░░░░░░░░░░░░   32.41 %
+JavaScript   3 hrs 26 mins   █████░░░░░░░░░░░░░░░░░░░░   19.48 %
+PowerQuery   3 hrs 5 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.46 %
+PowerShell   1 hr 54 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
+Other        1 hr 34 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
 ```
 
 <!--END_SECTION:waka-->
