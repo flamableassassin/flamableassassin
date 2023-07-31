@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [misqualifying](https://www.wordnik.com/words/misqualifying)
+- Random word of the day: [veinules](https://www.wordnik.com/words/veinules)
 <!--END_SECTION:randomWord-->
 
 <details>
