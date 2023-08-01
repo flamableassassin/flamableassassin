@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [veinules](https://www.wordnik.com/words/veinules)
+- Random word of the day: [foresey](https://www.wordnik.com/words/foresey)
 <!--END_SECTION:randomWord-->
 
 <details>
