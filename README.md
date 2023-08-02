@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [foresey](https://www.wordnik.com/words/foresey)
+- Random word of the day: [urtica](https://www.wordnik.com/words/urtica)
 <!--END_SECTION:randomWord-->
 
 <details>
