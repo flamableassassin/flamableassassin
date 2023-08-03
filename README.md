@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [urtica](https://www.wordnik.com/words/urtica)
+- Random word of the day: [whiteware](https://www.wordnik.com/words/whiteware)
 <!--END_SECTION:randomWord-->
 
 <details>
