@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [whiteware](https://www.wordnik.com/words/whiteware)
+- Random word of the day: [precultivation](https://www.wordnik.com/words/precultivation)
 <!--END_SECTION:randomWord-->
 
 <details>
