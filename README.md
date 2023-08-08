@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [heterotypical](https://www.wordnik.com/words/heterotypical)
+- Random word of the day: [zaffree](https://www.wordnik.com/words/zaffree)
 <!--END_SECTION:randomWord-->
 
 <details>
