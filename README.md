@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [shaivism](https://www.wordnik.com/words/shaivism)
+- Random word of the day: [thoughtlessly](https://www.wordnik.com/words/thoughtlessly)
 <!--END_SECTION:randomWord-->
 
 <details>
