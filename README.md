@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [pantheonize](https://www.wordnik.com/words/pantheonize)
+- Random word of the day: [hamamelites](https://www.wordnik.com/words/hamamelites)
 <!--END_SECTION:randomWord-->
 
 <details>
