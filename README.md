@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [hamamelites](https://www.wordnik.com/words/hamamelites)
+- Random word of the day: [quabird](https://www.wordnik.com/words/quabird)
 <!--END_SECTION:randomWord-->
 
 <details>
