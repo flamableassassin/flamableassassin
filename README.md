@@ -15,11 +15,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Python       11 hrs 5 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.73 %
-TypeScript   7 hrs 31 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.13 %
-Bicep        5 hrs 53 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.18 %
-JavaScript   5 hrs 6 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
-TSConfig     2 hrs 57 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+Python       13 hrs 44 mins  ████████▒░░░░░░░░░░░░░░░░   32.75 %
+TypeScript   8 hrs 12 mins   █████░░░░░░░░░░░░░░░░░░░░   19.58 %
+Bicep        6 hrs 51 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.36 %
+TSConfig     2 hrs 57 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
+Other        2 hrs 36 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
 ```
 
 <!--END_SECTION:waka-->
