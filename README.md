@@ -15,11 +15,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Python       15 hrs 28 mins  █████████▓░░░░░░░░░░░░░░░   39.26 %
-Bicep        7 hrs 58 mins   █████░░░░░░░░░░░░░░░░░░░░   20.23 %
-TypeScript   5 hrs 52 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 %
-Other        3 hrs 7 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
-PowerQuery   1 hr 57 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+Python       15 hrs 19 mins  ██████████░░░░░░░░░░░░░░░   39.34 %
+Bicep        8 hrs 27 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.72 %
+TypeScript   5 hrs 52 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.06 %
+PowerShell   2 hrs 2 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+PowerQuery   1 hr 57 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
 ```
 
 <!--END_SECTION:waka-->
