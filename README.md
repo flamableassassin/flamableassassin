@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [gigeria](https://www.wordnik.com/words/gigeria)
+- Random word of the day: [feeless](https://www.wordnik.com/words/feeless)
 <!--END_SECTION:randomWord-->
 
 <details>
