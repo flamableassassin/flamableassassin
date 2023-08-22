@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [sebaceousness](https://www.wordnik.com/words/sebaceousness)
+- Random word of the day: [nycteribiid](https://www.wordnik.com/words/nycteribiid)
 <!--END_SECTION:randomWord-->
 
 <details>
