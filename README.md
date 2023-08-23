@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [nycteribiid](https://www.wordnik.com/words/nycteribiid)
+- Random word of the day: [disarranging](https://www.wordnik.com/words/disarranging)
 <!--END_SECTION:randomWord-->
 
 <details>
