@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [disarranging](https://www.wordnik.com/words/disarranging)
+- Random word of the day: [miggles](https://www.wordnik.com/words/miggles)
 <!--END_SECTION:randomWord-->
 
 <details>
