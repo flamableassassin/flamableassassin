@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [miggles](https://www.wordnik.com/words/miggles)
+- Random word of the day: [precomradeship](https://www.wordnik.com/words/precomradeship)
 <!--END_SECTION:randomWord-->
 
 <details>
