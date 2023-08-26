@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [precomradeship](https://www.wordnik.com/words/precomradeship)
+- Random word of the day: [ilokano](https://www.wordnik.com/words/ilokano)
 <!--END_SECTION:randomWord-->
 
 <details>
