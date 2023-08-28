@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [pogge](https://www.wordnik.com/words/pogge)
+- Random word of the day: [luteolous](https://www.wordnik.com/words/luteolous)
 <!--END_SECTION:randomWord-->
 
 <details>
