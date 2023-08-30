@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [dircaean](https://www.wordnik.com/words/dircaean)
+- Random word of the day: [archetypic](https://www.wordnik.com/words/archetypic)
 <!--END_SECTION:randomWord-->
 
 <details>
