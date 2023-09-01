@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [slivering](https://www.wordnik.com/words/slivering)
+- Random word of the day: [gangan](https://www.wordnik.com/words/gangan)
 <!--END_SECTION:randomWord-->
 
 <details>
