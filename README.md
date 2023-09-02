@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [gangan](https://www.wordnik.com/words/gangan)
+- Random word of the day: [unevangelically](https://www.wordnik.com/words/unevangelically)
 <!--END_SECTION:randomWord-->
 
 <details>
