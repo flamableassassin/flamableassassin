@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [unevangelically](https://www.wordnik.com/words/unevangelically)
+- Random word of the day: [satelles](https://www.wordnik.com/words/satelles)
 <!--END_SECTION:randomWord-->
 
 <details>
