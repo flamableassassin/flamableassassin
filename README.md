@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [satelles](https://www.wordnik.com/words/satelles)
+- Random word of the day: [ophiostaphyle](https://www.wordnik.com/words/ophiostaphyle)
 <!--END_SECTION:randomWord-->
 
 <details>
