@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [ophiostaphyle](https://www.wordnik.com/words/ophiostaphyle)
+- Random word of the day: [exorcize](https://www.wordnik.com/words/exorcize)
 <!--END_SECTION:randomWord-->
 
 <details>
