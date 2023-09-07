@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [banlieu](https://www.wordnik.com/words/banlieu)
+- Random word of the day: [episcopature](https://www.wordnik.com/words/episcopature)
 <!--END_SECTION:randomWord-->
 
 <details>
