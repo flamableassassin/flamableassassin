@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [episcopature](https://www.wordnik.com/words/episcopature)
+- Random word of the day: [commotion](https://www.wordnik.com/words/commotion)
 <!--END_SECTION:randomWord-->
 
 <details>
