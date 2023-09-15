@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [sapheaded](https://www.wordnik.com/words/sapheaded)
+- Random word of the day: [elapinae](https://www.wordnik.com/words/elapinae)
 <!--END_SECTION:randomWord-->
 
 <details>
