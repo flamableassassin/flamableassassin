@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [elapinae](https://www.wordnik.com/words/elapinae)
+- Random word of the day: [cuprum](https://www.wordnik.com/words/cuprum)
 <!--END_SECTION:randomWord-->
 
 <details>
