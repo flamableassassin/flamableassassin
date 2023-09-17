@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cuprum](https://www.wordnik.com/words/cuprum)
+- Random word of the day: [genethliacon](https://www.wordnik.com/words/genethliacon)
 <!--END_SECTION:randomWord-->
 
 <details>
