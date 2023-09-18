@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [genethliacon](https://www.wordnik.com/words/genethliacon)
+- Random word of the day: [chrysochloridae](https://www.wordnik.com/words/chrysochloridae)
 <!--END_SECTION:randomWord-->
 
 <details>
