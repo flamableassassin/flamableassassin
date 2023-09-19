@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [chrysochloridae](https://www.wordnik.com/words/chrysochloridae)
+- Random word of the day: [hyperrealizing](https://www.wordnik.com/words/hyperrealizing)
 <!--END_SECTION:randomWord-->
 
 <details>
