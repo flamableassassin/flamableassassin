@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [hyperrealizing](https://www.wordnik.com/words/hyperrealizing)
+- Random word of the day: [everglade](https://www.wordnik.com/words/everglade)
 <!--END_SECTION:randomWord-->
 
 <details>
