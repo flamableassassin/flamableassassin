@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [everglade](https://www.wordnik.com/words/everglade)
+- Random word of the day: [grizard](https://www.wordnik.com/words/grizard)
 <!--END_SECTION:randomWord-->
 
 <details>
