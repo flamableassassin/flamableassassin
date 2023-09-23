@@ -33,10 +33,10 @@ JSON           1 hr 8 mins     █░░░░░░░░░░░░░░░�
     <br>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/what-the-hack-event/wth-team7/issues/10) in [what-the-hack-event/wth-team7](https://github.com/what-the-hack-event/wth-team7)
-2. ❗️ Closed issue [#64](https://github.com/flamableassassin/status/issues/64) in [flamableassassin/status](https://github.com/flamableassassin/status)
-3. 🗣 Commented on [#64](https://github.com/flamableassassin/status/issues/64) in [flamableassassin/status](https://github.com/flamableassassin/status)
-4. ❗️ Opened issue [#64](https://github.com/flamableassassin/status/issues/64) in [flamableassassin/status](https://github.com/flamableassassin/status)
+1. ❗ Opened issue [#68](https://github.com/flamableassassin/status/issues/68) in [flamableassassin/status](https://github.com/flamableassassin/status)
+2. ❗ Opened issue [#67](https://github.com/flamableassassin/status/issues/67) in [flamableassassin/status](https://github.com/flamableassassin/status)
+3. ❗ Opened issue [#66](https://github.com/flamableassassin/status/issues/66) in [flamableassassin/status](https://github.com/flamableassassin/status)
+4. ❗ Opened issue [#65](https://github.com/flamableassassin/status/issues/65) in [flamableassassin/status](https://github.com/flamableassassin/status)
 5. ❗️ Closed issue [#63](https://github.com/flamableassassin/status/issues/63) in [flamableassassin/status](https://github.com/flamableassassin/status)
   <!--END_SECTION:activity-->
 
