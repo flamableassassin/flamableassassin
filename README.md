@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [preacuteness](https://www.wordnik.com/words/preacuteness)
+- Random word of the day: [cowinner](https://www.wordnik.com/words/cowinner)
 <!--END_SECTION:randomWord-->
 
 <details>
