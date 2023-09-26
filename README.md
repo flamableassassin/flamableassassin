@@ -31,11 +31,11 @@ JSON           1 hr 7 mins     █░░░░░░░░░░░░░░░�
     <br>
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#67](https://github.com/flamableassassin/status/issues/67) in [flamableassassin/status](https://github.com/flamableassassin/status)
-2. 🗣 Commented on [#67](https://github.com/flamableassassin/status/issues/67#issuecomment-1732312710) in [flamableassassin/status](https://github.com/flamableassassin/status)
-3. 🔒 Closed issue [#66](https://github.com/flamableassassin/status/issues/66) in [flamableassassin/status](https://github.com/flamableassassin/status)
-4. 🗣 Commented on [#66](https://github.com/flamableassassin/status/issues/66#issuecomment-1732312697) in [flamableassassin/status](https://github.com/flamableassassin/status)
-5. ❗ Opened issue [#68](https://github.com/flamableassassin/status/issues/68) in [flamableassassin/status](https://github.com/flamableassassin/status)
+1. ❌ Closed PR [#652](https://github.com/drawshield/Drawshield-Code/pull/652) in [drawshield/Drawshield-Code](https://github.com/drawshield/Drawshield-Code)
+2. 💪 Opened PR [#652](https://github.com/drawshield/Drawshield-Code/pull/652) in [drawshield/Drawshield-Code](https://github.com/drawshield/Drawshield-Code)
+3. 🔒 Closed issue [#67](https://github.com/flamableassassin/status/issues/67) in [flamableassassin/status](https://github.com/flamableassassin/status)
+4. 🗣 Commented on [#67](https://github.com/flamableassassin/status/issues/67#issuecomment-1732312710) in [flamableassassin/status](https://github.com/flamableassassin/status)
+5. 🔒 Closed issue [#66](https://github.com/flamableassassin/status/issues/66) in [flamableassassin/status](https://github.com/flamableassassin/status)
   <!--END_SECTION:activity-->
 
 </details>
