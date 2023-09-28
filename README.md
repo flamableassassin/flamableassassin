@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [stenter](https://www.wordnik.com/words/stenter)
+- Random word of the day: [unscavenged](https://www.wordnik.com/words/unscavenged)
 <!--END_SECTION:randomWord-->
 
 <details>
