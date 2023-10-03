@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [supramarine](https://www.wordnik.com/words/supramarine)
+- Random word of the day: [pestalozzian](https://www.wordnik.com/words/pestalozzian)
 <!--END_SECTION:randomWord-->
 
 <details>
