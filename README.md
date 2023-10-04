@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [pestalozzian](https://www.wordnik.com/words/pestalozzian)
+- Random word of the day: [camelopardid](https://www.wordnik.com/words/camelopardid)
 <!--END_SECTION:randomWord-->
 
 <details>
