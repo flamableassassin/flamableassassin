@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [camelopardid](https://www.wordnik.com/words/camelopardid)
+- Random word of the day: [marsupials](https://www.wordnik.com/words/marsupials)
 <!--END_SECTION:randomWord-->
 
 <details>
