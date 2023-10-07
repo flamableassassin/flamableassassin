@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [diborate](https://www.wordnik.com/words/diborate)
+- Random word of the day: [postnecrotic](https://www.wordnik.com/words/postnecrotic)
 <!--END_SECTION:randomWord-->
 
 <details>
