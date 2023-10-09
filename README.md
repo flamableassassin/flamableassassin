@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [nonobjection](https://www.wordnik.com/words/nonobjection)
+- Random word of the day: [reechy](https://www.wordnik.com/words/reechy)
 <!--END_SECTION:randomWord-->
 
 <details>
