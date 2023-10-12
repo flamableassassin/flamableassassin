@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [interregionally](https://www.wordnik.com/words/interregionally)
+- Random word of the day: [corporator](https://www.wordnik.com/words/corporator)
 <!--END_SECTION:randomWord-->
 
 <details>
