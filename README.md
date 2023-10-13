@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [corporator](https://www.wordnik.com/words/corporator)
+- Random word of the day: [toolers](https://www.wordnik.com/words/toolers)
 <!--END_SECTION:randomWord-->
 
 <details>
