@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [toolers](https://www.wordnik.com/words/toolers)
+- Random word of the day: [callused](https://www.wordnik.com/words/callused)
 <!--END_SECTION:randomWord-->
 
 <details>
