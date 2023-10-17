@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [booboo](https://www.wordnik.com/words/booboo)
+- Random word of the day: [pales](https://www.wordnik.com/words/pales)
 <!--END_SECTION:randomWord-->
 
 <details>
