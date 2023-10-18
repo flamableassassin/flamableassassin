@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [pales](https://www.wordnik.com/words/pales)
+- Random word of the day: [coredeemed](https://www.wordnik.com/words/coredeemed)
 <!--END_SECTION:randomWord-->
 
 <details>
