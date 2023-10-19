@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [coredeemed](https://www.wordnik.com/words/coredeemed)
+- Random word of the day: [thunar](https://www.wordnik.com/words/thunar)
 <!--END_SECTION:randomWord-->
 
 <details>
