@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [dunner](https://www.wordnik.com/words/dunner)
+- Random word of the day: [unenvying](https://www.wordnik.com/words/unenvying)
 <!--END_SECTION:randomWord-->
 
 <details>
