@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [unenvying](https://www.wordnik.com/words/unenvying)
+- Random word of the day: [arseniopleite](https://www.wordnik.com/words/arseniopleite)
 <!--END_SECTION:randomWord-->
 
 <details>
