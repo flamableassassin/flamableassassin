@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [nonequitably](https://www.wordnik.com/words/nonequitably)
+- Random word of the day: [sewers](https://www.wordnik.com/words/sewers)
 <!--END_SECTION:randomWord-->
 
 <details>
