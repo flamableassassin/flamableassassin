@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [sewers](https://www.wordnik.com/words/sewers)
+- Random word of the day: [thurberia](https://www.wordnik.com/words/thurberia)
 <!--END_SECTION:randomWord-->
 
 <details>
