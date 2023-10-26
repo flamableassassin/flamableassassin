@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [thurberia](https://www.wordnik.com/words/thurberia)
+- Random word of the day: [reservice](https://www.wordnik.com/words/reservice)
 <!--END_SECTION:randomWord-->
 
 <details>
