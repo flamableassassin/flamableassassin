@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [reservice](https://www.wordnik.com/words/reservice)
+- Random word of the day: [bejesuit](https://www.wordnik.com/words/bejesuit)
 <!--END_SECTION:randomWord-->
 
 <details>
