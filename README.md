@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [residences](https://www.wordnik.com/words/residences)
+- Random word of the day: [sportily](https://www.wordnik.com/words/sportily)
 <!--END_SECTION:randomWord-->
 
 <details>
