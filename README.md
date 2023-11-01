@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [shrag](https://www.wordnik.com/words/shrag)
+- Random word of the day: [gaited](https://www.wordnik.com/words/gaited)
 <!--END_SECTION:randomWord-->
 
 <details>
