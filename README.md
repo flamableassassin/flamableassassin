@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [gaited](https://www.wordnik.com/words/gaited)
+- Random word of the day: [caddisworm](https://www.wordnik.com/words/caddisworm)
 <!--END_SECTION:randomWord-->
 
 <details>
