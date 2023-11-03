@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [caddisworm](https://www.wordnik.com/words/caddisworm)
+- Random word of the day: [cotice](https://www.wordnik.com/words/cotice)
 <!--END_SECTION:randomWord-->
 
 <details>
