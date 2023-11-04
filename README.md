@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cotice](https://www.wordnik.com/words/cotice)
+- Random word of the day: [blackamoor](https://www.wordnik.com/words/blackamoor)
 <!--END_SECTION:randomWord-->
 
 <details>
