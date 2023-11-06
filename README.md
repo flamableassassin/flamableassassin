@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [silicyl](https://www.wordnik.com/words/silicyl)
+- Random word of the day: [purisms](https://www.wordnik.com/words/purisms)
 <!--END_SECTION:randomWord-->
 
 <details>
