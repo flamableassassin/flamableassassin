@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [polyporaceous](https://www.wordnik.com/words/polyporaceous)
+- Random word of the day: [oleoresins](https://www.wordnik.com/words/oleoresins)
 <!--END_SECTION:randomWord-->
 
 <details>
