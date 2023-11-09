@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [oleoresins](https://www.wordnik.com/words/oleoresins)
+- Random word of the day: [downloadable](https://www.wordnik.com/words/downloadable)
 <!--END_SECTION:randomWord-->
 
 <details>
