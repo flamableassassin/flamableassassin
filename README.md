@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [downloadable](https://www.wordnik.com/words/downloadable)
+- Random word of the day: [eightsman](https://www.wordnik.com/words/eightsman)
 <!--END_SECTION:randomWord-->
 
 <details>
