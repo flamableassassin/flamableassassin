@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [ungrace](https://www.wordnik.com/words/ungrace)
+- Random word of the day: [cobblers](https://www.wordnik.com/words/cobblers)
 <!--END_SECTION:randomWord-->
 
 <details>
