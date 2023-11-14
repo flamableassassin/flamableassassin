@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [sahlite](https://www.wordnik.com/words/sahlite)
+- Random word of the day: [toxicity](https://www.wordnik.com/words/toxicity)
 <!--END_SECTION:randomWord-->
 
 <details>
