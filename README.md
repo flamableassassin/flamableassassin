@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [toxicity](https://www.wordnik.com/words/toxicity)
+- Random word of the day: [waffle](https://www.wordnik.com/words/waffle)
 <!--END_SECTION:randomWord-->
 
 <details>
