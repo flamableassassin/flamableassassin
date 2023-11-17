@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [outmatching](https://www.wordnik.com/words/outmatching)
+- Random word of the day: [quinovic](https://www.wordnik.com/words/quinovic)
 <!--END_SECTION:randomWord-->
 
 <details>
