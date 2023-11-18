@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [quinovic](https://www.wordnik.com/words/quinovic)
+- Random word of the day: [encomia](https://www.wordnik.com/words/encomia)
 <!--END_SECTION:randomWord-->
 
 <details>
