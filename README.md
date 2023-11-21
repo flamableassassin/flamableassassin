@@ -15,11 +15,7 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Other        5 hrs 9 mins    ███████▓░░░░░░░░░░░░░░░░░   30.64 %
-Bicep        5 hrs           ███████▒░░░░░░░░░░░░░░░░░   29.71 %
-JavaScript   2 hrs 52 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.07 %
-TypeScript   2 hrs 20 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 %
-JSON         1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
