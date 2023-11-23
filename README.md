@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [sherardize](https://www.wordnik.com/words/sherardize)
+- Random word of the day: [reclosable](https://www.wordnik.com/words/reclosable)
 <!--END_SECTION:randomWord-->
 
 <details>
