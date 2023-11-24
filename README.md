@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [reclosable](https://www.wordnik.com/words/reclosable)
+- Random word of the day: [loculose](https://www.wordnik.com/words/loculose)
 <!--END_SECTION:randomWord-->
 
 <details>
