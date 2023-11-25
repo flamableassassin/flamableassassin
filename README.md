@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [loculose](https://www.wordnik.com/words/loculose)
+- Random word of the day: [gravisphere](https://www.wordnik.com/words/gravisphere)
 <!--END_SECTION:randomWord-->
 
 <details>
