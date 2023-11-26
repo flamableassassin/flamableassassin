@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [gravisphere](https://www.wordnik.com/words/gravisphere)
+- Random word of the day: [homalocenchrus](https://www.wordnik.com/words/homalocenchrus)
 <!--END_SECTION:randomWord-->
 
 <details>
