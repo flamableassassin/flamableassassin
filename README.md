@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [homalocenchrus](https://www.wordnik.com/words/homalocenchrus)
+- Random word of the day: [antiperthite](https://www.wordnik.com/words/antiperthite)
 <!--END_SECTION:randomWord-->
 
 <details>
