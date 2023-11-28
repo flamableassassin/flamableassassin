@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [antiperthite](https://www.wordnik.com/words/antiperthite)
+- Random word of the day: [prerogatived](https://www.wordnik.com/words/prerogatived)
 <!--END_SECTION:randomWord-->
 
 <details>
