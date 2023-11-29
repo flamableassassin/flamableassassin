@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [prerogatived](https://www.wordnik.com/words/prerogatived)
+- Random word of the day: [neuromotor](https://www.wordnik.com/words/neuromotor)
 <!--END_SECTION:randomWord-->
 
 <details>
