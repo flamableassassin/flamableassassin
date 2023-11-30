@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [neuromotor](https://www.wordnik.com/words/neuromotor)
+- Random word of the day: [blueth](https://www.wordnik.com/words/blueth)
 <!--END_SECTION:randomWord-->
 
 <details>
