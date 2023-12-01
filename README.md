@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [blueth](https://www.wordnik.com/words/blueth)
+- Random word of the day: [microchromosome](https://www.wordnik.com/words/microchromosome)
 <!--END_SECTION:randomWord-->
 
 <details>
