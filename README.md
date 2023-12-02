@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [microchromosome](https://www.wordnik.com/words/microchromosome)
+- Random word of the day: [dishelming](https://www.wordnik.com/words/dishelming)
 <!--END_SECTION:randomWord-->
 
 <details>
