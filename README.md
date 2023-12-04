@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [shirley](https://www.wordnik.com/words/shirley)
+- Random word of the day: [extractors](https://www.wordnik.com/words/extractors)
 <!--END_SECTION:randomWord-->
 
 <details>
