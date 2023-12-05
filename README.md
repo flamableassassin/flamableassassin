@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [extractors](https://www.wordnik.com/words/extractors)
+- Random word of the day: [otiorhynchinae](https://www.wordnik.com/words/otiorhynchinae)
 <!--END_SECTION:randomWord-->
 
 <details>
