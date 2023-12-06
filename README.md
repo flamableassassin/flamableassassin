@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [otiorhynchinae](https://www.wordnik.com/words/otiorhynchinae)
+- Random word of the day: [brunella](https://www.wordnik.com/words/brunella)
 <!--END_SECTION:randomWord-->
 
 <details>
