@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [brunella](https://www.wordnik.com/words/brunella)
+- Random word of the day: [dasypygal](https://www.wordnik.com/words/dasypygal)
 <!--END_SECTION:randomWord-->
 
 <details>
