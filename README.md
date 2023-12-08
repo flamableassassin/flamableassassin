@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [dasypygal](https://www.wordnik.com/words/dasypygal)
+- Random word of the day: [epifaunae](https://www.wordnik.com/words/epifaunae)
 <!--END_SECTION:randomWord-->
 
 <details>
