@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [uterine](https://www.wordnik.com/words/uterine)
+- Random word of the day: [rebroadcasting](https://www.wordnik.com/words/rebroadcasting)
 <!--END_SECTION:randomWord-->
 
 <details>
