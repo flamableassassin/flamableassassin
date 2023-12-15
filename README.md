@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [rebroadcasting](https://www.wordnik.com/words/rebroadcasting)
+- Random word of the day: [dephlegmate](https://www.wordnik.com/words/dephlegmate)
 <!--END_SECTION:randomWord-->
 
 <details>
