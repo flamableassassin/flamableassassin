@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [dephlegmate](https://www.wordnik.com/words/dephlegmate)
+- Random word of the day: [cuspides](https://www.wordnik.com/words/cuspides)
 <!--END_SECTION:randomWord-->
 
 <details>
