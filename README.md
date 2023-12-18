@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [bhutan](https://www.wordnik.com/words/bhutan)
+- Random word of the day: [coopers](https://www.wordnik.com/words/coopers)
 <!--END_SECTION:randomWord-->
 
 <details>
