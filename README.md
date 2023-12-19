@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [coopers](https://www.wordnik.com/words/coopers)
+- Random word of the day: [indianan](https://www.wordnik.com/words/indianan)
 <!--END_SECTION:randomWord-->
 
 <details>
