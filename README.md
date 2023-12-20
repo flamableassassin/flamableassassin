@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [indianan](https://www.wordnik.com/words/indianan)
+- Random word of the day: [exorcistical](https://www.wordnik.com/words/exorcistical)
 <!--END_SECTION:randomWord-->
 
 <details>
