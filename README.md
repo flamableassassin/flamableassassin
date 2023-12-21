@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [exorcistical](https://www.wordnik.com/words/exorcistical)
+- Random word of the day: [sukkenye](https://www.wordnik.com/words/sukkenye)
 <!--END_SECTION:randomWord-->
 
 <details>
