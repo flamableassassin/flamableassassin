@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [sukkenye](https://www.wordnik.com/words/sukkenye)
+- Random word of the day: [diapauses](https://www.wordnik.com/words/diapauses)
 <!--END_SECTION:randomWord-->
 
 <details>
