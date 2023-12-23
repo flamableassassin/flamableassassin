@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [diapauses](https://www.wordnik.com/words/diapauses)
+- Random word of the day: [dichocarpism](https://www.wordnik.com/words/dichocarpism)
 <!--END_SECTION:randomWord-->
 
 <details>
