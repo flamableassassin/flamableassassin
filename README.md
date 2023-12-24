@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [dichocarpism](https://www.wordnik.com/words/dichocarpism)
+- Random word of the day: [macigno](https://www.wordnik.com/words/macigno)
 <!--END_SECTION:randomWord-->
 
 <details>
