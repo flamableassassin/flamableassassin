@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [macigno](https://www.wordnik.com/words/macigno)
+- Random word of the day: [conjury](https://www.wordnik.com/words/conjury)
 <!--END_SECTION:randomWord-->
 
 <details>
