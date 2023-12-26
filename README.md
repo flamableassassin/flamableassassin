@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [conjury](https://www.wordnik.com/words/conjury)
+- Random word of the day: [buffi](https://www.wordnik.com/words/buffi)
 <!--END_SECTION:randomWord-->
 
 <details>
