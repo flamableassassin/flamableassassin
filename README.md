@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [buffi](https://www.wordnik.com/words/buffi)
+- Random word of the day: [decanically](https://www.wordnik.com/words/decanically)
 <!--END_SECTION:randomWord-->
 
 <details>
