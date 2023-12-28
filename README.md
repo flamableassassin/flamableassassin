@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [decanically](https://www.wordnik.com/words/decanically)
+- Random word of the day: [gregariousness](https://www.wordnik.com/words/gregariousness)
 <!--END_SECTION:randomWord-->
 
 <details>
