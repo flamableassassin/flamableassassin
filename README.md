@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [angionosis](https://www.wordnik.com/words/angionosis)
+- Random word of the day: [plantlet](https://www.wordnik.com/words/plantlet)
 <!--END_SECTION:randomWord-->
 
 <details>
