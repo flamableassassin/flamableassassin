@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [plantlet](https://www.wordnik.com/words/plantlet)
+- Random word of the day: [nonductility](https://www.wordnik.com/words/nonductility)
 <!--END_SECTION:randomWord-->
 
 <details>
