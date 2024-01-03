@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [incurvate](https://www.wordnik.com/words/incurvate)
+- Random word of the day: [saneness](https://www.wordnik.com/words/saneness)
 <!--END_SECTION:randomWord-->
 
 <details>
