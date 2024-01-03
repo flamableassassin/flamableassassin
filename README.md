@@ -53,8 +53,8 @@ JSON         23 mins         █░░░░░░░░░░░░░░░░
 <details>
   <summary><b>Other Stuff</b></summary>
   <br>
-<a href="https://www.abuseipdb.com/user/67633" title="AbuseIPDB" alt="AbuseIPDB Contributor Badge">
-	<img src="https://www.abuseipdb.com/contributor/67633.svg" style="width: 180px;">
+<a href="https://www.abuseipdb.com/user/67633" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
+	<img src="https://www.abuseipdb.com/contributor/67633.svg" alt="AbuseIPDB Contributor Badge" style="width: 264px;background: #fff linear-gradient(rgba(255,255,255,0), rgba(255,255,255,.3) 50%, rgba(0,0,0,.2) 51%, rgba(0,0,0,0));padding: 5px;">
 </a>
   
 </details>
