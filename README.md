@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [saneness](https://www.wordnik.com/words/saneness)
+- Random word of the day: [hyperpituitary](https://www.wordnik.com/words/hyperpituitary)
 <!--END_SECTION:randomWord-->
 
 <details>
