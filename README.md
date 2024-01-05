@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [hyperpituitary](https://www.wordnik.com/words/hyperpituitary)
+- Random word of the day: [dicotyledon](https://www.wordnik.com/words/dicotyledon)
 <!--END_SECTION:randomWord-->
 
 <details>
