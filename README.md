@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [dicotyledon](https://www.wordnik.com/words/dicotyledon)
+- Random word of the day: [wrying](https://www.wordnik.com/words/wrying)
 <!--END_SECTION:randomWord-->
 
 <details>
