@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [wrying](https://www.wordnik.com/words/wrying)
+- Random word of the day: [strigilis](https://www.wordnik.com/words/strigilis)
 <!--END_SECTION:randomWord-->
 
 <details>
