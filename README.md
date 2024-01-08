@@ -31,11 +31,11 @@ Markdown     15 mins         ▒░░░░░░░░░░░░░░░░
     <br>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#77](https://github.com/flamableassassin/status/issues/77#issuecomment-1872182722) in [flamableassassin/status](https://github.com/flamableassassin/status)
-2. 🔒 Closed issue [#77](https://github.com/flamableassassin/status/issues/77) in [flamableassassin/status](https://github.com/flamableassassin/status)
-3. ❗ Opened issue [#77](https://github.com/flamableassassin/status/issues/77) in [flamableassassin/status](https://github.com/flamableassassin/status)
-4. 🗣 Commented on [#76](https://github.com/flamableassassin/status/issues/76#issuecomment-1871709083) in [flamableassassin/status](https://github.com/flamableassassin/status)
-5. 🔒 Closed issue [#76](https://github.com/flamableassassin/status/issues/76) in [flamableassassin/status](https://github.com/flamableassassin/status)
+1. 🎉 Merged PR [#1](https://github.com/flamableassassin/drawshield-api/pull/1) in [flamableassassin/drawshield-api](https://github.com/flamableassassin/drawshield-api)
+2. 🎉 Merged PR [#6](https://github.com/flamableassassin/drawshield-api/pull/6) in [flamableassassin/drawshield-api](https://github.com/flamableassassin/drawshield-api)
+3. 🗣 Commented on [#77](https://github.com/flamableassassin/status/issues/77#issuecomment-1872182722) in [flamableassassin/status](https://github.com/flamableassassin/status)
+4. 🔒 Closed issue [#77](https://github.com/flamableassassin/status/issues/77) in [flamableassassin/status](https://github.com/flamableassassin/status)
+5. ❗ Opened issue [#77](https://github.com/flamableassassin/status/issues/77) in [flamableassassin/status](https://github.com/flamableassassin/status)
   <!--END_SECTION:activity-->
 
 </details>
