@@ -31,11 +31,11 @@ JSON         2 mins          ░░░░░░░░░░░░░░░░░
     <br>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/flamableassassin/drawshield-api/pull/1) in [flamableassassin/drawshield-api](https://github.com/flamableassassin/drawshield-api)
-2. 🎉 Merged PR [#6](https://github.com/flamableassassin/drawshield-api/pull/6) in [flamableassassin/drawshield-api](https://github.com/flamableassassin/drawshield-api)
-3. 🗣 Commented on [#77](https://github.com/flamableassassin/status/issues/77#issuecomment-1872182722) in [flamableassassin/status](https://github.com/flamableassassin/status)
-4. 🔒 Closed issue [#77](https://github.com/flamableassassin/status/issues/77) in [flamableassassin/status](https://github.com/flamableassassin/status)
-5. ❗ Opened issue [#77](https://github.com/flamableassassin/status/issues/77) in [flamableassassin/status](https://github.com/flamableassassin/status)
+1. 🎉 Merged PR [#7](https://github.com/flamableassassin/drawshield-api/pull/7) in [flamableassassin/drawshield-api](https://github.com/flamableassassin/drawshield-api)
+2. 🗣 Commented on [#7](https://github.com/flamableassassin/drawshield-api/pull/7#issuecomment-1886634988) in [flamableassassin/drawshield-api](https://github.com/flamableassassin/drawshield-api)
+3. 🎉 Merged PR [#1](https://github.com/flamableassassin/drawshield-api/pull/1) in [flamableassassin/drawshield-api](https://github.com/flamableassassin/drawshield-api)
+4. 🎉 Merged PR [#6](https://github.com/flamableassassin/drawshield-api/pull/6) in [flamableassassin/drawshield-api](https://github.com/flamableassassin/drawshield-api)
+5. 🗣 Commented on [#77](https://github.com/flamableassassin/status/issues/77#issuecomment-1872182722) in [flamableassassin/status](https://github.com/flamableassassin/status)
   <!--END_SECTION:activity-->
 
 </details>
