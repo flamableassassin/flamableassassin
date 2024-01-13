@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [multiramified](https://www.wordnik.com/words/multiramified)
+- Random word of the day: [windages](https://www.wordnik.com/words/windages)
 <!--END_SECTION:randomWord-->
 
 <details>
