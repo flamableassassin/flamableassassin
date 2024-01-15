@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [upraught](https://www.wordnik.com/words/upraught)
+- Random word of the day: [endosclerite](https://www.wordnik.com/words/endosclerite)
 <!--END_SECTION:randomWord-->
 
 <details>
