@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [psychoneurotic](https://www.wordnik.com/words/psychoneurotic)
+- Random word of the day: [tickproof](https://www.wordnik.com/words/tickproof)
 <!--END_SECTION:randomWord-->
 
 <details>
