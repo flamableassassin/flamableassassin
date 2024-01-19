@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [actinometer](https://www.wordnik.com/words/actinometer)
+- Random word of the day: [overlorded](https://www.wordnik.com/words/overlorded)
 <!--END_SECTION:randomWord-->
 
 <details>
