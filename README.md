@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [overeaten](https://www.wordnik.com/words/overeaten)
+- Random word of the day: [recultivating](https://www.wordnik.com/words/recultivating)
 <!--END_SECTION:randomWord-->
 
 <details>
