@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [troot](https://www.wordnik.com/words/troot)
+- Random word of the day: [deoppilate](https://www.wordnik.com/words/deoppilate)
 <!--END_SECTION:randomWord-->
 
 <details>
