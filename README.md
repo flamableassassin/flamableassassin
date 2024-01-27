@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cohogs](https://www.wordnik.com/words/cohogs)
+- Random word of the day: [comblessness](https://www.wordnik.com/words/comblessness)
 <!--END_SECTION:randomWord-->
 
 <details>
