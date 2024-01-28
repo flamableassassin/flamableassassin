@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [comblessness](https://www.wordnik.com/words/comblessness)
+- Random word of the day: [kingbird](https://www.wordnik.com/words/kingbird)
 <!--END_SECTION:randomWord-->
 
 <details>
