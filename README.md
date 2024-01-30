@@ -31,11 +31,11 @@ C++          1 hr 12 mins    ██▒░░░░░░░░░░░░░░
     <br>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#78](https://github.com/flamableassassin/status/issues/78#issuecomment-1903758529) in [flamableassassin/status](https://github.com/flamableassassin/status)
-2. 🔒 Closed issue [#78](https://github.com/flamableassassin/status/issues/78) in [flamableassassin/status](https://github.com/flamableassassin/status)
-3. ❗ Opened issue [#78](https://github.com/flamableassassin/status/issues/78) in [flamableassassin/status](https://github.com/flamableassassin/status)
-4. 🎉 Merged PR [#7](https://github.com/flamableassassin/drawshield-api/pull/7) in [flamableassassin/drawshield-api](https://github.com/flamableassassin/drawshield-api)
-5. 🗣 Commented on [#7](https://github.com/flamableassassin/drawshield-api/pull/7#issuecomment-1886634988) in [flamableassassin/drawshield-api](https://github.com/flamableassassin/drawshield-api)
+1. 🎉 Merged PR [#8](https://github.com/flamableassassin/drawshield-api/pull/8) in [flamableassassin/drawshield-api](https://github.com/flamableassassin/drawshield-api)
+2. 🗣 Commented on [#78](https://github.com/flamableassassin/status/issues/78#issuecomment-1903758529) in [flamableassassin/status](https://github.com/flamableassassin/status)
+3. 🔒 Closed issue [#78](https://github.com/flamableassassin/status/issues/78) in [flamableassassin/status](https://github.com/flamableassassin/status)
+4. ❗ Opened issue [#78](https://github.com/flamableassassin/status/issues/78) in [flamableassassin/status](https://github.com/flamableassassin/status)
+5. 🎉 Merged PR [#7](https://github.com/flamableassassin/drawshield-api/pull/7) in [flamableassassin/drawshield-api](https://github.com/flamableassassin/drawshield-api)
   <!--END_SECTION:activity-->
 
 </details>
