@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [disjunctor](https://www.wordnik.com/words/disjunctor)
+- Random word of the day: [mummeries](https://www.wordnik.com/words/mummeries)
 <!--END_SECTION:randomWord-->
 
 <details>
