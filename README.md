@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [criticule](https://www.wordnik.com/words/criticule)
+- Random word of the day: [sulphoxid](https://www.wordnik.com/words/sulphoxid)
 <!--END_SECTION:randomWord-->
 
 <details>
