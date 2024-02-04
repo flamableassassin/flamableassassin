@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [sulphoxid](https://www.wordnik.com/words/sulphoxid)
+- Random word of the day: [cristina](https://www.wordnik.com/words/cristina)
 <!--END_SECTION:randomWord-->
 
 <details>
