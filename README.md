@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cristina](https://www.wordnik.com/words/cristina)
+- Random word of the day: [headmen](https://www.wordnik.com/words/headmen)
 <!--END_SECTION:randomWord-->
 
 <details>
