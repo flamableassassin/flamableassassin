@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [creashaks](https://www.wordnik.com/words/creashaks)
+- Random word of the day: [quinquevalence](https://www.wordnik.com/words/quinquevalence)
 <!--END_SECTION:randomWord-->
 
 <details>
