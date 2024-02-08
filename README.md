@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [quinquevalence](https://www.wordnik.com/words/quinquevalence)
+- Random word of the day: [duction](https://www.wordnik.com/words/duction)
 <!--END_SECTION:randomWord-->
 
 <details>
