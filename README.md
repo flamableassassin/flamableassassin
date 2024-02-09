@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [duction](https://www.wordnik.com/words/duction)
+- Random word of the day: [lionise](https://www.wordnik.com/words/lionise)
 <!--END_SECTION:randomWord-->
 
 <details>
