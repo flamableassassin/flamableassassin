@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [accessible](https://www.wordnik.com/words/accessible)
+- Random word of the day: [intertubercular](https://www.wordnik.com/words/intertubercular)
 <!--END_SECTION:randomWord-->
 
 <details>
