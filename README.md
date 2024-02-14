@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [concremation](https://www.wordnik.com/words/concremation)
+- Random word of the day: [nondeclarer](https://www.wordnik.com/words/nondeclarer)
 <!--END_SECTION:randomWord-->
 
 <details>
