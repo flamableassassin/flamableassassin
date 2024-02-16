@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [microinch](https://www.wordnik.com/words/microinch)
+- Random word of the day: [arless](https://www.wordnik.com/words/arless)
 <!--END_SECTION:randomWord-->
 
 <details>
