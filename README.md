@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [arless](https://www.wordnik.com/words/arless)
+- Random word of the day: [incommensurable](https://www.wordnik.com/words/incommensurable)
 <!--END_SECTION:randomWord-->
 
 <details>
