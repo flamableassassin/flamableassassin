@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [incommensurable](https://www.wordnik.com/words/incommensurable)
+- Random word of the day: [mockingstock](https://www.wordnik.com/words/mockingstock)
 <!--END_SECTION:randomWord-->
 
 <details>
