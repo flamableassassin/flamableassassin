@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [mimetene](https://www.wordnik.com/words/mimetene)
+- Random word of the day: [gaudily](https://www.wordnik.com/words/gaudily)
 <!--END_SECTION:randomWord-->
 
 <details>
