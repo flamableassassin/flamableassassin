@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [capuche](https://www.wordnik.com/words/capuche)
+- Random word of the day: [woodshedde](https://www.wordnik.com/words/woodshedde)
 <!--END_SECTION:randomWord-->
 
 <details>
