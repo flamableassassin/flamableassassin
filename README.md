@@ -31,11 +31,11 @@ PowerShell   2 hrs 18 mins   █▒░░░░░░░░░░░░░░░
     <br>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#80](https://github.com/flamableassassin/status/issues/80#issuecomment-1949941636) in [flamableassassin/status](https://github.com/flamableassassin/status)
-2. 🔒 Closed issue [#80](https://github.com/flamableassassin/status/issues/80) in [flamableassassin/status](https://github.com/flamableassassin/status)
-3. ❗ Opened issue [#80](https://github.com/flamableassassin/status/issues/80) in [flamableassassin/status](https://github.com/flamableassassin/status)
-4. 🗣 Commented on [#79](https://github.com/flamableassassin/status/issues/79#issuecomment-1925073760) in [flamableassassin/status](https://github.com/flamableassassin/status)
-5. 🔒 Closed issue [#79](https://github.com/flamableassassin/status/issues/79) in [flamableassassin/status](https://github.com/flamableassassin/status)
+1. 🎉 Merged PR [#9](https://github.com/flamableassassin/drawshield-api/pull/9) in [flamableassassin/drawshield-api](https://github.com/flamableassassin/drawshield-api)
+2. 🎉 Merged PR [#10](https://github.com/flamableassassin/drawshield-api/pull/10) in [flamableassassin/drawshield-api](https://github.com/flamableassassin/drawshield-api)
+3. 🗣 Commented on [#80](https://github.com/flamableassassin/status/issues/80#issuecomment-1949941636) in [flamableassassin/status](https://github.com/flamableassassin/status)
+4. 🔒 Closed issue [#80](https://github.com/flamableassassin/status/issues/80) in [flamableassassin/status](https://github.com/flamableassassin/status)
+5. ❗ Opened issue [#80](https://github.com/flamableassassin/status/issues/80) in [flamableassassin/status](https://github.com/flamableassassin/status)
   <!--END_SECTION:activity-->
 
 </details>
