@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [diphosphoric](https://www.wordnik.com/words/diphosphoric)
+- Random word of the day: [flowering](https://www.wordnik.com/words/flowering)
 <!--END_SECTION:randomWord-->
 
 <details>
