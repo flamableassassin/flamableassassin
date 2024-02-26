@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [flowering](https://www.wordnik.com/words/flowering)
+- Random word of the day: [algalia](https://www.wordnik.com/words/algalia)
 <!--END_SECTION:randomWord-->
 
 <details>
