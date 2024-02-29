@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [samir](https://www.wordnik.com/words/samir)
+- Random word of the day: [wosith](https://www.wordnik.com/words/wosith)
 <!--END_SECTION:randomWord-->
 
 <details>
