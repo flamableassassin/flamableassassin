@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [wosith](https://www.wordnik.com/words/wosith)
+- Random word of the day: [feasibleness](https://www.wordnik.com/words/feasibleness)
 <!--END_SECTION:randomWord-->
 
 <details>
