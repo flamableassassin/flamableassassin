@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [feasibleness](https://www.wordnik.com/words/feasibleness)
+- Random word of the day: [croceus](https://www.wordnik.com/words/croceus)
 <!--END_SECTION:randomWord-->
 
 <details>
