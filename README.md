@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [croceus](https://www.wordnik.com/words/croceus)
+- Random word of the day: [bluewood](https://www.wordnik.com/words/bluewood)
 <!--END_SECTION:randomWord-->
 
 <details>
