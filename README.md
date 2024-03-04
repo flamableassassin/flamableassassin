@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [bluewood](https://www.wordnik.com/words/bluewood)
+- Random word of the day: [martials](https://www.wordnik.com/words/martials)
 <!--END_SECTION:randomWord-->
 
 <details>
