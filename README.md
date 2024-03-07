@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [kohlrabies](https://www.wordnik.com/words/kohlrabies)
+- Random word of the day: [pileorhiza](https://www.wordnik.com/words/pileorhiza)
 <!--END_SECTION:randomWord-->
 
 <details>
