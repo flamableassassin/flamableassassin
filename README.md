@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [pileorhiza](https://www.wordnik.com/words/pileorhiza)
+- Random word of the day: [naturally](https://www.wordnik.com/words/naturally)
 <!--END_SECTION:randomWord-->
 
 <details>
