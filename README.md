@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [uninfluencive](https://www.wordnik.com/words/uninfluencive)
+- Random word of the day: [cerevis](https://www.wordnik.com/words/cerevis)
 <!--END_SECTION:randomWord-->
 
 <details>
