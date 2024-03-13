@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cerevis](https://www.wordnik.com/words/cerevis)
+- Random word of the day: [cleeked](https://www.wordnik.com/words/cleeked)
 <!--END_SECTION:randomWord-->
 
 <details>
