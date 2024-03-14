@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cleeked](https://www.wordnik.com/words/cleeked)
+- Random word of the day: [vocalic](https://www.wordnik.com/words/vocalic)
 <!--END_SECTION:randomWord-->
 
 <details>
