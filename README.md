@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [umbers](https://www.wordnik.com/words/umbers)
+- Random word of the day: [malacanthid](https://www.wordnik.com/words/malacanthid)
 <!--END_SECTION:randomWord-->
 
 <details>
