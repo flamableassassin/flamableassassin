@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [malacanthid](https://www.wordnik.com/words/malacanthid)
+- Random word of the day: [prenarial](https://www.wordnik.com/words/prenarial)
 <!--END_SECTION:randomWord-->
 
 <details>
