@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [prenarial](https://www.wordnik.com/words/prenarial)
+- Random word of the day: [striolate](https://www.wordnik.com/words/striolate)
 <!--END_SECTION:randomWord-->
 
 <details>
