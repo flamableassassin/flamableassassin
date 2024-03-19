@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [striolate](https://www.wordnik.com/words/striolate)
+- Random word of the day: [boyishness](https://www.wordnik.com/words/boyishness)
 <!--END_SECTION:randomWord-->
 
 <details>
