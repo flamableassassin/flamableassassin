@@ -31,11 +31,11 @@ SQL          1 hr 7 mins     █▒░░░░░░░░░░░░░░░
     <br>
 
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#112](https://github.com/flamableassassin/Drawshield-Code/pull/112) in [flamableassassin/Drawshield-Code](https://github.com/flamableassassin/Drawshield-Code)
-2. ❌ Reopened PR [#112](https://github.com/flamableassassin/Drawshield-Code/pull/112) in [flamableassassin/Drawshield-Code](https://github.com/flamableassassin/Drawshield-Code)
-3. 🗣 Commented on [#663](https://github.com/drawshield/Drawshield-Code/pull/663#issuecomment-2002635222) in [drawshield/Drawshield-Code](https://github.com/drawshield/Drawshield-Code)
-4. ❌ Closed PR [#663](https://github.com/drawshield/Drawshield-Code/pull/663) in [drawshield/Drawshield-Code](https://github.com/drawshield/Drawshield-Code)
-5. 💪 Opened PR [#663](https://github.com/drawshield/Drawshield-Code/pull/663) in [drawshield/Drawshield-Code](https://github.com/drawshield/Drawshield-Code)
+1. 🎉 Merged PR [#12](https://github.com/flamableassassin/drawshield-api/pull/12) in [flamableassassin/drawshield-api](https://github.com/flamableassassin/drawshield-api)
+2. ❌ Closed PR [#112](https://github.com/flamableassassin/Drawshield-Code/pull/112) in [flamableassassin/Drawshield-Code](https://github.com/flamableassassin/Drawshield-Code)
+3. ❌ Reopened PR [#112](https://github.com/flamableassassin/Drawshield-Code/pull/112) in [flamableassassin/Drawshield-Code](https://github.com/flamableassassin/Drawshield-Code)
+4. 🗣 Commented on [#663](https://github.com/drawshield/Drawshield-Code/pull/663#issuecomment-2002635222) in [drawshield/Drawshield-Code](https://github.com/drawshield/Drawshield-Code)
+5. ❌ Closed PR [#663](https://github.com/drawshield/Drawshield-Code/pull/663) in [drawshield/Drawshield-Code](https://github.com/drawshield/Drawshield-Code)
   <!--END_SECTION:activity-->
 
 </details>
