@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [boyishness](https://www.wordnik.com/words/boyishness)
+- Random word of the day: [cheek](https://www.wordnik.com/words/cheek)
 <!--END_SECTION:randomWord-->
 
 <details>
