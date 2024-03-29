@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [hydride](https://www.wordnik.com/words/hydride)
+- Random word of the day: [govern](https://www.wordnik.com/words/govern)
 <!--END_SECTION:randomWord-->
 
 <details>
