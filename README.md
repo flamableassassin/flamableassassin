@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [govern](https://www.wordnik.com/words/govern)
+- Random word of the day: [unpeerable](https://www.wordnik.com/words/unpeerable)
 <!--END_SECTION:randomWord-->
 
 <details>
