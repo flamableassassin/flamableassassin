@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [unpeerable](https://www.wordnik.com/words/unpeerable)
+- Random word of the day: [devas](https://www.wordnik.com/words/devas)
 <!--END_SECTION:randomWord-->
 
 <details>
