@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [devas](https://www.wordnik.com/words/devas)
+- Random word of the day: [tushes](https://www.wordnik.com/words/tushes)
 <!--END_SECTION:randomWord-->
 
 <details>
