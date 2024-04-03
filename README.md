@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [miltonia](https://www.wordnik.com/words/miltonia)
+- Random word of the day: [negqtiator](https://www.wordnik.com/words/negqtiator)
 <!--END_SECTION:randomWord-->
 
 <details>
