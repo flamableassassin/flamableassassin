@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [negqtiator](https://www.wordnik.com/words/negqtiator)
+- Random word of the day: [carbuncular](https://www.wordnik.com/words/carbuncular)
 <!--END_SECTION:randomWord-->
 
 <details>
