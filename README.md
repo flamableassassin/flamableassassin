@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [carbuncular](https://www.wordnik.com/words/carbuncular)
+- Random word of the day: [beliquoring](https://www.wordnik.com/words/beliquoring)
 <!--END_SECTION:randomWord-->
 
 <details>
