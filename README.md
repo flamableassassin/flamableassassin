@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [beliquoring](https://www.wordnik.com/words/beliquoring)
+- Random word of the day: [sequest](https://www.wordnik.com/words/sequest)
 <!--END_SECTION:randomWord-->
 
 <details>
