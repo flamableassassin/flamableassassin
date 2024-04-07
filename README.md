@@ -31,11 +31,11 @@ Bicep        2 hrs 49 mins   ██▒░░░░░░░░░░░░░░
     <br>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/flamableassassin/drawshield-api/pull/13) in [flamableassassin/drawshield-api](https://github.com/flamableassassin/drawshield-api)
-2. 🎉 Merged PR [#14](https://github.com/flamableassassin/drawshield-api/pull/14) in [flamableassassin/drawshield-api](https://github.com/flamableassassin/drawshield-api)
-3. 💪 Opened PR [#14](https://github.com/flamableassassin/drawshield-api/pull/14) in [flamableassassin/drawshield-api](https://github.com/flamableassassin/drawshield-api)
-4. 🎉 Merged PR [#12](https://github.com/flamableassassin/drawshield-api/pull/12) in [flamableassassin/drawshield-api](https://github.com/flamableassassin/drawshield-api)
-5. ❌ Closed PR [#112](https://github.com/flamableassassin/Drawshield-Code/pull/112) in [flamableassassin/Drawshield-Code](https://github.com/flamableassassin/Drawshield-Code)
+1. 🎉 Merged PR [#15](https://github.com/flamableassassin/drawshield-api/pull/15) in [flamableassassin/drawshield-api](https://github.com/flamableassassin/drawshield-api)
+2. 🎉 Merged PR [#16](https://github.com/flamableassassin/drawshield-api/pull/16) in [flamableassassin/drawshield-api](https://github.com/flamableassassin/drawshield-api)
+3. 🎉 Merged PR [#13](https://github.com/flamableassassin/drawshield-api/pull/13) in [flamableassassin/drawshield-api](https://github.com/flamableassassin/drawshield-api)
+4. 🎉 Merged PR [#14](https://github.com/flamableassassin/drawshield-api/pull/14) in [flamableassassin/drawshield-api](https://github.com/flamableassassin/drawshield-api)
+5. 💪 Opened PR [#14](https://github.com/flamableassassin/drawshield-api/pull/14) in [flamableassassin/drawshield-api](https://github.com/flamableassassin/drawshield-api)
   <!--END_SECTION:activity-->
 
 </details>
