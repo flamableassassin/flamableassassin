@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [protonephros](https://www.wordnik.com/words/protonephros)
+- Random word of the day: [jacktan](https://www.wordnik.com/words/jacktan)
 <!--END_SECTION:randomWord-->
 
 <details>
