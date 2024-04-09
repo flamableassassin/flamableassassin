@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [jacktan](https://www.wordnik.com/words/jacktan)
+- Random word of the day: [miswriting](https://www.wordnik.com/words/miswriting)
 <!--END_SECTION:randomWord-->
 
 <details>
