@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [miswriting](https://www.wordnik.com/words/miswriting)
+- Random word of the day: [halakah](https://www.wordnik.com/words/halakah)
 <!--END_SECTION:randomWord-->
 
 <details>
