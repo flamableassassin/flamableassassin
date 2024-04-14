@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [dottore](https://www.wordnik.com/words/dottore)
+- Random word of the day: [planetologists](https://www.wordnik.com/words/planetologists)
 <!--END_SECTION:randomWord-->
 
 <details>
