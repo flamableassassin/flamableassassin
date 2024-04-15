@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [planetologists](https://www.wordnik.com/words/planetologists)
+- Random word of the day: [coatimondie](https://www.wordnik.com/words/coatimondie)
 <!--END_SECTION:randomWord-->
 
 <details>
