@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [coatimondie](https://www.wordnik.com/words/coatimondie)
+- Random word of the day: [representation](https://www.wordnik.com/words/representation)
 <!--END_SECTION:randomWord-->
 
 <details>
