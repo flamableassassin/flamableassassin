@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [seambiter](https://www.wordnik.com/words/seambiter)
+- Random word of the day: [classifying](https://www.wordnik.com/words/classifying)
 <!--END_SECTION:randomWord-->
 
 <details>
