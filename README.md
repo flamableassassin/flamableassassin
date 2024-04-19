@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [classifying](https://www.wordnik.com/words/classifying)
+- Random word of the day: [kakawahie](https://www.wordnik.com/words/kakawahie)
 <!--END_SECTION:randomWord-->
 
 <details>
