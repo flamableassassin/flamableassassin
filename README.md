@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [shuttler](https://www.wordnik.com/words/shuttler)
+- Random word of the day: [calcic](https://www.wordnik.com/words/calcic)
 <!--END_SECTION:randomWord-->
 
 <details>
