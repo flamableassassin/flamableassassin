@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [arhythmia](https://www.wordnik.com/words/arhythmia)
+- Random word of the day: [vagabondry](https://www.wordnik.com/words/vagabondry)
 <!--END_SECTION:randomWord-->
 
 <details>
