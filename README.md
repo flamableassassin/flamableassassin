@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [vagabondry](https://www.wordnik.com/words/vagabondry)
+- Random word of the day: [alkalescence](https://www.wordnik.com/words/alkalescence)
 <!--END_SECTION:randomWord-->
 
 <details>
