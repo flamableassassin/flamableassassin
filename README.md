@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [arthrometer](https://www.wordnik.com/words/arthrometer)
+- Random word of the day: [abaxial](https://www.wordnik.com/words/abaxial)
 <!--END_SECTION:randomWord-->
 
 <details>
