@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [abaxial](https://www.wordnik.com/words/abaxial)
+- Random word of the day: [norwester](https://www.wordnik.com/words/norwester)
 <!--END_SECTION:randomWord-->
 
 <details>
