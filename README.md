@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [pottier](https://www.wordnik.com/words/pottier)
+- Random word of the day: [oxygon](https://www.wordnik.com/words/oxygon)
 <!--END_SECTION:randomWord-->
 
 <details>
