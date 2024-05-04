@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [oxygon](https://www.wordnik.com/words/oxygon)
+- Random word of the day: [echinostoma](https://www.wordnik.com/words/echinostoma)
 <!--END_SECTION:randomWord-->
 
 <details>
