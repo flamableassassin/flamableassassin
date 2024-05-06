@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [beladying](https://www.wordnik.com/words/beladying)
+- Random word of the day: [scyphistomas](https://www.wordnik.com/words/scyphistomas)
 <!--END_SECTION:randomWord-->
 
 <details>
