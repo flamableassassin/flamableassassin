@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [scyphistomas](https://www.wordnik.com/words/scyphistomas)
+- Random word of the day: [anomal](https://www.wordnik.com/words/anomal)
 <!--END_SECTION:randomWord-->
 
 <details>
