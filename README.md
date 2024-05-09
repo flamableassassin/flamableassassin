@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [withdraught](https://www.wordnik.com/words/withdraught)
+- Random word of the day: [mehari](https://www.wordnik.com/words/mehari)
 <!--END_SECTION:randomWord-->
 
 <details>
