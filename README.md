@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [mehari](https://www.wordnik.com/words/mehari)
+- Random word of the day: [ceremony](https://www.wordnik.com/words/ceremony)
 <!--END_SECTION:randomWord-->
 
 <details>
