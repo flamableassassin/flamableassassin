@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [thanan](https://www.wordnik.com/words/thanan)
+- Random word of the day: [stadimeter](https://www.wordnik.com/words/stadimeter)
 <!--END_SECTION:randomWord-->
 
 <details>
