@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [stadimeter](https://www.wordnik.com/words/stadimeter)
+- Random word of the day: [magneton](https://www.wordnik.com/words/magneton)
 <!--END_SECTION:randomWord-->
 
 <details>
