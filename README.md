@@ -15,11 +15,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Bicep        7 hrs 51 mins   ███████░░░░░░░░░░░░░░░░░░   28.42 %
-Other        6 hrs 32 mins   ██████░░░░░░░░░░░░░░░░░░░   23.68 %
-SquidConf    5 hrs 4 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.35 %
-JavaScript   3 hrs 54 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
-JSON         2 hrs 27 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
+Bicep        5 hrs 44 mins   ███████░░░░░░░░░░░░░░░░░░   27.55 %
+SquidConf    5 hrs 4 mins    ██████░░░░░░░░░░░░░░░░░░░   24.34 %
+Other        3 hrs 52 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.56 %
+JavaScript   3 hrs 39 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.53 %
+YAML         1 hr 38 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
 ```
 
 <!--END_SECTION:waka-->
