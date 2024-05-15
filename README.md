@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [monstriferous](https://www.wordnik.com/words/monstriferous)
+- Random word of the day: [actinopteri](https://www.wordnik.com/words/actinopteri)
 <!--END_SECTION:randomWord-->
 
 <details>
