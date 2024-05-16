@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [actinopteri](https://www.wordnik.com/words/actinopteri)
+- Random word of the day: [padlock](https://www.wordnik.com/words/padlock)
 <!--END_SECTION:randomWord-->
 
 <details>
