@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [padlock](https://www.wordnik.com/words/padlock)
+- Random word of the day: [sostinente](https://www.wordnik.com/words/sostinente)
 <!--END_SECTION:randomWord-->
 
 <details>
