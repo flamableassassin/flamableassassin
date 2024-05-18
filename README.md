@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [sostinente](https://www.wordnik.com/words/sostinente)
+- Random word of the day: [unfossilized](https://www.wordnik.com/words/unfossilized)
 <!--END_SECTION:randomWord-->
 
 <details>
