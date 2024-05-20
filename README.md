@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [polysyllogistic](https://www.wordnik.com/words/polysyllogistic)
+- Random word of the day: [baizes](https://www.wordnik.com/words/baizes)
 <!--END_SECTION:randomWord-->
 
 <details>
