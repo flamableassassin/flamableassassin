@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [baizes](https://www.wordnik.com/words/baizes)
+- Random word of the day: [endophyllum](https://www.wordnik.com/words/endophyllum)
 <!--END_SECTION:randomWord-->
 
 <details>
