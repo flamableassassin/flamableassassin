@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [endophyllum](https://www.wordnik.com/words/endophyllum)
+- Random word of the day: [overfine](https://www.wordnik.com/words/overfine)
 <!--END_SECTION:randomWord-->
 
 <details>
