@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [overfine](https://www.wordnik.com/words/overfine)
+- Random word of the day: [quindecennial](https://www.wordnik.com/words/quindecennial)
 <!--END_SECTION:randomWord-->
 
 <details>
