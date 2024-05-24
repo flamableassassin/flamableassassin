@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [quindecennial](https://www.wordnik.com/words/quindecennial)
+- Random word of the day: [unadventured](https://www.wordnik.com/words/unadventured)
 <!--END_SECTION:randomWord-->
 
 <details>
