@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [antianopheline](https://www.wordnik.com/words/antianopheline)
+- Random word of the day: [weedily](https://www.wordnik.com/words/weedily)
 <!--END_SECTION:randomWord-->
 
 <details>
