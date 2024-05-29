@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [haplomid](https://www.wordnik.com/words/haplomid)
+- Random word of the day: [solenesses](https://www.wordnik.com/words/solenesses)
 <!--END_SECTION:randomWord-->
 
 <details>
