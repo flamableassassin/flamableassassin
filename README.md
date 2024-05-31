@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [dryworker](https://www.wordnik.com/words/dryworker)
+- Random word of the day: [repacifying](https://www.wordnik.com/words/repacifying)
 <!--END_SECTION:randomWord-->
 
 <details>
