@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [repacifying](https://www.wordnik.com/words/repacifying)
+- Random word of the day: [nonmajority](https://www.wordnik.com/words/nonmajority)
 <!--END_SECTION:randomWord-->
 
 <details>
