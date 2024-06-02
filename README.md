@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [nonmajority](https://www.wordnik.com/words/nonmajority)
+- Random word of the day: [terentian](https://www.wordnik.com/words/terentian)
 <!--END_SECTION:randomWord-->
 
 <details>
