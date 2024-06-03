@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [terentian](https://www.wordnik.com/words/terentian)
+- Random word of the day: [gelatine](https://www.wordnik.com/words/gelatine)
 <!--END_SECTION:randomWord-->
 
 <details>
