@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [gelatine](https://www.wordnik.com/words/gelatine)
+- Random word of the day: [progeniture](https://www.wordnik.com/words/progeniture)
 <!--END_SECTION:randomWord-->
 
 <details>
