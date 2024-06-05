@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [progeniture](https://www.wordnik.com/words/progeniture)
+- Random word of the day: [undeclarative](https://www.wordnik.com/words/undeclarative)
 <!--END_SECTION:randomWord-->
 
 <details>
