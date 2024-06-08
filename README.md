@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [bezantee](https://www.wordnik.com/words/bezantee)
+- Random word of the day: [textureless](https://www.wordnik.com/words/textureless)
 <!--END_SECTION:randomWord-->
 
 <details>
