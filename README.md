@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [textureless](https://www.wordnik.com/words/textureless)
+- Random word of the day: [echometer](https://www.wordnik.com/words/echometer)
 <!--END_SECTION:randomWord-->
 
 <details>
