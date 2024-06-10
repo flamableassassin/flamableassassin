@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [echometer](https://www.wordnik.com/words/echometer)
+- Random word of the day: [biwinter](https://www.wordnik.com/words/biwinter)
 <!--END_SECTION:randomWord-->
 
 <details>
