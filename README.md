@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [parellic](https://www.wordnik.com/words/parellic)
+- Random word of the day: [deadlatch](https://www.wordnik.com/words/deadlatch)
 <!--END_SECTION:randomWord-->
 
 <details>
