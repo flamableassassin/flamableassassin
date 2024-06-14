@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [eprouvette](https://www.wordnik.com/words/eprouvette)
+- Random word of the day: [nellie](https://www.wordnik.com/words/nellie)
 <!--END_SECTION:randomWord-->
 
 <details>
