@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [nellie](https://www.wordnik.com/words/nellie)
+- Random word of the day: [backtrackers](https://www.wordnik.com/words/backtrackers)
 <!--END_SECTION:randomWord-->
 
 <details>
