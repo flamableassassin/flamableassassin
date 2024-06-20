@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [lithographs](https://www.wordnik.com/words/lithographs)
+- Random word of the day: [gowany](https://www.wordnik.com/words/gowany)
 <!--END_SECTION:randomWord-->
 
 <details>
