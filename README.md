@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [zebulun](https://www.wordnik.com/words/zebulun)
+- Random word of the day: [prevogue](https://www.wordnik.com/words/prevogue)
 <!--END_SECTION:randomWord-->
 
 <details>
