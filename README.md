@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [morbidezza](https://www.wordnik.com/words/morbidezza)
+- Random word of the day: [unexactingly](https://www.wordnik.com/words/unexactingly)
 <!--END_SECTION:randomWord-->
 
 <details>
