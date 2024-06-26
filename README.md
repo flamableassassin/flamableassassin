@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [candidateship](https://www.wordnik.com/words/candidateship)
+- Random word of the day: [forepoint](https://www.wordnik.com/words/forepoint)
 <!--END_SECTION:randomWord-->
 
 <details>
