@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [forepoint](https://www.wordnik.com/words/forepoint)
+- Random word of the day: [excited](https://www.wordnik.com/words/excited)
 <!--END_SECTION:randomWord-->
 
 <details>
