@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [excited](https://www.wordnik.com/words/excited)
+- Random word of the day: [spiler](https://www.wordnik.com/words/spiler)
 <!--END_SECTION:randomWord-->
 
 <details>
