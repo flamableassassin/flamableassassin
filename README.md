@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [nonvirulent](https://www.wordnik.com/words/nonvirulent)
+- Random word of the day: [brander](https://www.wordnik.com/words/brander)
 <!--END_SECTION:randomWord-->
 
 <details>
