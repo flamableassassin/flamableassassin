@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [festal](https://www.wordnik.com/words/festal)
+- Random word of the day: [pullman](https://www.wordnik.com/words/pullman)
 <!--END_SECTION:randomWord-->
 
 <details>
