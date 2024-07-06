@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [spooniest](https://www.wordnik.com/words/spooniest)
+- Random word of the day: [olfactory](https://www.wordnik.com/words/olfactory)
 <!--END_SECTION:randomWord-->
 
 <details>
