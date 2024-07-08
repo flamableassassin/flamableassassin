@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [divans](https://www.wordnik.com/words/divans)
+- Random word of the day: [parallelotropic](https://www.wordnik.com/words/parallelotropic)
 <!--END_SECTION:randomWord-->
 
 <details>
