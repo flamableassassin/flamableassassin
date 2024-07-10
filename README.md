@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [alabandite](https://www.wordnik.com/words/alabandite)
+- Random word of the day: [roomies](https://www.wordnik.com/words/roomies)
 <!--END_SECTION:randomWord-->
 
 <details>
