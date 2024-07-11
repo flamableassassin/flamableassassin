@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [roomies](https://www.wordnik.com/words/roomies)
+- Random word of the day: [berberid](https://www.wordnik.com/words/berberid)
 <!--END_SECTION:randomWord-->
 
 <details>
