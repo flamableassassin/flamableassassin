@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [amperemeter](https://www.wordnik.com/words/amperemeter)
+- Random word of the day: [reinstation](https://www.wordnik.com/words/reinstation)
 <!--END_SECTION:randomWord-->
 
 <details>
