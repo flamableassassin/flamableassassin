@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [reinstation](https://www.wordnik.com/words/reinstation)
+- Random word of the day: [desaturation](https://www.wordnik.com/words/desaturation)
 <!--END_SECTION:randomWord-->
 
 <details>
