@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [desaturation](https://www.wordnik.com/words/desaturation)
+- Random word of the day: [loren](https://www.wordnik.com/words/loren)
 <!--END_SECTION:randomWord-->
 
 <details>
