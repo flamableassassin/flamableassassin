@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [velaric](https://www.wordnik.com/words/velaric)
+- Random word of the day: [pagina](https://www.wordnik.com/words/pagina)
 <!--END_SECTION:randomWord-->
 
 <details>
