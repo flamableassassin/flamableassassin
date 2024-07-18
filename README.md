@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [pagina](https://www.wordnik.com/words/pagina)
+- Random word of the day: [capacitative](https://www.wordnik.com/words/capacitative)
 <!--END_SECTION:randomWord-->
 
 <details>
