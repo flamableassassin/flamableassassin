@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [estradas](https://www.wordnik.com/words/estradas)
+- Random word of the day: [chiaroscurist](https://www.wordnik.com/words/chiaroscurist)
 <!--END_SECTION:randomWord-->
 
 <details>
