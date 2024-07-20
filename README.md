@@ -31,8 +31,8 @@ JSON         11 mins         ▒░░░░░░░░░░░░░░░░
     <br>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2957](https://github.com/Azure/PSRule.Rules.Azure/issues/2957) in [Azure/PSRule.Rules.Azure](https://github.com/Azure/PSRule.Rules.Azure)
-2. 🗣 Commented on [#81](https://github.com/flamableassassin/status/issues/81#issuecomment-2149116829) in [flamableassassin/status](https://github.com/flamableassassin/status)
+1. ❗ Opened issue [#82](https://github.com/flamableassassin/status/issues/82) in [flamableassassin/status](https://github.com/flamableassassin/status)
+2. ❗ Opened issue [#2957](https://github.com/Azure/PSRule.Rules.Azure/issues/2957) in [Azure/PSRule.Rules.Azure](https://github.com/Azure/PSRule.Rules.Azure)
 3. 🔒 Closed issue [#81](https://github.com/flamableassassin/status/issues/81) in [flamableassassin/status](https://github.com/flamableassassin/status)
 4. ❗ Opened issue [#81](https://github.com/flamableassassin/status/issues/81) in [flamableassassin/status](https://github.com/flamableassassin/status)
 5. 🎉 Merged PR [#17](https://github.com/flamableassassin/drawshield-api/pull/17) in [flamableassassin/drawshield-api](https://github.com/flamableassassin/drawshield-api)
