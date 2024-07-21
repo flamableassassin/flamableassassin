@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [chiaroscurist](https://www.wordnik.com/words/chiaroscurist)
+- Random word of the day: [demesmerize](https://www.wordnik.com/words/demesmerize)
 <!--END_SECTION:randomWord-->
 
 <details>
