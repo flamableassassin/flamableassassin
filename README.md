@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [oleothorax](https://www.wordnik.com/words/oleothorax)
+- Random word of the day: [suaveolent](https://www.wordnik.com/words/suaveolent)
 <!--END_SECTION:randomWord-->
 
 <details>
