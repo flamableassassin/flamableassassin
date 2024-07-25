@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [corody](https://www.wordnik.com/words/corody)
+- Random word of the day: [concretions](https://www.wordnik.com/words/concretions)
 <!--END_SECTION:randomWord-->
 
 <details>
