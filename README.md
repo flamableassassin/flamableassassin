@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [laubanite](https://www.wordnik.com/words/laubanite)
+- Random word of the day: [glauconia](https://www.wordnik.com/words/glauconia)
 <!--END_SECTION:randomWord-->
 
 <details>
