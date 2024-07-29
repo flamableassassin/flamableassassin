@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [glauconia](https://www.wordnik.com/words/glauconia)
+- Random word of the day: [unsmashed](https://www.wordnik.com/words/unsmashed)
 <!--END_SECTION:randomWord-->
 
 <details>
