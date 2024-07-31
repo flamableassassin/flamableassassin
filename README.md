@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [incompact](https://www.wordnik.com/words/incompact)
+- Random word of the day: [propiolaldehyde](https://www.wordnik.com/words/propiolaldehyde)
 <!--END_SECTION:randomWord-->
 
 <details>
