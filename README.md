@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [propiolaldehyde](https://www.wordnik.com/words/propiolaldehyde)
+- Random word of the day: [narrowing](https://www.wordnik.com/words/narrowing)
 <!--END_SECTION:randomWord-->
 
 <details>
