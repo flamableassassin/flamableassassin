@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [affranchised](https://www.wordnik.com/words/affranchised)
+- Random word of the day: [bediapers](https://www.wordnik.com/words/bediapers)
 <!--END_SECTION:randomWord-->
 
 <details>
