@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [recanting](https://www.wordnik.com/words/recanting)
+- Random word of the day: [nonabstractly](https://www.wordnik.com/words/nonabstractly)
 <!--END_SECTION:randomWord-->
 
 <details>
