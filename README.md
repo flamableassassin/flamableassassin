@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [enchyma](https://www.wordnik.com/words/enchyma)
+- Random word of the day: [gyronny](https://www.wordnik.com/words/gyronny)
 <!--END_SECTION:randomWord-->
 
 <details>
