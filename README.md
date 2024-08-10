@@ -15,11 +15,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-PowerShell   25 hrs 58 mins  ████████████████▓░░░░░░░░   66.35 %
-PowerQuery   5 hrs 22 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.74 %
-Other        5 hrs 4 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
-JSON         1 hr 56 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
-Git Config   24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+PowerShell   22 hrs 18 mins  ██████████████▓░░░░░░░░░░   59.12 %
+Other        7 hrs 18 mins   █████░░░░░░░░░░░░░░░░░░░░   19.37 %
+PowerQuery   5 hrs 22 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
+JSON         1 hr 57 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+Git Config   24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 ```
 
 <!--END_SECTION:waka-->
