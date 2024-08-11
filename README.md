@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [fireclays](https://www.wordnik.com/words/fireclays)
+- Random word of the day: [bemocked](https://www.wordnik.com/words/bemocked)
 <!--END_SECTION:randomWord-->
 
 <details>
