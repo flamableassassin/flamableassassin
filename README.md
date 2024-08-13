@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [sniffed](https://www.wordnik.com/words/sniffed)
+- Random word of the day: [zoographer](https://www.wordnik.com/words/zoographer)
 <!--END_SECTION:randomWord-->
 
 <details>
