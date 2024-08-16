@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [geologists](https://www.wordnik.com/words/geologists)
+- Random word of the day: [needlepoint](https://www.wordnik.com/words/needlepoint)
 <!--END_SECTION:randomWord-->
 
 <details>
