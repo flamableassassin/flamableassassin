@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [needlepoint](https://www.wordnik.com/words/needlepoint)
+- Random word of the day: [euonymin](https://www.wordnik.com/words/euonymin)
 <!--END_SECTION:randomWord-->
 
 <details>
