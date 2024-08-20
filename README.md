@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [multicelled](https://www.wordnik.com/words/multicelled)
+- Random word of the day: [cyathozooid](https://www.wordnik.com/words/cyathozooid)
 <!--END_SECTION:randomWord-->
 
 <details>
