@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [affright](https://www.wordnik.com/words/affright)
+- Random word of the day: [serratia](https://www.wordnik.com/words/serratia)
 <!--END_SECTION:randomWord-->
 
 <details>
