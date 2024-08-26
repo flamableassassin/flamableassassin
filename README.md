@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [bouquetin](https://www.wordnik.com/words/bouquetin)
+- Random word of the day: [prigster](https://www.wordnik.com/words/prigster)
 <!--END_SECTION:randomWord-->
 
 <details>
