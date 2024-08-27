@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [prigster](https://www.wordnik.com/words/prigster)
+- Random word of the day: [neuroanatomist](https://www.wordnik.com/words/neuroanatomist)
 <!--END_SECTION:randomWord-->
 
 <details>
