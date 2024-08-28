@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [neuroanatomist](https://www.wordnik.com/words/neuroanatomist)
+- Random word of the day: [creophagous](https://www.wordnik.com/words/creophagous)
 <!--END_SECTION:randomWord-->
 
 <details>
