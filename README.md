@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [creophagous](https://www.wordnik.com/words/creophagous)
+- Random word of the day: [explement](https://www.wordnik.com/words/explement)
 <!--END_SECTION:randomWord-->
 
 <details>
