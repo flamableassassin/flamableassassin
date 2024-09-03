@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [nitriot](https://www.wordnik.com/words/nitriot)
+- Random word of the day: [urocystis](https://www.wordnik.com/words/urocystis)
 <!--END_SECTION:randomWord-->
 
 <details>
