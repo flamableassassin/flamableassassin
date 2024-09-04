@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [urocystis](https://www.wordnik.com/words/urocystis)
+- Random word of the day: [superwealthy](https://www.wordnik.com/words/superwealthy)
 <!--END_SECTION:randomWord-->
 
 <details>
