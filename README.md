@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [superwealthy](https://www.wordnik.com/words/superwealthy)
+- Random word of the day: [enthronised](https://www.wordnik.com/words/enthronised)
 <!--END_SECTION:randomWord-->
 
 <details>
