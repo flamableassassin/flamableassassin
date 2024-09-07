@@ -15,11 +15,7 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Python       2 hrs 15 mins   ███████░░░░░░░░░░░░░░░░░░   27.92 %
-Other        1 hr 39 mins    █████░░░░░░░░░░░░░░░░░░░░   20.63 %
-CSV          1 hr 39 mins    █████░░░░░░░░░░░░░░░░░░░░   20.52 %
-PowerShell   1 hr 14 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.29 %
-YAML         40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
