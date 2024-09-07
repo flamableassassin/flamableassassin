@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [triangulate](https://www.wordnik.com/words/triangulate)
+- Random word of the day: [metapophyseal](https://www.wordnik.com/words/metapophyseal)
 <!--END_SECTION:randomWord-->
 
 <details>
