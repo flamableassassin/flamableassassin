@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [metapophyseal](https://www.wordnik.com/words/metapophyseal)
+- Random word of the day: [hitchy](https://www.wordnik.com/words/hitchy)
 <!--END_SECTION:randomWord-->
 
 <details>
