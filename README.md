@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [unmanipulative](https://www.wordnik.com/words/unmanipulative)
+- Random word of the day: [agrotechny](https://www.wordnik.com/words/agrotechny)
 <!--END_SECTION:randomWord-->
 
 <details>
