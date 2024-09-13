@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [moniliaceae](https://www.wordnik.com/words/moniliaceae)
+- Random word of the day: [enterocoela](https://www.wordnik.com/words/enterocoela)
 <!--END_SECTION:randomWord-->
 
 <details>
