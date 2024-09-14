@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [enterocoela](https://www.wordnik.com/words/enterocoela)
+- Random word of the day: [argols](https://www.wordnik.com/words/argols)
 <!--END_SECTION:randomWord-->
 
 <details>
