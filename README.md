@@ -31,10 +31,10 @@ CSV          2 mins          ░░░░░░░░░░░░░░░░░
     <br>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#82](https://github.com/flamableassassin/status/issues/82#issuecomment-2240823555) in [flamableassassin/status](https://github.com/flamableassassin/status)
-2. 🔒 Closed issue [#82](https://github.com/flamableassassin/status/issues/82) in [flamableassassin/status](https://github.com/flamableassassin/status)
-3. ❗ Opened issue [#82](https://github.com/flamableassassin/status/issues/82) in [flamableassassin/status](https://github.com/flamableassassin/status)
-4. ❗ Opened issue [#2957](https://github.com/Azure/PSRule.Rules.Azure/issues/2957) in [Azure/PSRule.Rules.Azure](https://github.com/Azure/PSRule.Rules.Azure)
+1. 🗣 Commented on [#83](https://github.com/flamableassassin/status/issues/83#issuecomment-2364721040) in [flamableassassin/status](https://github.com/flamableassassin/status)
+2. 🔒 Closed issue [#83](https://github.com/flamableassassin/status/issues/83) in [flamableassassin/status](https://github.com/flamableassassin/status)
+3. ❗ Opened issue [#83](https://github.com/flamableassassin/status/issues/83) in [flamableassassin/status](https://github.com/flamableassassin/status)
+4. ❗ Opened issue [#5049](https://github.com/PowerShell/vscode-powershell/issues/5049) in [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell)
 5. 🎉 Merged PR [#17](https://github.com/flamableassassin/drawshield-api/pull/17) in [flamableassassin/drawshield-api](https://github.com/flamableassassin/drawshield-api)
   <!--END_SECTION:activity-->
 
