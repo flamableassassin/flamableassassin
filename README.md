@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [subglossitis](https://www.wordnik.com/words/subglossitis)
+- Random word of the day: [skatoxyl](https://www.wordnik.com/words/skatoxyl)
 <!--END_SECTION:randomWord-->
 
 <details>
