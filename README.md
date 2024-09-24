@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [skatoxyl](https://www.wordnik.com/words/skatoxyl)
+- Random word of the day: [unsocially](https://www.wordnik.com/words/unsocially)
 <!--END_SECTION:randomWord-->
 
 <details>
