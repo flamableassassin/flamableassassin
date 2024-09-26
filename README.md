@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [distritos](https://www.wordnik.com/words/distritos)
+- Random word of the day: [skiddingly](https://www.wordnik.com/words/skiddingly)
 <!--END_SECTION:randomWord-->
 
 <details>
