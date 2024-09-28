@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [jaywalking](https://www.wordnik.com/words/jaywalking)
+- Random word of the day: [foretimes](https://www.wordnik.com/words/foretimes)
 <!--END_SECTION:randomWord-->
 
 <details>
