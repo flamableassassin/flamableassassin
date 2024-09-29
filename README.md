@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [foretimes](https://www.wordnik.com/words/foretimes)
+- Random word of the day: [delouse](https://www.wordnik.com/words/delouse)
 <!--END_SECTION:randomWord-->
 
 <details>
