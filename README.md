@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [delouse](https://www.wordnik.com/words/delouse)
+- Random word of the day: [bdellidae](https://www.wordnik.com/words/bdellidae)
 <!--END_SECTION:randomWord-->
 
 <details>
