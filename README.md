@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [bdellidae](https://www.wordnik.com/words/bdellidae)
+- Random word of the day: [autoeroticism](https://www.wordnik.com/words/autoeroticism)
 <!--END_SECTION:randomWord-->
 
 <details>
