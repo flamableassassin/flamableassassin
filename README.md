@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [autoeroticism](https://www.wordnik.com/words/autoeroticism)
+- Random word of the day: [churchwards](https://www.wordnik.com/words/churchwards)
 <!--END_SECTION:randomWord-->
 
 <details>
