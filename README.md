@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [circumfuse](https://www.wordnik.com/words/circumfuse)
+- Random word of the day: [preobligating](https://www.wordnik.com/words/preobligating)
 <!--END_SECTION:randomWord-->
 
 <details>
