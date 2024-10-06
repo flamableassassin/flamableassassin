@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [artichokes](https://www.wordnik.com/words/artichokes)
+- Random word of the day: [octachord](https://www.wordnik.com/words/octachord)
 <!--END_SECTION:randomWord-->
 
 <details>
