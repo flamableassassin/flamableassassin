@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [octachord](https://www.wordnik.com/words/octachord)
+- Random word of the day: [archpapist](https://www.wordnik.com/words/archpapist)
 <!--END_SECTION:randomWord-->
 
 <details>
