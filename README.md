@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [vaster](https://www.wordnik.com/words/vaster)
+- Random word of the day: [habituating](https://www.wordnik.com/words/habituating)
 <!--END_SECTION:randomWord-->
 
 <details>
