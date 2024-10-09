@@ -15,11 +15,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-PowerShell   21 hrs 10 mins  ██████████████▒░░░░░░░░░░   57.16 %
-Markdown     7 hrs           ████▓░░░░░░░░░░░░░░░░░░░░   18.94 %
-Other        5 hrs 25 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
-HTML         3 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
-PowerQuery   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+PowerShell   21 hrs 32 mins  ███████████████░░░░░░░░░░   60.18 %
+Markdown     4 hrs 48 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 %
+Other        3 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
+HTML         3 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
+Python       2 hrs 42 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
 ```
 
 <!--END_SECTION:waka-->
