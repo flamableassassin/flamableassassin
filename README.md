@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [hippiatrical](https://www.wordnik.com/words/hippiatrical)
+- Random word of the day: [introspectivist](https://www.wordnik.com/words/introspectivist)
 <!--END_SECTION:randomWord-->
 
 <details>
