@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [introspectivist](https://www.wordnik.com/words/introspectivist)
+- Random word of the day: [forepast](https://www.wordnik.com/words/forepast)
 <!--END_SECTION:randomWord-->
 
 <details>
