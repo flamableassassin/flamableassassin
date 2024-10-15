@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [latitant](https://www.wordnik.com/words/latitant)
+- Random word of the day: [aversion](https://www.wordnik.com/words/aversion)
 <!--END_SECTION:randomWord-->
 
 <details>
