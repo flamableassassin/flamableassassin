@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [discountenance](https://www.wordnik.com/words/discountenance)
+- Random word of the day: [successionless](https://www.wordnik.com/words/successionless)
 <!--END_SECTION:randomWord-->
 
 <details>
