@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cados](https://www.wordnik.com/words/cados)
+- Random word of the day: [mecodont](https://www.wordnik.com/words/mecodont)
 <!--END_SECTION:randomWord-->
 
 <details>
