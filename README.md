@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [mecodont](https://www.wordnik.com/words/mecodont)
+- Random word of the day: [murmur](https://www.wordnik.com/words/murmur)
 <!--END_SECTION:randomWord-->
 
 <details>
