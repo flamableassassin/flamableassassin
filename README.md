@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [vahine](https://www.wordnik.com/words/vahine)
+- Random word of the day: [spondylodidymia](https://www.wordnik.com/words/spondylodidymia)
 <!--END_SECTION:randomWord-->
 
 <details>
