@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [antispadix](https://www.wordnik.com/words/antispadix)
+- Random word of the day: [alienages](https://www.wordnik.com/words/alienages)
 <!--END_SECTION:randomWord-->
 
 <details>
