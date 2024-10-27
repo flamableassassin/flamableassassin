@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [curare](https://www.wordnik.com/words/curare)
+- Random word of the day: [smeddums](https://www.wordnik.com/words/smeddums)
 <!--END_SECTION:randomWord-->
 
 <details>
