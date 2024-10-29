@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [incestuously](https://www.wordnik.com/words/incestuously)
+- Random word of the day: [torpedo](https://www.wordnik.com/words/torpedo)
 <!--END_SECTION:randomWord-->
 
 <details>
