@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [patronizable](https://www.wordnik.com/words/patronizable)
+- Random word of the day: [cithrens](https://www.wordnik.com/words/cithrens)
 <!--END_SECTION:randomWord-->
 
 <details>
