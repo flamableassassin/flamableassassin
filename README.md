@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [aristotelianism](https://www.wordnik.com/words/aristotelianism)
+- Random word of the day: [reinforcements](https://www.wordnik.com/words/reinforcements)
 <!--END_SECTION:randomWord-->
 
 <details>
