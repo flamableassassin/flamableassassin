@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [reinforcements](https://www.wordnik.com/words/reinforcements)
+- Random word of the day: [profluvious](https://www.wordnik.com/words/profluvious)
 <!--END_SECTION:randomWord-->
 
 <details>
