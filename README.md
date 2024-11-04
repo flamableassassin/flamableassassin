@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [profluvious](https://www.wordnik.com/words/profluvious)
+- Random word of the day: [etchimin](https://www.wordnik.com/words/etchimin)
 <!--END_SECTION:randomWord-->
 
 <details>
