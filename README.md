@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [misdefine](https://www.wordnik.com/words/misdefine)
+- Random word of the day: [purgatives](https://www.wordnik.com/words/purgatives)
 <!--END_SECTION:randomWord-->
 
 <details>
