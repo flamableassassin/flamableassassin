@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [purgatives](https://www.wordnik.com/words/purgatives)
+- Random word of the day: [birching](https://www.wordnik.com/words/birching)
 <!--END_SECTION:randomWord-->
 
 <details>
