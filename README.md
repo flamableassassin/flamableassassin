@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [birching](https://www.wordnik.com/words/birching)
+- Random word of the day: [blibe](https://www.wordnik.com/words/blibe)
 <!--END_SECTION:randomWord-->
 
 <details>
