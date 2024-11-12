@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [osmic](https://www.wordnik.com/words/osmic)
+- Random word of the day: [qurti](https://www.wordnik.com/words/qurti)
 <!--END_SECTION:randomWord-->
 
 <details>
