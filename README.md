@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [qurti](https://www.wordnik.com/words/qurti)
+- Random word of the day: [peepholes](https://www.wordnik.com/words/peepholes)
 <!--END_SECTION:randomWord-->
 
 <details>
