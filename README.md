@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [peepholes](https://www.wordnik.com/words/peepholes)
+- Random word of the day: [bandarlog](https://www.wordnik.com/words/bandarlog)
 <!--END_SECTION:randomWord-->
 
 <details>
