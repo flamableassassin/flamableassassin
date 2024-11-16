@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [neuroplasmic](https://www.wordnik.com/words/neuroplasmic)
+- Random word of the day: [markedness](https://www.wordnik.com/words/markedness)
 <!--END_SECTION:randomWord-->
 
 <details>
