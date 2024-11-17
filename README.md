@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [markedness](https://www.wordnik.com/words/markedness)
+- Random word of the day: [dhoti](https://www.wordnik.com/words/dhoti)
 <!--END_SECTION:randomWord-->
 
 <details>
