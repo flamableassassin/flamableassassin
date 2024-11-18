@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [dhoti](https://www.wordnik.com/words/dhoti)
+- Random word of the day: [discombobulated](https://www.wordnik.com/words/discombobulated)
 <!--END_SECTION:randomWord-->
 
 <details>
