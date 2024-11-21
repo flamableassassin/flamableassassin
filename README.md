@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [bowdlerise](https://www.wordnik.com/words/bowdlerise)
+- Random word of the day: [menacingly](https://www.wordnik.com/words/menacingly)
 <!--END_SECTION:randomWord-->
 
 <details>
