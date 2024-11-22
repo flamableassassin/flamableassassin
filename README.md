@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [menacingly](https://www.wordnik.com/words/menacingly)
+- Random word of the day: [recurvity](https://www.wordnik.com/words/recurvity)
 <!--END_SECTION:randomWord-->
 
 <details>
