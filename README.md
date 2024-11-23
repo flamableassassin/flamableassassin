@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [recurvity](https://www.wordnik.com/words/recurvity)
+- Random word of the day: [bandannas](https://www.wordnik.com/words/bandannas)
 <!--END_SECTION:randomWord-->
 
 <details>
