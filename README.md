@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [bandannas](https://www.wordnik.com/words/bandannas)
+- Random word of the day: [blusterer](https://www.wordnik.com/words/blusterer)
 <!--END_SECTION:randomWord-->
 
 <details>
