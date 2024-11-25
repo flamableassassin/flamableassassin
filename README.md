@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [blusterer](https://www.wordnik.com/words/blusterer)
+- Random word of the day: [mabuti](https://www.wordnik.com/words/mabuti)
 <!--END_SECTION:randomWord-->
 
 <details>
