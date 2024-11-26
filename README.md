@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [mabuti](https://www.wordnik.com/words/mabuti)
+- Random word of the day: [trippings](https://www.wordnik.com/words/trippings)
 <!--END_SECTION:randomWord-->
 
 <details>
