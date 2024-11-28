@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [outdrops](https://www.wordnik.com/words/outdrops)
+- Random word of the day: [chouses](https://www.wordnik.com/words/chouses)
 <!--END_SECTION:randomWord-->
 
 <details>
