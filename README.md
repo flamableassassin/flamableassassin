@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [tuliac](https://www.wordnik.com/words/tuliac)
+- Random word of the day: [indeficient](https://www.wordnik.com/words/indeficient)
 <!--END_SECTION:randomWord-->
 
 <details>
