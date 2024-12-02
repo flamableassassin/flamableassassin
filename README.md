@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [psaronius](https://www.wordnik.com/words/psaronius)
+- Random word of the day: [servals](https://www.wordnik.com/words/servals)
 <!--END_SECTION:randomWord-->
 
 <details>
