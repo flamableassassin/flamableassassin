@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [eternizing](https://www.wordnik.com/words/eternizing)
+- Random word of the day: [imbeciles](https://www.wordnik.com/words/imbeciles)
 <!--END_SECTION:randomWord-->
 
 <details>
