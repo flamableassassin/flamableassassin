@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [imbeciles](https://www.wordnik.com/words/imbeciles)
+- Random word of the day: [xiphisternum](https://www.wordnik.com/words/xiphisternum)
 <!--END_SECTION:randomWord-->
 
 <details>
