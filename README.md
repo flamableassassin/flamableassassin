@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [manhandled](https://www.wordnik.com/words/manhandled)
+- Random word of the day: [penance](https://www.wordnik.com/words/penance)
 <!--END_SECTION:randomWord-->
 
 <details>
