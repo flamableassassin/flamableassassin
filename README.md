@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [penance](https://www.wordnik.com/words/penance)
+- Random word of the day: [iphis](https://www.wordnik.com/words/iphis)
 <!--END_SECTION:randomWord-->
 
 <details>
