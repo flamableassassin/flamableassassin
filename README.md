@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [iphis](https://www.wordnik.com/words/iphis)
+- Random word of the day: [shipbroken](https://www.wordnik.com/words/shipbroken)
 <!--END_SECTION:randomWord-->
 
 <details>
