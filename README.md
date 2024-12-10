@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [shipbroken](https://www.wordnik.com/words/shipbroken)
+- Random word of the day: [hajji](https://www.wordnik.com/words/hajji)
 <!--END_SECTION:randomWord-->
 
 <details>
