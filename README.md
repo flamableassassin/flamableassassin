@@ -15,11 +15,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-PowerShell   17 hrs 50 mins  ██████████████░░░░░░░░░░░   55.95 %
-Terraform    7 hrs 15 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.78 %
-Other        3 hrs 34 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
-Bicep        1 hr 57 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
-Git Config   30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+PowerShell   12 hrs 49 mins  █████████▓░░░░░░░░░░░░░░░   38.55 %
+Terraform    12 hrs 8 mins   █████████░░░░░░░░░░░░░░░░   36.54 %
+Other        3 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
+Bicep        1 hr 57 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+JSON         1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
 ```
 
 <!--END_SECTION:waka-->
