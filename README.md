@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [hajji](https://www.wordnik.com/words/hajji)
+- Random word of the day: [spatterdock](https://www.wordnik.com/words/spatterdock)
 <!--END_SECTION:randomWord-->
 
 <details>
