@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [squiddle](https://www.wordnik.com/words/squiddle)
+- Random word of the day: [ticul](https://www.wordnik.com/words/ticul)
 <!--END_SECTION:randomWord-->
 
 <details>
