@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [roperies](https://www.wordnik.com/words/roperies)
+- Random word of the day: [latticinio](https://www.wordnik.com/words/latticinio)
 <!--END_SECTION:randomWord-->
 
 <details>
