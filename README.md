@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [latticinio](https://www.wordnik.com/words/latticinio)
+- Random word of the day: [caducibranch](https://www.wordnik.com/words/caducibranch)
 <!--END_SECTION:randomWord-->
 
 <details>
