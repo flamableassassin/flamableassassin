@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [caducibranch](https://www.wordnik.com/words/caducibranch)
+- Random word of the day: [whipjack](https://www.wordnik.com/words/whipjack)
 <!--END_SECTION:randomWord-->
 
 <details>
