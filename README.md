@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [whipjack](https://www.wordnik.com/words/whipjack)
+- Random word of the day: [trophoderm](https://www.wordnik.com/words/trophoderm)
 <!--END_SECTION:randomWord-->
 
 <details>
