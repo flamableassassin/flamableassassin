@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [trophoderm](https://www.wordnik.com/words/trophoderm)
+- Random word of the day: [elean](https://www.wordnik.com/words/elean)
 <!--END_SECTION:randomWord-->
 
 <details>
