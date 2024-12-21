@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [fagopyrum](https://www.wordnik.com/words/fagopyrum)
+- Random word of the day: [quinotannic](https://www.wordnik.com/words/quinotannic)
 <!--END_SECTION:randomWord-->
 
 <details>
