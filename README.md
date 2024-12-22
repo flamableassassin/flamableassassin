@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [quinotannic](https://www.wordnik.com/words/quinotannic)
+- Random word of the day: [hillier](https://www.wordnik.com/words/hillier)
 <!--END_SECTION:randomWord-->
 
 <details>
