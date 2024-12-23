@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [hillier](https://www.wordnik.com/words/hillier)
+- Random word of the day: [sabed](https://www.wordnik.com/words/sabed)
 <!--END_SECTION:randomWord-->
 
 <details>
