@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [sabed](https://www.wordnik.com/words/sabed)
+- Random word of the day: [plasmodium](https://www.wordnik.com/words/plasmodium)
 <!--END_SECTION:randomWord-->
 
 <details>
