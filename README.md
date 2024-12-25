@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [plasmodium](https://www.wordnik.com/words/plasmodium)
+- Random word of the day: [oestrual](https://www.wordnik.com/words/oestrual)
 <!--END_SECTION:randomWord-->
 
 <details>
