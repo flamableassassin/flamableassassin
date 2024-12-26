@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [oestrual](https://www.wordnik.com/words/oestrual)
+- Random word of the day: [overpracticing](https://www.wordnik.com/words/overpracticing)
 <!--END_SECTION:randomWord-->
 
 <details>
