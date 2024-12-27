@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [overpracticing](https://www.wordnik.com/words/overpracticing)
+- Random word of the day: [stalingrad](https://www.wordnik.com/words/stalingrad)
 <!--END_SECTION:randomWord-->
 
 <details>
