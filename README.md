@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [stalingrad](https://www.wordnik.com/words/stalingrad)
+- Random word of the day: [vacillant](https://www.wordnik.com/words/vacillant)
 <!--END_SECTION:randomWord-->
 
 <details>
