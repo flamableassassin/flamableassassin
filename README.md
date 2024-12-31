@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [redactor](https://www.wordnik.com/words/redactor)
+- Random word of the day: [nostrificate](https://www.wordnik.com/words/nostrificate)
 <!--END_SECTION:randomWord-->
 
 <details>
