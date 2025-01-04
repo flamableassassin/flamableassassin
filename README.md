@@ -31,11 +31,11 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
     <br>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/Panakotta00/FicsIt-Networks-Repository/pull/3) in [Panakotta00/FicsIt-Networks-Repository](https://github.com/Panakotta00/FicsIt-Networks-Repository)
-2. 🗣 Commented on [#32](https://github.com/MarcioHuser/EfficiencyCheckerMod-SML3/pull/32#issuecomment-2558291785) in [MarcioHuser/EfficiencyCheckerMod-SML3](https://github.com/MarcioHuser/EfficiencyCheckerMod-SML3)
-3. 💪 Opened PR [#32](https://github.com/MarcioHuser/EfficiencyCheckerMod-SML3/pull/32) in [MarcioHuser/EfficiencyCheckerMod-SML3](https://github.com/MarcioHuser/EfficiencyCheckerMod-SML3)
-4. 🗣 Commented on [#85](https://github.com/flamableassassin/status/issues/85#issuecomment-2507946918) in [flamableassassin/status](https://github.com/flamableassassin/status)
-5. 🔒 Closed issue [#85](https://github.com/flamableassassin/status/issues/85) in [flamableassassin/status](https://github.com/flamableassassin/status)
+1. 🗣 Commented on [#6931](https://github.com/bridgecrewio/checkov/issues/6931#issuecomment-2569066535) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
+2. ❗ Opened issue [#6931](https://github.com/bridgecrewio/checkov/issues/6931) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
+3. 💪 Opened PR [#3](https://github.com/Panakotta00/FicsIt-Networks-Repository/pull/3) in [Panakotta00/FicsIt-Networks-Repository](https://github.com/Panakotta00/FicsIt-Networks-Repository)
+4. 🗣 Commented on [#32](https://github.com/MarcioHuser/EfficiencyCheckerMod-SML3/pull/32#issuecomment-2558291785) in [MarcioHuser/EfficiencyCheckerMod-SML3](https://github.com/MarcioHuser/EfficiencyCheckerMod-SML3)
+5. 💪 Opened PR [#32](https://github.com/MarcioHuser/EfficiencyCheckerMod-SML3/pull/32) in [MarcioHuser/EfficiencyCheckerMod-SML3](https://github.com/MarcioHuser/EfficiencyCheckerMod-SML3)
   <!--END_SECTION:activity-->
 
 </details>
