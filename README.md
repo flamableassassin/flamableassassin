@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [minow](https://www.wordnik.com/words/minow)
+- Random word of the day: [apery](https://www.wordnik.com/words/apery)
 <!--END_SECTION:randomWord-->
 
 <details>
