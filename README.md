@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [apery](https://www.wordnik.com/words/apery)
+- Random word of the day: [contramarque](https://www.wordnik.com/words/contramarque)
 <!--END_SECTION:randomWord-->
 
 <details>
