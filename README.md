@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [gastrocele](https://www.wordnik.com/words/gastrocele)
+- Random word of the day: [bardulph](https://www.wordnik.com/words/bardulph)
 <!--END_SECTION:randomWord-->
 
 <details>
