@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [bardulph](https://www.wordnik.com/words/bardulph)
+- Random word of the day: [acumble](https://www.wordnik.com/words/acumble)
 <!--END_SECTION:randomWord-->
 
 <details>
