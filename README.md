@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [champ](https://www.wordnik.com/words/champ)
+- Random word of the day: [oilseeds](https://www.wordnik.com/words/oilseeds)
 <!--END_SECTION:randomWord-->
 
 <details>
