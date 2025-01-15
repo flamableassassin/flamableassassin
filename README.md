@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [bywalking](https://www.wordnik.com/words/bywalking)
+- Random word of the day: [cormophyte](https://www.wordnik.com/words/cormophyte)
 <!--END_SECTION:randomWord-->
 
 <details>
