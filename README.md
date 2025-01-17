@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [peritcia](https://www.wordnik.com/words/peritcia)
+- Random word of the day: [timekeeper](https://www.wordnik.com/words/timekeeper)
 <!--END_SECTION:randomWord-->
 
 <details>
