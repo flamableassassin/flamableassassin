@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [timekeeper](https://www.wordnik.com/words/timekeeper)
+- Random word of the day: [superpolitely](https://www.wordnik.com/words/superpolitely)
 <!--END_SECTION:randomWord-->
 
 <details>
