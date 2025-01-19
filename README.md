@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [superpolitely](https://www.wordnik.com/words/superpolitely)
+- Random word of the day: [ambosexual](https://www.wordnik.com/words/ambosexual)
 <!--END_SECTION:randomWord-->
 
 <details>
