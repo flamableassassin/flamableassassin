@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [mugil](https://www.wordnik.com/words/mugil)
+- Random word of the day: [stellulate](https://www.wordnik.com/words/stellulate)
 <!--END_SECTION:randomWord-->
 
 <details>
