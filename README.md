@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [stellulate](https://www.wordnik.com/words/stellulate)
+- Random word of the day: [emulge](https://www.wordnik.com/words/emulge)
 <!--END_SECTION:randomWord-->
 
 <details>
