@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [invalid](https://www.wordnik.com/words/invalid)
+- Random word of the day: [dipteraceous](https://www.wordnik.com/words/dipteraceous)
 <!--END_SECTION:randomWord-->
 
 <details>
