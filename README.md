@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [dermomuscular](https://www.wordnik.com/words/dermomuscular)
+- Random word of the day: [cryptococcal](https://www.wordnik.com/words/cryptococcal)
 <!--END_SECTION:randomWord-->
 
 <details>
