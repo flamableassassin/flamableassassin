@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cryptococcal](https://www.wordnik.com/words/cryptococcal)
+- Random word of the day: [carpometacarpi](https://www.wordnik.com/words/carpometacarpi)
 <!--END_SECTION:randomWord-->
 
 <details>
