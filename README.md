@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [carpometacarpi](https://www.wordnik.com/words/carpometacarpi)
+- Random word of the day: [pinwheels](https://www.wordnik.com/words/pinwheels)
 <!--END_SECTION:randomWord-->
 
 <details>
