@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [pinwheels](https://www.wordnik.com/words/pinwheels)
+- Random word of the day: [rodolph](https://www.wordnik.com/words/rodolph)
 <!--END_SECTION:randomWord-->
 
 <details>
