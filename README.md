@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [solio](https://www.wordnik.com/words/solio)
+- Random word of the day: [keraci](https://www.wordnik.com/words/keraci)
 <!--END_SECTION:randomWord-->
 
 <details>
