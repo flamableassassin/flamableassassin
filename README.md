@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [keraci](https://www.wordnik.com/words/keraci)
+- Random word of the day: [seity](https://www.wordnik.com/words/seity)
 <!--END_SECTION:randomWord-->
 
 <details>
