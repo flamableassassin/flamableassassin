@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [seity](https://www.wordnik.com/words/seity)
+- Random word of the day: [tinkerbird](https://www.wordnik.com/words/tinkerbird)
 <!--END_SECTION:randomWord-->
 
 <details>
