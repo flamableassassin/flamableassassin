@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [tinkerbird](https://www.wordnik.com/words/tinkerbird)
+- Random word of the day: [engjateigur](https://www.wordnik.com/words/engjateigur)
 <!--END_SECTION:randomWord-->
 
 <details>
