@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [leptodactylous](https://www.wordnik.com/words/leptodactylous)
+- Random word of the day: [midshipmanship](https://www.wordnik.com/words/midshipmanship)
 <!--END_SECTION:randomWord-->
 
 <details>
