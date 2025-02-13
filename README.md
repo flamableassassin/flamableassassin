@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [midshipmanship](https://www.wordnik.com/words/midshipmanship)
+- Random word of the day: [quadriloculate](https://www.wordnik.com/words/quadriloculate)
 <!--END_SECTION:randomWord-->
 
 <details>
