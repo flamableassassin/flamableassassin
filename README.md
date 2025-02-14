@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [quadriloculate](https://www.wordnik.com/words/quadriloculate)
+- Random word of the day: [egotized](https://www.wordnik.com/words/egotized)
 <!--END_SECTION:randomWord-->
 
 <details>
