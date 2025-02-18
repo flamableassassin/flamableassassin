@@ -15,11 +15,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-YAML         15 hrs 56 mins  ██████████▓░░░░░░░░░░░░░░   42.71 %
-Markdown     5 hrs 37 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 %
-PowerShell   5 hrs 29 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 %
-Terraform    5 hrs 1 min     ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 %
-Bicep        3 hrs 25 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
+YAML         14 hrs 45 mins  █████████▒░░░░░░░░░░░░░░░   37.67 %
+Terraform    6 hrs 18 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.13 %
+PowerShell   5 hrs 26 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.88 %
+Other        4 hrs 43 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.08 %
+Markdown     4 hrs 15 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
 ```
 
 <!--END_SECTION:waka-->
