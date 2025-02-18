@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [silos](https://www.wordnik.com/words/silos)
+- Random word of the day: [salish](https://www.wordnik.com/words/salish)
 <!--END_SECTION:randomWord-->
 
 <details>
