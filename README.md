@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [salish](https://www.wordnik.com/words/salish)
+- Random word of the day: [erectility](https://www.wordnik.com/words/erectility)
 <!--END_SECTION:randomWord-->
 
 <details>
