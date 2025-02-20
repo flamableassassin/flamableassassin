@@ -31,9 +31,9 @@ HCL          1 hr 39 mins    █░░░░░░░░░░░░░░░░
     <br>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6931](https://github.com/bridgecrewio/checkov/issues/6931#issuecomment-2569066535) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
-2. ❗ Opened issue [#6931](https://github.com/bridgecrewio/checkov/issues/6931) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
-3. 💪 Opened PR [#3](https://github.com/Panakotta00/FicsIt-Networks-Repository/pull/3) in [Panakotta00/FicsIt-Networks-Repository](https://github.com/Panakotta00/FicsIt-Networks-Repository)
+1. ❌ Closed PR [#1331](https://github.com/microsoft/finops-toolkit/pull/1331) in [microsoft/finops-toolkit](https://github.com/microsoft/finops-toolkit)
+2. 💪 Opened PR [#1331](https://github.com/microsoft/finops-toolkit/pull/1331) in [microsoft/finops-toolkit](https://github.com/microsoft/finops-toolkit)
+3. ❗ Opened issue [#1330](https://github.com/microsoft/finops-toolkit/issues/1330) in [microsoft/finops-toolkit](https://github.com/microsoft/finops-toolkit)
 4. 🗣 Commented on [#32](https://github.com/MarcioHuser/EfficiencyCheckerMod-SML3/pull/32#issuecomment-2558291785) in [MarcioHuser/EfficiencyCheckerMod-SML3](https://github.com/MarcioHuser/EfficiencyCheckerMod-SML3)
 5. 💪 Opened PR [#32](https://github.com/MarcioHuser/EfficiencyCheckerMod-SML3/pull/32) in [MarcioHuser/EfficiencyCheckerMod-SML3](https://github.com/MarcioHuser/EfficiencyCheckerMod-SML3)
   <!--END_SECTION:activity-->
