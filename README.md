@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [duplexity](https://www.wordnik.com/words/duplexity)
+- Random word of the day: [unchagrined](https://www.wordnik.com/words/unchagrined)
 <!--END_SECTION:randomWord-->
 
 <details>
