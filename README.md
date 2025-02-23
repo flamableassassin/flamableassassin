@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [unchagrined](https://www.wordnik.com/words/unchagrined)
+- Random word of the day: [divineness](https://www.wordnik.com/words/divineness)
 <!--END_SECTION:randomWord-->
 
 <details>
