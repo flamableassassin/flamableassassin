@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [divineness](https://www.wordnik.com/words/divineness)
+- Random word of the day: [dramseller](https://www.wordnik.com/words/dramseller)
 <!--END_SECTION:randomWord-->
 
 <details>
