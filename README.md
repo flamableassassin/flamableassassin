@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [dramseller](https://www.wordnik.com/words/dramseller)
+- Random word of the day: [prelation](https://www.wordnik.com/words/prelation)
 <!--END_SECTION:randomWord-->
 
 <details>
