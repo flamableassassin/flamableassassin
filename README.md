@@ -31,11 +31,11 @@ Markdown     3 hrs 44 mins   ██▒░░░░░░░░░░░░░░
     <br>
 
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1331](https://github.com/microsoft/finops-toolkit/pull/1331) in [microsoft/finops-toolkit](https://github.com/microsoft/finops-toolkit)
-2. 💪 Opened PR [#1331](https://github.com/microsoft/finops-toolkit/pull/1331) in [microsoft/finops-toolkit](https://github.com/microsoft/finops-toolkit)
-3. ❗ Opened issue [#1330](https://github.com/microsoft/finops-toolkit/issues/1330) in [microsoft/finops-toolkit](https://github.com/microsoft/finops-toolkit)
-4. 🗣 Commented on [#32](https://github.com/MarcioHuser/EfficiencyCheckerMod-SML3/pull/32#issuecomment-2558291785) in [MarcioHuser/EfficiencyCheckerMod-SML3](https://github.com/MarcioHuser/EfficiencyCheckerMod-SML3)
-5. 💪 Opened PR [#32](https://github.com/MarcioHuser/EfficiencyCheckerMod-SML3/pull/32) in [MarcioHuser/EfficiencyCheckerMod-SML3](https://github.com/MarcioHuser/EfficiencyCheckerMod-SML3)
+1. 🗣 Commented on [#1331](https://github.com/microsoft/finops-toolkit/pull/1331#issuecomment-2681654745) in [microsoft/finops-toolkit](https://github.com/microsoft/finops-toolkit)
+2. 🗣 Commented on [#1331](https://github.com/microsoft/finops-toolkit/pull/1331#issuecomment-2681584394) in [microsoft/finops-toolkit](https://github.com/microsoft/finops-toolkit)
+3. ❌ Closed PR [#1331](https://github.com/microsoft/finops-toolkit/pull/1331) in [microsoft/finops-toolkit](https://github.com/microsoft/finops-toolkit)
+4. 💪 Opened PR [#1331](https://github.com/microsoft/finops-toolkit/pull/1331) in [microsoft/finops-toolkit](https://github.com/microsoft/finops-toolkit)
+5. ❗ Opened issue [#1330](https://github.com/microsoft/finops-toolkit/issues/1330) in [microsoft/finops-toolkit](https://github.com/microsoft/finops-toolkit)
   <!--END_SECTION:activity-->
 
 </details>
