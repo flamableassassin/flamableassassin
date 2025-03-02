@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [ormers](https://www.wordnik.com/words/ormers)
+- Random word of the day: [untreacherously](https://www.wordnik.com/words/untreacherously)
 <!--END_SECTION:randomWord-->
 
 <details>
