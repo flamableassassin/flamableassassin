@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [arcuale](https://www.wordnik.com/words/arcuale)
+- Random word of the day: [miscasting](https://www.wordnik.com/words/miscasting)
 <!--END_SECTION:randomWord-->
 
 <details>
