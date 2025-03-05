@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [miscasting](https://www.wordnik.com/words/miscasting)
+- Random word of the day: [hawthorned](https://www.wordnik.com/words/hawthorned)
 <!--END_SECTION:randomWord-->
 
 <details>
