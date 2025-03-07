@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [unappeasedness](https://www.wordnik.com/words/unappeasedness)
+- Random word of the day: [irreticent](https://www.wordnik.com/words/irreticent)
 <!--END_SECTION:randomWord-->
 
 <details>
