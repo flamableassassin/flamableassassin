@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [irreticent](https://www.wordnik.com/words/irreticent)
+- Random word of the day: [endodontics](https://www.wordnik.com/words/endodontics)
 <!--END_SECTION:randomWord-->
 
 <details>
