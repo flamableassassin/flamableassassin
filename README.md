@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [endodontics](https://www.wordnik.com/words/endodontics)
+- Random word of the day: [notommatidae](https://www.wordnik.com/words/notommatidae)
 <!--END_SECTION:randomWord-->
 
 <details>
