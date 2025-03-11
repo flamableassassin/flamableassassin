@@ -15,11 +15,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Terraform    10 hrs 26 mins  █████████▒░░░░░░░░░░░░░░░   37.41 %
-YAML         8 hrs 29 mins   ███████▓░░░░░░░░░░░░░░░░░   30.39 %
-PowerShell   1 hr 49 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
-JavaScript   1 hr 43 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
-Bicep        1 hr 39 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+Terraform    8 hrs 55 mins   ████████▒░░░░░░░░░░░░░░░░   33.97 %
+YAML         8 hrs 6 mins    ███████▓░░░░░░░░░░░░░░░░░   30.91 %
+Markdown     2 hrs 40 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
+PowerShell   2 hrs 28 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
+Bicep        1 hr 39 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
 ```
 
 <!--END_SECTION:waka-->
