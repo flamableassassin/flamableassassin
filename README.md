@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [nonpunctuation](https://www.wordnik.com/words/nonpunctuation)
+- Random word of the day: [prediminution](https://www.wordnik.com/words/prediminution)
 <!--END_SECTION:randomWord-->
 
 <details>
