@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [unmournfully](https://www.wordnik.com/words/unmournfully)
+- Random word of the day: [inelegancy](https://www.wordnik.com/words/inelegancy)
 <!--END_SECTION:randomWord-->
 
 <details>
