@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [agglutinations](https://www.wordnik.com/words/agglutinations)
+- Random word of the day: [purgatories](https://www.wordnik.com/words/purgatories)
 <!--END_SECTION:randomWord-->
 
 <details>
