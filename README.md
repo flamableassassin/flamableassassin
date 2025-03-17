@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [lhiamba](https://www.wordnik.com/words/lhiamba)
+- Random word of the day: [opalescence](https://www.wordnik.com/words/opalescence)
 <!--END_SECTION:randomWord-->
 
 <details>
