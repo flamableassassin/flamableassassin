@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [unwresting](https://www.wordnik.com/words/unwresting)
+- Random word of the day: [wrinkleless](https://www.wordnik.com/words/wrinkleless)
 <!--END_SECTION:randomWord-->
 
 <details>
