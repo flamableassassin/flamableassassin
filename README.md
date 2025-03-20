@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [wrinkleless](https://www.wordnik.com/words/wrinkleless)
+- Random word of the day: [jerkined](https://www.wordnik.com/words/jerkined)
 <!--END_SECTION:randomWord-->
 
 <details>
