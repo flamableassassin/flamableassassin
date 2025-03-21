@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [jerkined](https://www.wordnik.com/words/jerkined)
+- Random word of the day: [semiantique](https://www.wordnik.com/words/semiantique)
 <!--END_SECTION:randomWord-->
 
 <details>
