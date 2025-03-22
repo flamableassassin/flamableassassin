@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [semiantique](https://www.wordnik.com/words/semiantique)
+- Random word of the day: [reprobatively](https://www.wordnik.com/words/reprobatively)
 <!--END_SECTION:randomWord-->
 
 <details>
