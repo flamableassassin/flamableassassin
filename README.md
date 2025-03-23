@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [reprobatively](https://www.wordnik.com/words/reprobatively)
+- Random word of the day: [sphacelariaceae](https://www.wordnik.com/words/sphacelariaceae)
 <!--END_SECTION:randomWord-->
 
 <details>
