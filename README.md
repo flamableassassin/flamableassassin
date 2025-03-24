@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [sphacelariaceae](https://www.wordnik.com/words/sphacelariaceae)
+- Random word of the day: [cessations](https://www.wordnik.com/words/cessations)
 <!--END_SECTION:randomWord-->
 
 <details>
