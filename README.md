@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cessations](https://www.wordnik.com/words/cessations)
+- Random word of the day: [bretwaldaship](https://www.wordnik.com/words/bretwaldaship)
 <!--END_SECTION:randomWord-->
 
 <details>
