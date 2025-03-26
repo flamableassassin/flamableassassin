@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [bretwaldaship](https://www.wordnik.com/words/bretwaldaship)
+- Random word of the day: [benim](https://www.wordnik.com/words/benim)
 <!--END_SECTION:randomWord-->
 
 <details>
