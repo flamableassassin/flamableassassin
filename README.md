@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [benim](https://www.wordnik.com/words/benim)
+- Random word of the day: [agricere](https://www.wordnik.com/words/agricere)
 <!--END_SECTION:randomWord-->
 
 <details>
