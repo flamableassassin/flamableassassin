@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [agricere](https://www.wordnik.com/words/agricere)
+- Random word of the day: [thelemite](https://www.wordnik.com/words/thelemite)
 <!--END_SECTION:randomWord-->
 
 <details>
