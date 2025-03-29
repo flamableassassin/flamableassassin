@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [thelemite](https://www.wordnik.com/words/thelemite)
+- Random word of the day: [pitifulness](https://www.wordnik.com/words/pitifulness)
 <!--END_SECTION:randomWord-->
 
 <details>
