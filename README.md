@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [pitifulness](https://www.wordnik.com/words/pitifulness)
+- Random word of the day: [duces](https://www.wordnik.com/words/duces)
 <!--END_SECTION:randomWord-->
 
 <details>
