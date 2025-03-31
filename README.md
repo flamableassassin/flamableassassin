@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [duces](https://www.wordnik.com/words/duces)
+- Random word of the day: [betangle](https://www.wordnik.com/words/betangle)
 <!--END_SECTION:randomWord-->
 
 <details>
