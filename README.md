@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [pharyngognathi](https://www.wordnik.com/words/pharyngognathi)
+- Random word of the day: [unhypothetical](https://www.wordnik.com/words/unhypothetical)
 <!--END_SECTION:randomWord-->
 
 <details>
