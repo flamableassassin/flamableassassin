@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [tresaiel](https://www.wordnik.com/words/tresaiel)
+- Random word of the day: [philologaster](https://www.wordnik.com/words/philologaster)
 <!--END_SECTION:randomWord-->
 
 <details>
