@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [philologaster](https://www.wordnik.com/words/philologaster)
+- Random word of the day: [accenting](https://www.wordnik.com/words/accenting)
 <!--END_SECTION:randomWord-->
 
 <details>
