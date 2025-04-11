@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cussedness](https://www.wordnik.com/words/cussedness)
+- Random word of the day: [semes](https://www.wordnik.com/words/semes)
 <!--END_SECTION:randomWord-->
 
 <details>
