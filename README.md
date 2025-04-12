@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [semes](https://www.wordnik.com/words/semes)
+- Random word of the day: [almsmen](https://www.wordnik.com/words/almsmen)
 <!--END_SECTION:randomWord-->
 
 <details>
