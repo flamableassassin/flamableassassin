@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [almsmen](https://www.wordnik.com/words/almsmen)
+- Random word of the day: [intertieing](https://www.wordnik.com/words/intertieing)
 <!--END_SECTION:randomWord-->
 
 <details>
