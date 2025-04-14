@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [intertieing](https://www.wordnik.com/words/intertieing)
+- Random word of the day: [nomarthral](https://www.wordnik.com/words/nomarthral)
 <!--END_SECTION:randomWord-->
 
 <details>
