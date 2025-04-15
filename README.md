@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [nomarthral](https://www.wordnik.com/words/nomarthral)
+- Random word of the day: [tarapon](https://www.wordnik.com/words/tarapon)
 <!--END_SECTION:randomWord-->
 
 <details>
