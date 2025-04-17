@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [unpenurious](https://www.wordnik.com/words/unpenurious)
+- Random word of the day: [hormone](https://www.wordnik.com/words/hormone)
 <!--END_SECTION:randomWord-->
 
 <details>
