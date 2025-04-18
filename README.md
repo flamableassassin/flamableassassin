@@ -31,9 +31,9 @@ Terraform    2 hrs 43 mins   █▓░░░░░░░░░░░░░░░
     <br>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1331](https://github.com/microsoft/finops-toolkit/pull/1331#issuecomment-2681654745) in [microsoft/finops-toolkit](https://github.com/microsoft/finops-toolkit)
-2. 🗣 Commented on [#1331](https://github.com/microsoft/finops-toolkit/pull/1331#issuecomment-2681584394) in [microsoft/finops-toolkit](https://github.com/microsoft/finops-toolkit)
-3. ❌ Closed PR [#1331](https://github.com/microsoft/finops-toolkit/pull/1331) in [microsoft/finops-toolkit](https://github.com/microsoft/finops-toolkit)
+1. 🗣 Commented on [#87](https://github.com/flamableassassin/status/issues/87#issuecomment-2811598739) in [flamableassassin/status](https://github.com/flamableassassin/status)
+2. 🔒 Closed issue [#87](https://github.com/flamableassassin/status/issues/87) in [flamableassassin/status](https://github.com/flamableassassin/status)
+3. ❗ Opened issue [#87](https://github.com/flamableassassin/status/issues/87) in [flamableassassin/status](https://github.com/flamableassassin/status)
 4. 💪 Opened PR [#1331](https://github.com/microsoft/finops-toolkit/pull/1331) in [microsoft/finops-toolkit](https://github.com/microsoft/finops-toolkit)
 5. ❗ Opened issue [#1330](https://github.com/microsoft/finops-toolkit/issues/1330) in [microsoft/finops-toolkit](https://github.com/microsoft/finops-toolkit)
   <!--END_SECTION:activity-->
