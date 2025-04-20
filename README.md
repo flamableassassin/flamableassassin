@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [sycones](https://www.wordnik.com/words/sycones)
+- Random word of the day: [orthoxylene](https://www.wordnik.com/words/orthoxylene)
 <!--END_SECTION:randomWord-->
 
 <details>
