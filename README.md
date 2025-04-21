@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [orthoxylene](https://www.wordnik.com/words/orthoxylene)
+- Random word of the day: [rebolera](https://www.wordnik.com/words/rebolera)
 <!--END_SECTION:randomWord-->
 
 <details>
