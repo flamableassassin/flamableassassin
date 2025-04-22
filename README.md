@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [rebolera](https://www.wordnik.com/words/rebolera)
+- Random word of the day: [innovant](https://www.wordnik.com/words/innovant)
 <!--END_SECTION:randomWord-->
 
 <details>
