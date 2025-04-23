@@ -15,11 +15,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Python       19 hrs 37 mins  ██████████████████▓░░░░░░   74.94 %
-PowerShell   3 hrs 18 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.63 %
-JavaScript   1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
-TypeScript   55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
-YAML         25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+Python       19 hrs 43 mins  ███████████████████▓░░░░░   78.80 %
+PowerShell   1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+JavaScript   1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+TypeScript   55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+Terraform    36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
 ```
 
 <!--END_SECTION:waka-->
