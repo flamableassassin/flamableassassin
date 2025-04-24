@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [walkaway](https://www.wordnik.com/words/walkaway)
+- Random word of the day: [spadework](https://www.wordnik.com/words/spadework)
 <!--END_SECTION:randomWord-->
 
 <details>
