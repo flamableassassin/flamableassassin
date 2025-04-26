@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [swarths](https://www.wordnik.com/words/swarths)
+- Random word of the day: [pichi](https://www.wordnik.com/words/pichi)
 <!--END_SECTION:randomWord-->
 
 <details>
