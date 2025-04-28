@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [understay](https://www.wordnik.com/words/understay)
+- Random word of the day: [myriapodan](https://www.wordnik.com/words/myriapodan)
 <!--END_SECTION:randomWord-->
 
 <details>
