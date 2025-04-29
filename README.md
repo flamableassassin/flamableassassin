@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [myriapodan](https://www.wordnik.com/words/myriapodan)
+- Random word of the day: [varitype](https://www.wordnik.com/words/varitype)
 <!--END_SECTION:randomWord-->
 
 <details>
