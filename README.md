@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [theandric](https://www.wordnik.com/words/theandric)
+- Random word of the day: [fergusonite](https://www.wordnik.com/words/fergusonite)
 <!--END_SECTION:randomWord-->
 
 <details>
