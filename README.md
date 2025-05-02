@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [fergusonite](https://www.wordnik.com/words/fergusonite)
+- Random word of the day: [dayspring](https://www.wordnik.com/words/dayspring)
 <!--END_SECTION:randomWord-->
 
 <details>
