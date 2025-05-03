@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [dayspring](https://www.wordnik.com/words/dayspring)
+- Random word of the day: [duckfooted](https://www.wordnik.com/words/duckfooted)
 <!--END_SECTION:randomWord-->
 
 <details>
