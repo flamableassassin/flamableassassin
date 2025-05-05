@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [saturnity](https://www.wordnik.com/words/saturnity)
+- Random word of the day: [signposts](https://www.wordnik.com/words/signposts)
 <!--END_SECTION:randomWord-->
 
 <details>
