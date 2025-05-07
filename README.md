@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [tarabooka](https://www.wordnik.com/words/tarabooka)
+- Random word of the day: [ceramicite](https://www.wordnik.com/words/ceramicite)
 <!--END_SECTION:randomWord-->
 
 <details>
