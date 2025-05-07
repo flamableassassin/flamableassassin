@@ -15,11 +15,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Python       9 hrs 40 mins   ████████░░░░░░░░░░░░░░░░░   32.17 %
-Terraform    6 hrs 57 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.16 %
-PowerShell   4 hrs 57 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
-Other        4 hrs 56 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.45 %
-YAML         1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
+Terraform    11 hrs 51 mins  █████████▓░░░░░░░░░░░░░░░   39.09 %
+Other        7 hrs 22 mins   ██████░░░░░░░░░░░░░░░░░░░   24.35 %
+Python       4 hrs 51 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
+PowerShell   3 hrs 3 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
+YAML         1 hr 29 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
 ```
 
 <!--END_SECTION:waka-->
