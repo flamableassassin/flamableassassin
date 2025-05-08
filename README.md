@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [ceramicite](https://www.wordnik.com/words/ceramicite)
+- Random word of the day: [alablaster](https://www.wordnik.com/words/alablaster)
 <!--END_SECTION:randomWord-->
 
 <details>
