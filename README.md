@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [alablaster](https://www.wordnik.com/words/alablaster)
+- Random word of the day: [leukocytes](https://www.wordnik.com/words/leukocytes)
 <!--END_SECTION:randomWord-->
 
 <details>
