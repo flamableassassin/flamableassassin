@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [leukocytes](https://www.wordnik.com/words/leukocytes)
+- Random word of the day: [nondepravity](https://www.wordnik.com/words/nondepravity)
 <!--END_SECTION:randomWord-->
 
 <details>
