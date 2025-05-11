@@ -31,11 +31,11 @@ Text         36 mins         ▒░░░░░░░░░░░░░░░░
     <br>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/flamableassassin/openapi-docs/pull/1) in [flamableassassin/openapi-docs](https://github.com/flamableassassin/openapi-docs)
-2. 🗣 Commented on [#87](https://github.com/flamableassassin/status/issues/87#issuecomment-2811598739) in [flamableassassin/status](https://github.com/flamableassassin/status)
-3. 🔒 Closed issue [#87](https://github.com/flamableassassin/status/issues/87) in [flamableassassin/status](https://github.com/flamableassassin/status)
-4. ❗ Opened issue [#87](https://github.com/flamableassassin/status/issues/87) in [flamableassassin/status](https://github.com/flamableassassin/status)
-5. ❗ Opened issue [#1330](https://github.com/microsoft/finops-toolkit/issues/1330) in [microsoft/finops-toolkit](https://github.com/microsoft/finops-toolkit)
+1. 🎉 Merged PR [#1](https://github.com/flamableassassin/openapi-docs/pull/1) in [flamableassassin/openapi-docs](https://github.com/flamableassassin/openapi-docs)
+2. 💪 Opened PR [#1](https://github.com/flamableassassin/openapi-docs/pull/1) in [flamableassassin/openapi-docs](https://github.com/flamableassassin/openapi-docs)
+3. 🗣 Commented on [#87](https://github.com/flamableassassin/status/issues/87#issuecomment-2811598739) in [flamableassassin/status](https://github.com/flamableassassin/status)
+4. 🔒 Closed issue [#87](https://github.com/flamableassassin/status/issues/87) in [flamableassassin/status](https://github.com/flamableassassin/status)
+5. ❗ Opened issue [#87](https://github.com/flamableassassin/status/issues/87) in [flamableassassin/status](https://github.com/flamableassassin/status)
   <!--END_SECTION:activity-->
 
 </details>
