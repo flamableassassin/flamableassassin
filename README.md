@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [invultuation](https://www.wordnik.com/words/invultuation)
+- Random word of the day: [alogism](https://www.wordnik.com/words/alogism)
 <!--END_SECTION:randomWord-->
 
 <details>
