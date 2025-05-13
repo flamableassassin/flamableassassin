@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [alogism](https://www.wordnik.com/words/alogism)
+- Random word of the day: [misquote](https://www.wordnik.com/words/misquote)
 <!--END_SECTION:randomWord-->
 
 <details>
