@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [hellenically](https://www.wordnik.com/words/hellenically)
+- Random word of the day: [demaree](https://www.wordnik.com/words/demaree)
 <!--END_SECTION:randomWord-->
 
 <details>
