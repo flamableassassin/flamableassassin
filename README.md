@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [overliberalized](https://www.wordnik.com/words/overliberalized)
+- Random word of the day: [evzone](https://www.wordnik.com/words/evzone)
 <!--END_SECTION:randomWord-->
 
 <details>
