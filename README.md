@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [evzone](https://www.wordnik.com/words/evzone)
+- Random word of the day: [balausta](https://www.wordnik.com/words/balausta)
 <!--END_SECTION:randomWord-->
 
 <details>
