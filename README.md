@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [balausta](https://www.wordnik.com/words/balausta)
+- Random word of the day: [turmerics](https://www.wordnik.com/words/turmerics)
 <!--END_SECTION:randomWord-->
 
 <details>
