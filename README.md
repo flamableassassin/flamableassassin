@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [unisotropic](https://www.wordnik.com/words/unisotropic)
+- Random word of the day: [republicans](https://www.wordnik.com/words/republicans)
 <!--END_SECTION:randomWord-->
 
 <details>
