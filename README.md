@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [complexest](https://www.wordnik.com/words/complexest)
+- Random word of the day: [inverters](https://www.wordnik.com/words/inverters)
 <!--END_SECTION:randomWord-->
 
 <details>
