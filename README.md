@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [keratinous](https://www.wordnik.com/words/keratinous)
+- Random word of the day: [ferinely](https://www.wordnik.com/words/ferinely)
 <!--END_SECTION:randomWord-->
 
 <details>
