@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [microsplenia](https://www.wordnik.com/words/microsplenia)
+- Random word of the day: [hanumans](https://www.wordnik.com/words/hanumans)
 <!--END_SECTION:randomWord-->
 
 <details>
