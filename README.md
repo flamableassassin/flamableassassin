@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [hanumans](https://www.wordnik.com/words/hanumans)
+- Random word of the day: [suprachoroidal](https://www.wordnik.com/words/suprachoroidal)
 <!--END_SECTION:randomWord-->
 
 <details>
