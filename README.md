@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [limiters](https://www.wordnik.com/words/limiters)
+- Random word of the day: [aggressions](https://www.wordnik.com/words/aggressions)
 <!--END_SECTION:randomWord-->
 
 <details>
