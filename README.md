@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [pavin](https://www.wordnik.com/words/pavin)
+- Random word of the day: [canuck](https://www.wordnik.com/words/canuck)
 <!--END_SECTION:randomWord-->
 
 <details>
