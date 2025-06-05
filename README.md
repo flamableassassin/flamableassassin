@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [canuck](https://www.wordnik.com/words/canuck)
+- Random word of the day: [hematosalpinx](https://www.wordnik.com/words/hematosalpinx)
 <!--END_SECTION:randomWord-->
 
 <details>
