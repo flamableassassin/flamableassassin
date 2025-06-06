@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [hematosalpinx](https://www.wordnik.com/words/hematosalpinx)
+- Random word of the day: [mustelus](https://www.wordnik.com/words/mustelus)
 <!--END_SECTION:randomWord-->
 
 <details>
