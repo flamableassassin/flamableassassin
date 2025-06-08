@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [bombast](https://www.wordnik.com/words/bombast)
+- Random word of the day: [searer](https://www.wordnik.com/words/searer)
 <!--END_SECTION:randomWord-->
 
 <details>
