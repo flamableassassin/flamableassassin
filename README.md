@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [searer](https://www.wordnik.com/words/searer)
+- Random word of the day: [hairbird](https://www.wordnik.com/words/hairbird)
 <!--END_SECTION:randomWord-->
 
 <details>
