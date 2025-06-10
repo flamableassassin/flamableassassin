@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [hairbird](https://www.wordnik.com/words/hairbird)
+- Random word of the day: [pirates](https://www.wordnik.com/words/pirates)
 <!--END_SECTION:randomWord-->
 
 <details>
