@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [pirates](https://www.wordnik.com/words/pirates)
+- Random word of the day: [preformationary](https://www.wordnik.com/words/preformationary)
 <!--END_SECTION:randomWord-->
 
 <details>
