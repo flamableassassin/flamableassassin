@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [fannia](https://www.wordnik.com/words/fannia)
+- Random word of the day: [rhizogen](https://www.wordnik.com/words/rhizogen)
 <!--END_SECTION:randomWord-->
 
 <details>
