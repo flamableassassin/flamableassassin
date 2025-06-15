@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [videogenic](https://www.wordnik.com/words/videogenic)
+- Random word of the day: [foreseeing](https://www.wordnik.com/words/foreseeing)
 <!--END_SECTION:randomWord-->
 
 <details>
