@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [foreseeing](https://www.wordnik.com/words/foreseeing)
+- Random word of the day: [ogenesis](https://www.wordnik.com/words/ogenesis)
 <!--END_SECTION:randomWord-->
 
 <details>
