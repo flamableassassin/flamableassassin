@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [ogenesis](https://www.wordnik.com/words/ogenesis)
+- Random word of the day: [suppressions](https://www.wordnik.com/words/suppressions)
 <!--END_SECTION:randomWord-->
 
 <details>
