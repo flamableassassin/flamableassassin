@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [suppressions](https://www.wordnik.com/words/suppressions)
+- Random word of the day: [forestem](https://www.wordnik.com/words/forestem)
 <!--END_SECTION:randomWord-->
 
 <details>
