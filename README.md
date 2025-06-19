@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [forestem](https://www.wordnik.com/words/forestem)
+- Random word of the day: [aquifoliaceous](https://www.wordnik.com/words/aquifoliaceous)
 <!--END_SECTION:randomWord-->
 
 <details>
