@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [outwiled](https://www.wordnik.com/words/outwiled)
+- Random word of the day: [southeasterly](https://www.wordnik.com/words/southeasterly)
 <!--END_SECTION:randomWord-->
 
 <details>
