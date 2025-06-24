@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [southeasterly](https://www.wordnik.com/words/southeasterly)
+- Random word of the day: [nondyspeptic](https://www.wordnik.com/words/nondyspeptic)
 <!--END_SECTION:randomWord-->
 
 <details>
