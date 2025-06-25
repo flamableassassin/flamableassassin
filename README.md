@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [nondyspeptic](https://www.wordnik.com/words/nondyspeptic)
+- Random word of the day: [peramble](https://www.wordnik.com/words/peramble)
 <!--END_SECTION:randomWord-->
 
 <details>
