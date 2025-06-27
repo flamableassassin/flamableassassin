@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [storemaster](https://www.wordnik.com/words/storemaster)
+- Random word of the day: [squalled](https://www.wordnik.com/words/squalled)
 <!--END_SECTION:randomWord-->
 
 <details>
