@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [tallyhoed](https://www.wordnik.com/words/tallyhoed)
+- Random word of the day: [alaster](https://www.wordnik.com/words/alaster)
 <!--END_SECTION:randomWord-->
 
 <details>
