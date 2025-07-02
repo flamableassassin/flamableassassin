@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [alaster](https://www.wordnik.com/words/alaster)
+- Random word of the day: [medallioning](https://www.wordnik.com/words/medallioning)
 <!--END_SECTION:randomWord-->
 
 <details>
