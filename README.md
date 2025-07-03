@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [medallioning](https://www.wordnik.com/words/medallioning)
+- Random word of the day: [aughtlins](https://www.wordnik.com/words/aughtlins)
 <!--END_SECTION:randomWord-->
 
 <details>
