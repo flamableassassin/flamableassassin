@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [aughtlins](https://www.wordnik.com/words/aughtlins)
+- Random word of the day: [undershorten](https://www.wordnik.com/words/undershorten)
 <!--END_SECTION:randomWord-->
 
 <details>
