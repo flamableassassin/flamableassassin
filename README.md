@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [undershorten](https://www.wordnik.com/words/undershorten)
+- Random word of the day: [quinqueloculine](https://www.wordnik.com/words/quinqueloculine)
 <!--END_SECTION:randomWord-->
 
 <details>
