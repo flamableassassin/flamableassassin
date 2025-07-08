@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [prisonhouse](https://www.wordnik.com/words/prisonhouse)
+- Random word of the day: [lakarpite](https://www.wordnik.com/words/lakarpite)
 <!--END_SECTION:randomWord-->
 
 <details>
