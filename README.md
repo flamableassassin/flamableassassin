@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [reniportal](https://www.wordnik.com/words/reniportal)
+- Random word of the day: [glegnesses](https://www.wordnik.com/words/glegnesses)
 <!--END_SECTION:randomWord-->
 
 <details>
