@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [glegnesses](https://www.wordnik.com/words/glegnesses)
+- Random word of the day: [palala](https://www.wordnik.com/words/palala)
 <!--END_SECTION:randomWord-->
 
 <details>
