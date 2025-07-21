@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [juneau](https://www.wordnik.com/words/juneau)
+- Random word of the day: [thumbkins](https://www.wordnik.com/words/thumbkins)
 <!--END_SECTION:randomWord-->
 
 <details>
