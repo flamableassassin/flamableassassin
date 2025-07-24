@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [subalgebraical](https://www.wordnik.com/words/subalgebraical)
+- Random word of the day: [stereochromic](https://www.wordnik.com/words/stereochromic)
 <!--END_SECTION:randomWord-->
 
 <details>
