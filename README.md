@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [rocklet](https://www.wordnik.com/words/rocklet)
+- Random word of the day: [epizoa](https://www.wordnik.com/words/epizoa)
 <!--END_SECTION:randomWord-->
 
 <details>
