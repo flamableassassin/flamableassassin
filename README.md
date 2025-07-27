@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [epizoa](https://www.wordnik.com/words/epizoa)
+- Random word of the day: [kamseens](https://www.wordnik.com/words/kamseens)
 <!--END_SECTION:randomWord-->
 
 <details>
