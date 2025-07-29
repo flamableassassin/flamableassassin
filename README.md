@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [episcenium](https://www.wordnik.com/words/episcenium)
+- Random word of the day: [priacanthid](https://www.wordnik.com/words/priacanthid)
 <!--END_SECTION:randomWord-->
 
 <details>
