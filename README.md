@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [priacanthid](https://www.wordnik.com/words/priacanthid)
+- Random word of the day: [zirconiferous](https://www.wordnik.com/words/zirconiferous)
 <!--END_SECTION:randomWord-->
 
 <details>
