@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [zirconiferous](https://www.wordnik.com/words/zirconiferous)
+- Random word of the day: [soultre](https://www.wordnik.com/words/soultre)
 <!--END_SECTION:randomWord-->
 
 <details>
