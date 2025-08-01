@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [soultre](https://www.wordnik.com/words/soultre)
+- Random word of the day: [cumacea](https://www.wordnik.com/words/cumacea)
 <!--END_SECTION:randomWord-->
 
 <details>
