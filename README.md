@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [riderships](https://www.wordnik.com/words/riderships)
+- Random word of the day: [easterling](https://www.wordnik.com/words/easterling)
 <!--END_SECTION:randomWord-->
 
 <details>
