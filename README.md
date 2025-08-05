@@ -15,11 +15,7 @@
   <!--START_SECTION:waka-->
 
 ```txt
-YAML                       45 mins         █████████████████████░░░░   83.98 %
-Bash                       8 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.81 %
-Other                      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Nginx configuration file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Docker                     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
