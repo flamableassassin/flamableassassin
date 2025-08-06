@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [diestruses](https://www.wordnik.com/words/diestruses)
+- Random word of the day: [philomusical](https://www.wordnik.com/words/philomusical)
 <!--END_SECTION:randomWord-->
 
 <details>
