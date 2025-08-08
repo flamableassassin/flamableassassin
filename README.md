@@ -15,7 +15,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Terraform    6 hrs 10 mins   ██████████████████████▓░░   90.26 %
+PowerShell   21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+YAML         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Python       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
