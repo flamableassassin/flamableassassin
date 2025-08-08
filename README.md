@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [psammophis](https://www.wordnik.com/words/psammophis)
+- Random word of the day: [jelliedness](https://www.wordnik.com/words/jelliedness)
 <!--END_SECTION:randomWord-->
 
 <details>
