@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [deracination](https://www.wordnik.com/words/deracination)
+- Random word of the day: [company](https://www.wordnik.com/words/company)
 <!--END_SECTION:randomWord-->
 
 <details>
