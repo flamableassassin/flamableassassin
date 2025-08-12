@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [griece](https://www.wordnik.com/words/griece)
+- Random word of the day: [addis](https://www.wordnik.com/words/addis)
 <!--END_SECTION:randomWord-->
 
 <details>
