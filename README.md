@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [addis](https://www.wordnik.com/words/addis)
+- Random word of the day: [photodramatics](https://www.wordnik.com/words/photodramatics)
 <!--END_SECTION:randomWord-->
 
 <details>
