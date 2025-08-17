@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [daucus](https://www.wordnik.com/words/daucus)
+- Random word of the day: [comparition](https://www.wordnik.com/words/comparition)
 <!--END_SECTION:randomWord-->
 
 <details>
