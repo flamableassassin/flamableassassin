@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [grasps](https://www.wordnik.com/words/grasps)
+- Random word of the day: [osteocyte](https://www.wordnik.com/words/osteocyte)
 <!--END_SECTION:randomWord-->
 
 <details>
