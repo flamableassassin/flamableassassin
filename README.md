@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [osteocyte](https://www.wordnik.com/words/osteocyte)
+- Random word of the day: [unrightfully](https://www.wordnik.com/words/unrightfully)
 <!--END_SECTION:randomWord-->
 
 <details>
