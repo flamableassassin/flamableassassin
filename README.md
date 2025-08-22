@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [unrightfully](https://www.wordnik.com/words/unrightfully)
+- Random word of the day: [dissuasion](https://www.wordnik.com/words/dissuasion)
 <!--END_SECTION:randomWord-->
 
 <details>
