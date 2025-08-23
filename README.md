@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [dissuasion](https://www.wordnik.com/words/dissuasion)
+- Random word of the day: [barranca](https://www.wordnik.com/words/barranca)
 <!--END_SECTION:randomWord-->
 
 <details>
