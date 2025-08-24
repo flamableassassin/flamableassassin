@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [barranca](https://www.wordnik.com/words/barranca)
+- Random word of the day: [failance](https://www.wordnik.com/words/failance)
 <!--END_SECTION:randomWord-->
 
 <details>
