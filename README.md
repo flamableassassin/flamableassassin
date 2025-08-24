@@ -31,8 +31,8 @@ JavaScript   4 mins          ░░░░░░░░░░░░░░░░░
     <br>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#89](https://github.com/flamableassassin/status/issues/89#issuecomment-3041309673) in [flamableassassin/status](https://github.com/flamableassassin/status)
-2. 🔒 Closed issue [#89](https://github.com/flamableassassin/status/issues/89) in [flamableassassin/status](https://github.com/flamableassassin/status)
+1. 🎉 Merged PR [#2](https://github.com/flamableassassin/openapi-docs/pull/2) in [flamableassassin/openapi-docs](https://github.com/flamableassassin/openapi-docs)
+2. 💪 Opened PR [#2](https://github.com/flamableassassin/openapi-docs/pull/2) in [flamableassassin/openapi-docs](https://github.com/flamableassassin/openapi-docs)
 3. ❗ Opened issue [#89](https://github.com/flamableassassin/status/issues/89) in [flamableassassin/status](https://github.com/flamableassassin/status)
 4. 🔒 Closed issue [#87](https://github.com/flamableassassin/status/issues/87) in [flamableassassin/status](https://github.com/flamableassassin/status)
 5. ❗ Opened issue [#87](https://github.com/flamableassassin/status/issues/87) in [flamableassassin/status](https://github.com/flamableassassin/status)
