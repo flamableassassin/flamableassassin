@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [failance](https://www.wordnik.com/words/failance)
+- Random word of the day: [chuzwi](https://www.wordnik.com/words/chuzwi)
 <!--END_SECTION:randomWord-->
 
 <details>
