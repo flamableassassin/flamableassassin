@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [chuzwi](https://www.wordnik.com/words/chuzwi)
+- Random word of the day: [shampooer](https://www.wordnik.com/words/shampooer)
 <!--END_SECTION:randomWord-->
 
 <details>
