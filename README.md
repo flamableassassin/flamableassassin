@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [shampooer](https://www.wordnik.com/words/shampooer)
+- Random word of the day: [centronote](https://www.wordnik.com/words/centronote)
 <!--END_SECTION:randomWord-->
 
 <details>
