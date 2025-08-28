@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [centronote](https://www.wordnik.com/words/centronote)
+- Random word of the day: [cosmopolitics](https://www.wordnik.com/words/cosmopolitics)
 <!--END_SECTION:randomWord-->
 
 <details>
