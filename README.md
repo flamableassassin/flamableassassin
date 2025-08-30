@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [tawneier](https://www.wordnik.com/words/tawneier)
+- Random word of the day: [escoted](https://www.wordnik.com/words/escoted)
 <!--END_SECTION:randomWord-->
 
 <details>
