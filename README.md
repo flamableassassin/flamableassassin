@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [acetimeter](https://www.wordnik.com/words/acetimeter)
+- Random word of the day: [incension](https://www.wordnik.com/words/incension)
 <!--END_SECTION:randomWord-->
 
 <details>
