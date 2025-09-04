@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [thermogeography](https://www.wordnik.com/words/thermogeography)
+- Random word of the day: [engrains](https://www.wordnik.com/words/engrains)
 <!--END_SECTION:randomWord-->
 
 <details>
