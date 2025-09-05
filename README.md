@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [engrains](https://www.wordnik.com/words/engrains)
+- Random word of the day: [containerport](https://www.wordnik.com/words/containerport)
 <!--END_SECTION:randomWord-->
 
 <details>
