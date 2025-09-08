@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [carfuffling](https://www.wordnik.com/words/carfuffling)
+- Random word of the day: [parchy](https://www.wordnik.com/words/parchy)
 <!--END_SECTION:randomWord-->
 
 <details>
