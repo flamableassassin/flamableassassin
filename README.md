@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [repunctuate](https://www.wordnik.com/words/repunctuate)
+- Random word of the day: [cautionary](https://www.wordnik.com/words/cautionary)
 <!--END_SECTION:randomWord-->
 
 <details>
