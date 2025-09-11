@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cautionary](https://www.wordnik.com/words/cautionary)
+- Random word of the day: [polderland](https://www.wordnik.com/words/polderland)
 <!--END_SECTION:randomWord-->
 
 <details>
