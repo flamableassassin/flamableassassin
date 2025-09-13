@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [unporticoed](https://www.wordnik.com/words/unporticoed)
+- Random word of the day: [josiah](https://www.wordnik.com/words/josiah)
 <!--END_SECTION:randomWord-->
 
 <details>
