@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [josiah](https://www.wordnik.com/words/josiah)
+- Random word of the day: [yclad](https://www.wordnik.com/words/yclad)
 <!--END_SECTION:randomWord-->
 
 <details>
