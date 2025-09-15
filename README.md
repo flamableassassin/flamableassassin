@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [yclad](https://www.wordnik.com/words/yclad)
+- Random word of the day: [anticoagulants](https://www.wordnik.com/words/anticoagulants)
 <!--END_SECTION:randomWord-->
 
 <details>
