@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [anticoagulants](https://www.wordnik.com/words/anticoagulants)
+- Random word of the day: [pedantesque](https://www.wordnik.com/words/pedantesque)
 <!--END_SECTION:randomWord-->
 
 <details>
