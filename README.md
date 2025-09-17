@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [pedantesque](https://www.wordnik.com/words/pedantesque)
+- Random word of the day: [wardman](https://www.wordnik.com/words/wardman)
 <!--END_SECTION:randomWord-->
 
 <details>
