@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [wardman](https://www.wordnik.com/words/wardman)
+- Random word of the day: [paranormality](https://www.wordnik.com/words/paranormality)
 <!--END_SECTION:randomWord-->
 
 <details>
