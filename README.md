@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [paranormality](https://www.wordnik.com/words/paranormality)
+- Random word of the day: [wickiup](https://www.wordnik.com/words/wickiup)
 <!--END_SECTION:randomWord-->
 
 <details>
