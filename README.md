@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [wickiup](https://www.wordnik.com/words/wickiup)
+- Random word of the day: [kharoshthi](https://www.wordnik.com/words/kharoshthi)
 <!--END_SECTION:randomWord-->
 
 <details>
