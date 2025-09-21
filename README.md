@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [kharoshthi](https://www.wordnik.com/words/kharoshthi)
+- Random word of the day: [worshipful](https://www.wordnik.com/words/worshipful)
 <!--END_SECTION:randomWord-->
 
 <details>
