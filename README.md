@@ -31,9 +31,9 @@ Markdown    2 mins          ░░░░░░░░░░░░░░░░░�
     <br>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/flamableassassin/openapi-docs/pull/2) in [flamableassassin/openapi-docs](https://github.com/flamableassassin/openapi-docs)
-2. 💪 Opened PR [#2](https://github.com/flamableassassin/openapi-docs/pull/2) in [flamableassassin/openapi-docs](https://github.com/flamableassassin/openapi-docs)
-3. ❗ Opened issue [#89](https://github.com/flamableassassin/status/issues/89) in [flamableassassin/status](https://github.com/flamableassassin/status)
+1. 💪 Opened PR [#654](https://github.com/bridgecrewio/yor/pull/654) in [bridgecrewio/yor](https://github.com/bridgecrewio/yor)
+2. 🎉 Merged PR [#2](https://github.com/flamableassassin/openapi-docs/pull/2) in [flamableassassin/openapi-docs](https://github.com/flamableassassin/openapi-docs)
+3. 💪 Opened PR [#2](https://github.com/flamableassassin/openapi-docs/pull/2) in [flamableassassin/openapi-docs](https://github.com/flamableassassin/openapi-docs)
 4. 🔒 Closed issue [#87](https://github.com/flamableassassin/status/issues/87) in [flamableassassin/status](https://github.com/flamableassassin/status)
 5. ❗ Opened issue [#87](https://github.com/flamableassassin/status/issues/87) in [flamableassassin/status](https://github.com/flamableassassin/status)
   <!--END_SECTION:activity-->
