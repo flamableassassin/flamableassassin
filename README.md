@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [misguiders](https://www.wordnik.com/words/misguiders)
+- Random word of the day: [osage](https://www.wordnik.com/words/osage)
 <!--END_SECTION:randomWord-->
 
 <details>
