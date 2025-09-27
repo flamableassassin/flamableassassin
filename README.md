@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [rubiginous](https://www.wordnik.com/words/rubiginous)
+- Random word of the day: [intraperineal](https://www.wordnik.com/words/intraperineal)
 <!--END_SECTION:randomWord-->
 
 <details>
