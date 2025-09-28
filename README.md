@@ -31,11 +31,11 @@ JSON         1 hr 4 mins     █▒░░░░░░░░░░░░░░░
     <br>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/flamableassassin/yor/issues/2) in [flamableassassin/yor](https://github.com/flamableassassin/yor)
-2. 💪 Opened PR [#654](https://github.com/bridgecrewio/yor/pull/654) in [bridgecrewio/yor](https://github.com/bridgecrewio/yor)
-3. 💪 Opened PR [#2](https://github.com/flamableassassin/openapi-docs/pull/2) in [flamableassassin/openapi-docs](https://github.com/flamableassassin/openapi-docs)
-4. 🔒 Closed issue [#87](https://github.com/flamableassassin/status/issues/87) in [flamableassassin/status](https://github.com/flamableassassin/status)
-5. ❗ Opened issue [#87](https://github.com/flamableassassin/status/issues/87) in [flamableassassin/status](https://github.com/flamableassassin/status)
+1. 🗣 Commented on [#93](https://github.com/flamableassassin/status/issues/93#issuecomment-3341177561) in [flamableassassin/status](https://github.com/flamableassassin/status)
+2. 🔒 Closed issue [#93](https://github.com/flamableassassin/status/issues/93) in [flamableassassin/status](https://github.com/flamableassassin/status)
+3. ❗ Opened issue [#93](https://github.com/flamableassassin/status/issues/93) in [flamableassassin/status](https://github.com/flamableassassin/status)
+4. ❗ Opened issue [#2](https://github.com/flamableassassin/yor/issues/2) in [flamableassassin/yor](https://github.com/flamableassassin/yor)
+5. 💪 Opened PR [#654](https://github.com/bridgecrewio/yor/pull/654) in [bridgecrewio/yor](https://github.com/bridgecrewio/yor)
   <!--END_SECTION:activity-->
 
 </details>
