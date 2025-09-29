@@ -31,11 +31,11 @@ JSON         1 hr 4 mins     █▒░░░░░░░░░░░░░░░
     <br>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#93](https://github.com/flamableassassin/status/issues/93#issuecomment-3341177561) in [flamableassassin/status](https://github.com/flamableassassin/status)
-2. 🔒 Closed issue [#93](https://github.com/flamableassassin/status/issues/93) in [flamableassassin/status](https://github.com/flamableassassin/status)
-3. ❗ Opened issue [#93](https://github.com/flamableassassin/status/issues/93) in [flamableassassin/status](https://github.com/flamableassassin/status)
-4. ❗ Opened issue [#2](https://github.com/flamableassassin/yor/issues/2) in [flamableassassin/yor](https://github.com/flamableassassin/yor)
-5. 💪 Opened PR [#654](https://github.com/bridgecrewio/yor/pull/654) in [bridgecrewio/yor](https://github.com/bridgecrewio/yor)
+1. 🗣 Commented on [#94](https://github.com/flamableassassin/status/issues/94#issuecomment-3342072542) in [flamableassassin/status](https://github.com/flamableassassin/status)
+2. 🔒 Closed issue [#94](https://github.com/flamableassassin/status/issues/94) in [flamableassassin/status](https://github.com/flamableassassin/status)
+3. ❗ Opened issue [#94](https://github.com/flamableassassin/status/issues/94) in [flamableassassin/status](https://github.com/flamableassassin/status)
+4. 🗣 Commented on [#93](https://github.com/flamableassassin/status/issues/93#issuecomment-3341177561) in [flamableassassin/status](https://github.com/flamableassassin/status)
+5. 🔒 Closed issue [#93](https://github.com/flamableassassin/status/issues/93) in [flamableassassin/status](https://github.com/flamableassassin/status)
   <!--END_SECTION:activity-->
 
 </details>
