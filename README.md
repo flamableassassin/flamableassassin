@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [convulsionaries](https://www.wordnik.com/words/convulsionaries)
+- Random word of the day: [oliverian](https://www.wordnik.com/words/oliverian)
 <!--END_SECTION:randomWord-->
 
 <details>
