@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [oliverian](https://www.wordnik.com/words/oliverian)
+- Random word of the day: [stockishly](https://www.wordnik.com/words/stockishly)
 <!--END_SECTION:randomWord-->
 
 <details>
