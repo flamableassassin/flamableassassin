@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [amebiasis](https://www.wordnik.com/words/amebiasis)
+- Random word of the day: [chainage](https://www.wordnik.com/words/chainage)
 <!--END_SECTION:randomWord-->
 
 <details>
