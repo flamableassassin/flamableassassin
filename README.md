@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [falconet](https://www.wordnik.com/words/falconet)
+- Random word of the day: [decream](https://www.wordnik.com/words/decream)
 <!--END_SECTION:randomWord-->
 
 <details>
