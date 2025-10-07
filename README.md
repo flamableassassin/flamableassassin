@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [amusement](https://www.wordnik.com/words/amusement)
+- Random word of the day: [neurectome](https://www.wordnik.com/words/neurectome)
 <!--END_SECTION:randomWord-->
 
 <details>
