@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [neurectome](https://www.wordnik.com/words/neurectome)
+- Random word of the day: [mailclad](https://www.wordnik.com/words/mailclad)
 <!--END_SECTION:randomWord-->
 
 <details>
