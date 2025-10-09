@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [mailclad](https://www.wordnik.com/words/mailclad)
+- Random word of the day: [scotticism](https://www.wordnik.com/words/scotticism)
 <!--END_SECTION:randomWord-->
 
 <details>
