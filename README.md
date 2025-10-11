@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [blankit](https://www.wordnik.com/words/blankit)
+- Random word of the day: [kurtosises](https://www.wordnik.com/words/kurtosises)
 <!--END_SECTION:randomWord-->
 
 <details>
