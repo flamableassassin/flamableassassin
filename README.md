@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [jervina](https://www.wordnik.com/words/jervina)
+- Random word of the day: [shifters](https://www.wordnik.com/words/shifters)
 <!--END_SECTION:randomWord-->
 
 <details>
