@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [nineteen](https://www.wordnik.com/words/nineteen)
+- Random word of the day: [subsequential](https://www.wordnik.com/words/subsequential)
 <!--END_SECTION:randomWord-->
 
 <details>
