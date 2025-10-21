@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [mistressly](https://www.wordnik.com/words/mistressly)
+- Random word of the day: [phpht](https://www.wordnik.com/words/phpht)
 <!--END_SECTION:randomWord-->
 
 <details>
