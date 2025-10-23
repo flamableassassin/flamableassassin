@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [shris](https://www.wordnik.com/words/shris)
+- Random word of the day: [lysenkoism](https://www.wordnik.com/words/lysenkoism)
 <!--END_SECTION:randomWord-->
 
 <details>
