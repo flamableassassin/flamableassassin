@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [lysenkoism](https://www.wordnik.com/words/lysenkoism)
+- Random word of the day: [redwings](https://www.wordnik.com/words/redwings)
 <!--END_SECTION:randomWord-->
 
 <details>
