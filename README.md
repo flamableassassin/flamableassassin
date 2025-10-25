@@ -1,6 +1,6 @@
 ## Hey I'm flammableassassin
 
-- 🔭 Currently working as an Platform engineer  
+- 🔭 Currently working as a platform engineer  
 - 📫 How to reach me: [lighter@highlyflammable.tech](mailto:lighter@highlyflammable.tech?subject=Hello)
 - <img src="https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png" alt="drawing" width="25"/>: `flammableassassin`
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
