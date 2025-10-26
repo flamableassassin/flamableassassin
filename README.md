@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [hemianoptic](https://www.wordnik.com/words/hemianoptic)
+- Random word of the day: [unifaces](https://www.wordnik.com/words/unifaces)
 <!--END_SECTION:randomWord-->
 
 <details>
