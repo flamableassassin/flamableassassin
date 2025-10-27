@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [unifaces](https://www.wordnik.com/words/unifaces)
+- Random word of the day: [lionize](https://www.wordnik.com/words/lionize)
 <!--END_SECTION:randomWord-->
 
 <details>
