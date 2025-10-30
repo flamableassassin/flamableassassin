@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [overromanticize](https://www.wordnik.com/words/overromanticize)
+- Random word of the day: [equilibrant](https://www.wordnik.com/words/equilibrant)
 <!--END_SECTION:randomWord-->
 
 <details>
