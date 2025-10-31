@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [equilibrant](https://www.wordnik.com/words/equilibrant)
+- Random word of the day: [halaka](https://www.wordnik.com/words/halaka)
 <!--END_SECTION:randomWord-->
 
 <details>
