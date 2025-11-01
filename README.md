@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [halaka](https://www.wordnik.com/words/halaka)
+- Random word of the day: [uncountable](https://www.wordnik.com/words/uncountable)
 <!--END_SECTION:randomWord-->
 
 <details>
