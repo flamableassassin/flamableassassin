@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [sleepers](https://www.wordnik.com/words/sleepers)
+- Random word of the day: [resample](https://www.wordnik.com/words/resample)
 <!--END_SECTION:randomWord-->
 
 <details>
