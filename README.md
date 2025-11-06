@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [alleyways](https://www.wordnik.com/words/alleyways)
+- Random word of the day: [guidership](https://www.wordnik.com/words/guidership)
 <!--END_SECTION:randomWord-->
 
 <details>
