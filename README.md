@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [lagomorph](https://www.wordnik.com/words/lagomorph)
+- Random word of the day: [bookman](https://www.wordnik.com/words/bookman)
 <!--END_SECTION:randomWord-->
 
 <details>
