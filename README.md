@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [bookman](https://www.wordnik.com/words/bookman)
+- Random word of the day: [omasum](https://www.wordnik.com/words/omasum)
 <!--END_SECTION:randomWord-->
 
 <details>
