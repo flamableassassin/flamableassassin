@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [omasum](https://www.wordnik.com/words/omasum)
+- Random word of the day: [lipomyxoma](https://www.wordnik.com/words/lipomyxoma)
 <!--END_SECTION:randomWord-->
 
 <details>
