@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [lipomyxoma](https://www.wordnik.com/words/lipomyxoma)
+- Random word of the day: [uncasually](https://www.wordnik.com/words/uncasually)
 <!--END_SECTION:randomWord-->
 
 <details>
