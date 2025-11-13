@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cocreating](https://www.wordnik.com/words/cocreating)
+- Random word of the day: [maraboutism](https://www.wordnik.com/words/maraboutism)
 <!--END_SECTION:randomWord-->
 
 <details>
