@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [codicil](https://www.wordnik.com/words/codicil)
+- Random word of the day: [pygmyweed](https://www.wordnik.com/words/pygmyweed)
 <!--END_SECTION:randomWord-->
 
 <details>
