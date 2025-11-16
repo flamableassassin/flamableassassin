@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [pygmyweed](https://www.wordnik.com/words/pygmyweed)
+- Random word of the day: [macrocentrinae](https://www.wordnik.com/words/macrocentrinae)
 <!--END_SECTION:randomWord-->
 
 <details>
