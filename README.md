@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [macrocentrinae](https://www.wordnik.com/words/macrocentrinae)
+- Random word of the day: [migrating](https://www.wordnik.com/words/migrating)
 <!--END_SECTION:randomWord-->
 
 <details>
