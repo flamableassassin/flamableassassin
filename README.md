@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [migrating](https://www.wordnik.com/words/migrating)
+- Random word of the day: [wishing](https://www.wordnik.com/words/wishing)
 <!--END_SECTION:randomWord-->
 
 <details>
