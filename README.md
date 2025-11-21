@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [aerobatic](https://www.wordnik.com/words/aerobatic)
+- Random word of the day: [oscitancies](https://www.wordnik.com/words/oscitancies)
 <!--END_SECTION:randomWord-->
 
 <details>
