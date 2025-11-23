@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [closured](https://www.wordnik.com/words/closured)
+- Random word of the day: [chamoisette](https://www.wordnik.com/words/chamoisette)
 <!--END_SECTION:randomWord-->
 
 <details>
