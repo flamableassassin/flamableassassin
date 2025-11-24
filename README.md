@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [chamoisette](https://www.wordnik.com/words/chamoisette)
+- Random word of the day: [obdiplostemony](https://www.wordnik.com/words/obdiplostemony)
 <!--END_SECTION:randomWord-->
 
 <details>
