@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [obdiplostemony](https://www.wordnik.com/words/obdiplostemony)
+- Random word of the day: [banks](https://www.wordnik.com/words/banks)
 <!--END_SECTION:randomWord-->
 
 <details>
