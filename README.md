@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [banks](https://www.wordnik.com/words/banks)
+- Random word of the day: [dysgenesis](https://www.wordnik.com/words/dysgenesis)
 <!--END_SECTION:randomWord-->
 
 <details>
