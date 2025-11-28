@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [proatheist](https://www.wordnik.com/words/proatheist)
+- Random word of the day: [sanation](https://www.wordnik.com/words/sanation)
 <!--END_SECTION:randomWord-->
 
 <details>
