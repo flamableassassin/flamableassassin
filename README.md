@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [sanation](https://www.wordnik.com/words/sanation)
+- Random word of the day: [rhinoceri](https://www.wordnik.com/words/rhinoceri)
 <!--END_SECTION:randomWord-->
 
 <details>
