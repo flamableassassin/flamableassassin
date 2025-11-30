@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [rhinoceri](https://www.wordnik.com/words/rhinoceri)
+- Random word of the day: [evangelized](https://www.wordnik.com/words/evangelized)
 <!--END_SECTION:randomWord-->
 
 <details>
