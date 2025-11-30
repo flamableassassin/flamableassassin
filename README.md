@@ -31,11 +31,11 @@ JSON         27 mins         ▓░░░░░░░░░░░░░░░░
     <br>
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#98](https://github.com/flamableassassin/status/issues/98) in [flamableassassin/status](https://github.com/flamableassassin/status)
-2. 🗣 Commented on [#98](https://github.com/flamableassassin/status/issues/98#issuecomment-3547442372) in [flamableassassin/status](https://github.com/flamableassassin/status)
-3.  Labeled issue [#98](https://github.com/flamableassassin/status/issues/98) in [flamableassassin/status](https://github.com/flamableassassin/status)
+1. 💪 Opened PR [#8](undefined) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
+2. 🔒 Closed issue [#98](https://github.com/flamableassassin/status/issues/98) in [flamableassassin/status](https://github.com/flamableassassin/status)
+3. 🗣 Commented on [#98](https://github.com/flamableassassin/status/issues/98#issuecomment-3547442372) in [flamableassassin/status](https://github.com/flamableassassin/status)
 4.  Labeled issue [#98](https://github.com/flamableassassin/status/issues/98) in [flamableassassin/status](https://github.com/flamableassassin/status)
-5. ❗ Opened issue [#98](https://github.com/flamableassassin/status/issues/98) in [flamableassassin/status](https://github.com/flamableassassin/status)
+5.  Labeled issue [#98](https://github.com/flamableassassin/status/issues/98) in [flamableassassin/status](https://github.com/flamableassassin/status)
   <!--END_SECTION:activity-->
 
 </details>
