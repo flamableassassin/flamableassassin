@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [evangelized](https://www.wordnik.com/words/evangelized)
+- Random word of the day: [rheopexy](https://www.wordnik.com/words/rheopexy)
 <!--END_SECTION:randomWord-->
 
 <details>
