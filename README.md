@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [episcopally](https://www.wordnik.com/words/episcopally)
+- Random word of the day: [scowled](https://www.wordnik.com/words/scowled)
 <!--END_SECTION:randomWord-->
 
 <details>
