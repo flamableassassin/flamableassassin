@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [unsurgically](https://www.wordnik.com/words/unsurgically)
+- Random word of the day: [gapeworm](https://www.wordnik.com/words/gapeworm)
 <!--END_SECTION:randomWord-->
 
 <details>
