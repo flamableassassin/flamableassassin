@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [gapeworm](https://www.wordnik.com/words/gapeworm)
+- Random word of the day: [overstridency](https://www.wordnik.com/words/overstridency)
 <!--END_SECTION:randomWord-->
 
 <details>
