@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [vinylation](https://www.wordnik.com/words/vinylation)
+- Random word of the day: [eulogiae](https://www.wordnik.com/words/eulogiae)
 <!--END_SECTION:randomWord-->
 
 <details>
