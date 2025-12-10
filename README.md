@@ -31,11 +31,11 @@ Python       3 hrs 57 mins   ██▓░░░░░░░░░░░░░░
     <br>
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#106](https://github.com/flamableassassin/status/issues/106) in [flamableassassin/status](https://github.com/flamableassassin/status)
-2. 🗣 Commented on [#106](https://github.com/flamableassassin/status/issues/106#issuecomment-3628878824) in [flamableassassin/status](https://github.com/flamableassassin/status)
-3.  Labeled issue [#106](https://github.com/flamableassassin/status/issues/106) in [flamableassassin/status](https://github.com/flamableassassin/status)
-4.  Labeled issue [#106](https://github.com/flamableassassin/status/issues/106) in [flamableassassin/status](https://github.com/flamableassassin/status)
-5. ❗ Opened issue [#106](https://github.com/flamableassassin/status/issues/106) in [flamableassassin/status](https://github.com/flamableassassin/status)
+1. ❌ Closed PR [#1](undefined) in [Highlyflammable-Tech/homepage](https://github.com/Highlyflammable-Tech/homepage)
+2. 🔒 Closed issue [#108](https://github.com/flamableassassin/status/issues/108) in [flamableassassin/status](https://github.com/flamableassassin/status)
+3. 🗣 Commented on [#108](https://github.com/flamableassassin/status/issues/108#issuecomment-3633869865) in [flamableassassin/status](https://github.com/flamableassassin/status)
+4.  Labeled issue [#108](https://github.com/flamableassassin/status/issues/108) in [flamableassassin/status](https://github.com/flamableassassin/status)
+5.  Labeled issue [#108](https://github.com/flamableassassin/status/issues/108) in [flamableassassin/status](https://github.com/flamableassassin/status)
   <!--END_SECTION:activity-->
 
 </details>
