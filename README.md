@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [eulogiae](https://www.wordnik.com/words/eulogiae)
+- Random word of the day: [insalubrious](https://www.wordnik.com/words/insalubrious)
 <!--END_SECTION:randomWord-->
 
 <details>
