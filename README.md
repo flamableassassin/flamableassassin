@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [insalubrious](https://www.wordnik.com/words/insalubrious)
+- Random word of the day: [union](https://www.wordnik.com/words/union)
 <!--END_SECTION:randomWord-->
 
 <details>
