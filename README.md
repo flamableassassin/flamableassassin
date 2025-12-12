@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [union](https://www.wordnik.com/words/union)
+- Random word of the day: [unastonished](https://www.wordnik.com/words/unastonished)
 <!--END_SECTION:randomWord-->
 
 <details>
