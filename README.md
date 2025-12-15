@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [superedify](https://www.wordnik.com/words/superedify)
+- Random word of the day: [disendowing](https://www.wordnik.com/words/disendowing)
 <!--END_SECTION:randomWord-->
 
 <details>
