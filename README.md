@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [disendowing](https://www.wordnik.com/words/disendowing)
+- Random word of the day: [wharfhead](https://www.wordnik.com/words/wharfhead)
 <!--END_SECTION:randomWord-->
 
 <details>
