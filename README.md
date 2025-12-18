@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [footlessness](https://www.wordnik.com/words/footlessness)
+- Random word of the day: [passo](https://www.wordnik.com/words/passo)
 <!--END_SECTION:randomWord-->
 
 <details>
