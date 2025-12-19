@@ -30,11 +30,11 @@ Other       11 mins         █░░░░░░░░░░░░░░░░�
     <br>
 
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](undefined) in [Highlyflammable-Tech/homepage](https://github.com/Highlyflammable-Tech/homepage)
-2. 🔒 Closed issue [#108](https://github.com/flamableassassin/status/issues/108) in [flamableassassin/status](https://github.com/flamableassassin/status)
-3. 🗣 Commented on [#108](https://github.com/flamableassassin/status/issues/108#issuecomment-3633869865) in [flamableassassin/status](https://github.com/flamableassassin/status)
-4.  Labeled issue [#108](https://github.com/flamableassassin/status/issues/108) in [flamableassassin/status](https://github.com/flamableassassin/status)
-5.  Labeled issue [#108](https://github.com/flamableassassin/status/issues/108) in [flamableassassin/status](https://github.com/flamableassassin/status)
+1. 💪 Opened PR [#11](undefined) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
+2. ❌ Merged PR [#8](undefined) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
+3. ❗ Opened issue [#10](https://github.com/fluxloader-team/fluxloader-site/issues/10) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
+4. 🗣 Commented on [#9](https://github.com/fluxloader-team/fluxloader-site/issues/9#issuecomment-3670203248) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
+5. ❗ Opened issue [#9](https://github.com/fluxloader-team/fluxloader-site/issues/9) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
   <!--END_SECTION:activity-->
 
 </details>
