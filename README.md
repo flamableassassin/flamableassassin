@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [phlebotomist](https://www.wordnik.com/words/phlebotomist)
+- Random word of the day: [coloured](https://www.wordnik.com/words/coloured)
 <!--END_SECTION:randomWord-->
 
 <details>
