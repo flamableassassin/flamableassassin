@@ -31,11 +31,11 @@ YAML         1 min           ░░░░░░░░░░░░░░░░░
     <br>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](undefined) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
-2. ❌ Merged PR [#8](undefined) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
-3. ❗ Opened issue [#10](https://github.com/fluxloader-team/fluxloader-site/issues/10) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
-4. 🗣 Commented on [#9](https://github.com/fluxloader-team/fluxloader-site/issues/9#issuecomment-3670203248) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
-5. ❗ Opened issue [#9](https://github.com/fluxloader-team/fluxloader-site/issues/9) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
+1. ❗ Opened issue [#12](https://github.com/fluxloader-team/fluxloader-site/issues/12) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
+2. 🔒 Closed issue [#1](https://github.com/fluxloader-team/fluxloader-site/issues/1) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
+3. 🗣 Commented on [#1](https://github.com/fluxloader-team/fluxloader-site/issues/1#issuecomment-3683724291) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
+4. 💪 Opened PR [#11](undefined) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
+5. ❌ Merged PR [#8](undefined) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
   <!--END_SECTION:activity-->
 
 </details>
