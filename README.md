@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [leaguers](https://www.wordnik.com/words/leaguers)
+- Random word of the day: [oppressible](https://www.wordnik.com/words/oppressible)
 <!--END_SECTION:randomWord-->
 
 <details>
