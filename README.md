@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [maximalist](https://www.wordnik.com/words/maximalist)
+- Random word of the day: [subcompletion](https://www.wordnik.com/words/subcompletion)
 <!--END_SECTION:randomWord-->
 
 <details>
