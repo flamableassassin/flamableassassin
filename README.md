@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [keeps](https://www.wordnik.com/words/keeps)
+- Random word of the day: [toenailing](https://www.wordnik.com/words/toenailing)
 <!--END_SECTION:randomWord-->
 
 <details>
