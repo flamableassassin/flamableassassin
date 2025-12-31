@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [sternitic](https://www.wordnik.com/words/sternitic)
+- Random word of the day: [inoccupation](https://www.wordnik.com/words/inoccupation)
 <!--END_SECTION:randomWord-->
 
 <details>
