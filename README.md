@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [inoccupation](https://www.wordnik.com/words/inoccupation)
+- Random word of the day: [freed](https://www.wordnik.com/words/freed)
 <!--END_SECTION:randomWord-->
 
 <details>
