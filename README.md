@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [presuggestion](https://www.wordnik.com/words/presuggestion)
+- Random word of the day: [monocles](https://www.wordnik.com/words/monocles)
 <!--END_SECTION:randomWord-->
 
 <details>
