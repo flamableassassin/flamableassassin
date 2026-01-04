@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [monocles](https://www.wordnik.com/words/monocles)
+- Random word of the day: [depreciated](https://www.wordnik.com/words/depreciated)
 <!--END_SECTION:randomWord-->
 
 <details>
