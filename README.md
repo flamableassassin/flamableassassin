@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [ultrainvolved](https://www.wordnik.com/words/ultrainvolved)
+- Random word of the day: [sinologist](https://www.wordnik.com/words/sinologist)
 <!--END_SECTION:randomWord-->
 
 <details>
