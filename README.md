@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [pseudodox](https://www.wordnik.com/words/pseudodox)
+- Random word of the day: [hallmarking](https://www.wordnik.com/words/hallmarking)
 <!--END_SECTION:randomWord-->
 
 <details>
