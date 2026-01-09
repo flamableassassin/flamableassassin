@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [hallmarking](https://www.wordnik.com/words/hallmarking)
+- Random word of the day: [cannibal](https://www.wordnik.com/words/cannibal)
 <!--END_SECTION:randomWord-->
 
 <details>
