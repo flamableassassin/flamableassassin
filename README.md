@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cannibal](https://www.wordnik.com/words/cannibal)
+- Random word of the day: [fibrillation](https://www.wordnik.com/words/fibrillation)
 <!--END_SECTION:randomWord-->
 
 <details>
