@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [fibrillation](https://www.wordnik.com/words/fibrillation)
+- Random word of the day: [quinonimin](https://www.wordnik.com/words/quinonimin)
 <!--END_SECTION:randomWord-->
 
 <details>
