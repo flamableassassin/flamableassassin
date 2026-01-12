@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [quinonimin](https://www.wordnik.com/words/quinonimin)
+- Random word of the day: [plethodontidae](https://www.wordnik.com/words/plethodontidae)
 <!--END_SECTION:randomWord-->
 
 <details>
