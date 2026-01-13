@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [plethodontidae](https://www.wordnik.com/words/plethodontidae)
+- Random word of the day: [volto](https://www.wordnik.com/words/volto)
 <!--END_SECTION:randomWord-->
 
 <details>
