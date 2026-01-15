@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [balanites](https://www.wordnik.com/words/balanites)
+- Random word of the day: [suprapapillary](https://www.wordnik.com/words/suprapapillary)
 <!--END_SECTION:randomWord-->
 
 <details>
