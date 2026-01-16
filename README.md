@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [suprapapillary](https://www.wordnik.com/words/suprapapillary)
+- Random word of the day: [multiscience](https://www.wordnik.com/words/multiscience)
 <!--END_SECTION:randomWord-->
 
 <details>
