@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [multiscience](https://www.wordnik.com/words/multiscience)
+- Random word of the day: [lineate](https://www.wordnik.com/words/lineate)
 <!--END_SECTION:randomWord-->
 
 <details>
