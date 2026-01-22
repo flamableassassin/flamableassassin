@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [eschalot](https://www.wordnik.com/words/eschalot)
+- Random word of the day: [puquina](https://www.wordnik.com/words/puquina)
 <!--END_SECTION:randomWord-->
 
 <details>
