@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [enchantresses](https://www.wordnik.com/words/enchantresses)
+- Random word of the day: [wrestling](https://www.wordnik.com/words/wrestling)
 <!--END_SECTION:randomWord-->
 
 <details>
