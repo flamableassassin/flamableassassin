@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [wrestling](https://www.wordnik.com/words/wrestling)
+- Random word of the day: [kurrajong](https://www.wordnik.com/words/kurrajong)
 <!--END_SECTION:randomWord-->
 
 <details>
