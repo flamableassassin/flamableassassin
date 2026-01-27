@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [kurrajong](https://www.wordnik.com/words/kurrajong)
+- Random word of the day: [istiophorid](https://www.wordnik.com/words/istiophorid)
 <!--END_SECTION:randomWord-->
 
 <details>
