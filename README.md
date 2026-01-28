@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [istiophorid](https://www.wordnik.com/words/istiophorid)
+- Random word of the day: [hemeralopic](https://www.wordnik.com/words/hemeralopic)
 <!--END_SECTION:randomWord-->
 
 <details>
