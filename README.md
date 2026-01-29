@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [hemeralopic](https://www.wordnik.com/words/hemeralopic)
+- Random word of the day: [dadding](https://www.wordnik.com/words/dadding)
 <!--END_SECTION:randomWord-->
 
 <details>
