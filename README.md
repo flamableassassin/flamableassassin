@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [dadding](https://www.wordnik.com/words/dadding)
+- Random word of the day: [alacreatine](https://www.wordnik.com/words/alacreatine)
 <!--END_SECTION:randomWord-->
 
 <details>
