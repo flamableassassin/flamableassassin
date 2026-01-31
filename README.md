@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [alacreatine](https://www.wordnik.com/words/alacreatine)
+- Random word of the day: [amphiumidae](https://www.wordnik.com/words/amphiumidae)
 <!--END_SECTION:randomWord-->
 
 <details>
