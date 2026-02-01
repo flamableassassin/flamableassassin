@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [amphiumidae](https://www.wordnik.com/words/amphiumidae)
+- Random word of the day: [murids](https://www.wordnik.com/words/murids)
 <!--END_SECTION:randomWord-->
 
 <details>
