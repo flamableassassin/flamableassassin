@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [murids](https://www.wordnik.com/words/murids)
+- Random word of the day: [telfers](https://www.wordnik.com/words/telfers)
 <!--END_SECTION:randomWord-->
 
 <details>
