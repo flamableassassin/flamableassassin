@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [telfers](https://www.wordnik.com/words/telfers)
+- Random word of the day: [monogene](https://www.wordnik.com/words/monogene)
 <!--END_SECTION:randomWord-->
 
 <details>
