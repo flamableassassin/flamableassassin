@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [monogene](https://www.wordnik.com/words/monogene)
+- Random word of the day: [ellwand](https://www.wordnik.com/words/ellwand)
 <!--END_SECTION:randomWord-->
 
 <details>
