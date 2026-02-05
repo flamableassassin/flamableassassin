@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [ellwand](https://www.wordnik.com/words/ellwand)
+- Random word of the day: [povindah](https://www.wordnik.com/words/povindah)
 <!--END_SECTION:randomWord-->
 
 <details>
