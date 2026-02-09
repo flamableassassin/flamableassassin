@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [wobegoneness](https://www.wordnik.com/words/wobegoneness)
+- Random word of the day: [enslavements](https://www.wordnik.com/words/enslavements)
 <!--END_SECTION:randomWord-->
 
 <details>
