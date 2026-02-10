@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [enslavements](https://www.wordnik.com/words/enslavements)
+- Random word of the day: [irascibility](https://www.wordnik.com/words/irascibility)
 <!--END_SECTION:randomWord-->
 
 <details>
