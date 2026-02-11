@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [irascibility](https://www.wordnik.com/words/irascibility)
+- Random word of the day: [calander](https://www.wordnik.com/words/calander)
 <!--END_SECTION:randomWord-->
 
 <details>
