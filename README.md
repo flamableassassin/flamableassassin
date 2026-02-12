@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [calander](https://www.wordnik.com/words/calander)
+- Random word of the day: [nonclarifiable](https://www.wordnik.com/words/nonclarifiable)
 <!--END_SECTION:randomWord-->
 
 <details>
