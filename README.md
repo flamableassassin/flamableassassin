@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [nonclarifiable](https://www.wordnik.com/words/nonclarifiable)
+- Random word of the day: [decandrous](https://www.wordnik.com/words/decandrous)
 <!--END_SECTION:randomWord-->
 
 <details>
