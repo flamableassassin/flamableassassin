@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [decandrous](https://www.wordnik.com/words/decandrous)
+- Random word of the day: [dreamlikeness](https://www.wordnik.com/words/dreamlikeness)
 <!--END_SECTION:randomWord-->
 
 <details>
