@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [dronkelew](https://www.wordnik.com/words/dronkelew)
+- Random word of the day: [boylikeness](https://www.wordnik.com/words/boylikeness)
 <!--END_SECTION:randomWord-->
 
 <details>
