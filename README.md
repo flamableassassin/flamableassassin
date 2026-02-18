@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [verneukery](https://www.wordnik.com/words/verneukery)
+- Random word of the day: [heterochromatin](https://www.wordnik.com/words/heterochromatin)
 <!--END_SECTION:randomWord-->
 
 <details>
