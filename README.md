@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [heterochromatin](https://www.wordnik.com/words/heterochromatin)
+- Random word of the day: [homoscedastic](https://www.wordnik.com/words/homoscedastic)
 <!--END_SECTION:randomWord-->
 
 <details>
