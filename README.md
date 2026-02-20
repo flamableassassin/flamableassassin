@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [homoscedastic](https://www.wordnik.com/words/homoscedastic)
+- Random word of the day: [rurban](https://www.wordnik.com/words/rurban)
 <!--END_SECTION:randomWord-->
 
 <details>
