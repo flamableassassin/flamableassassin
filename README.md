@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [whids](https://www.wordnik.com/words/whids)
+- Random word of the day: [magnate](https://www.wordnik.com/words/magnate)
 <!--END_SECTION:randomWord-->
 
 <details>
