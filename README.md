@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [courbash](https://www.wordnik.com/words/courbash)
+- Random word of the day: [excerpts](https://www.wordnik.com/words/excerpts)
 <!--END_SECTION:randomWord-->
 
 <details>
