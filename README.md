@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [shoneens](https://www.wordnik.com/words/shoneens)
+- Random word of the day: [instating](https://www.wordnik.com/words/instating)
 <!--END_SECTION:randomWord-->
 
 <details>
