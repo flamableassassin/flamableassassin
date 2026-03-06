@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [forsakes](https://www.wordnik.com/words/forsakes)
+- Random word of the day: [cooers](https://www.wordnik.com/words/cooers)
 <!--END_SECTION:randomWord-->
 
 <details>
