@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [reinspector](https://www.wordnik.com/words/reinspector)
+- Random word of the day: [remerges](https://www.wordnik.com/words/remerges)
 <!--END_SECTION:randomWord-->
 
 <details>
