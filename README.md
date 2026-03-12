@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [knapsack](https://www.wordnik.com/words/knapsack)
+- Random word of the day: [unlettering](https://www.wordnik.com/words/unlettering)
 <!--END_SECTION:randomWord-->
 
 <details>
