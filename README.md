@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [curvinerved](https://www.wordnik.com/words/curvinerved)
+- Random word of the day: [pullback](https://www.wordnik.com/words/pullback)
 <!--END_SECTION:randomWord-->
 
 <details>
