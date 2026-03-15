@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [pullback](https://www.wordnik.com/words/pullback)
+- Random word of the day: [stoundmeal](https://www.wordnik.com/words/stoundmeal)
 <!--END_SECTION:randomWord-->
 
 <details>
