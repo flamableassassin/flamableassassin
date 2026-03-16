@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [stoundmeal](https://www.wordnik.com/words/stoundmeal)
+- Random word of the day: [tiddler](https://www.wordnik.com/words/tiddler)
 <!--END_SECTION:randomWord-->
 
 <details>
