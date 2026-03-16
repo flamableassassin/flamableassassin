@@ -31,8 +31,8 @@ JSON         3 hrs 16 mins         ██▒░░░░░░░░░░░░
     <br>
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#110](https://github.com/flamableassassin/status/issues/110) in [flamableassassin/status](https://github.com/flamableassassin/status)
-2. 🗣 Commented on [#110](https://github.com/flamableassassin/status/issues/110#issuecomment-3773522272) in [flamableassassin/status](https://github.com/flamableassassin/status)
+1. ℹ️ Labeled issue [#1](https://github.com/flamableassassin/tagitha/issues/1) in [flamableassassin/tagitha](https://github.com/flamableassassin/tagitha)
+2. ❗ Opened issue [#1](https://github.com/flamableassassin/tagitha/issues/1) in [flamableassassin/tagitha](https://github.com/flamableassassin/tagitha)
 3. ℹ️ Labeled issue [#110](https://github.com/flamableassassin/status/issues/110) in [flamableassassin/status](https://github.com/flamableassassin/status)
 4. ℹ️ Labeled issue [#110](https://github.com/flamableassassin/status/issues/110) in [flamableassassin/status](https://github.com/flamableassassin/status)
 5. ❗ Opened issue [#110](https://github.com/flamableassassin/status/issues/110) in [flamableassassin/status](https://github.com/flamableassassin/status)
