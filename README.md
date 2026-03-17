@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [tiddler](https://www.wordnik.com/words/tiddler)
+- Random word of the day: [universaliser](https://www.wordnik.com/words/universaliser)
 <!--END_SECTION:randomWord-->
 
 <details>
