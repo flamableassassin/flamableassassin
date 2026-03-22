@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [morong](https://www.wordnik.com/words/morong)
+- Random word of the day: [syodicon](https://www.wordnik.com/words/syodicon)
 <!--END_SECTION:randomWord-->
 
 <details>
