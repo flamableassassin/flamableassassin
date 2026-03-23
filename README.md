@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [syodicon](https://www.wordnik.com/words/syodicon)
+- Random word of the day: [concelebration](https://www.wordnik.com/words/concelebration)
 <!--END_SECTION:randomWord-->
 
 <details>
