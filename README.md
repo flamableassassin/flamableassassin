@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [opinator](https://www.wordnik.com/words/opinator)
+- Random word of the day: [collimator](https://www.wordnik.com/words/collimator)
 <!--END_SECTION:randomWord-->
 
 <details>
