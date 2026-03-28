@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [quaffs](https://www.wordnik.com/words/quaffs)
+- Random word of the day: [hopperdozer](https://www.wordnik.com/words/hopperdozer)
 <!--END_SECTION:randomWord-->
 
 <details>
