@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [hopperdozer](https://www.wordnik.com/words/hopperdozer)
+- Random word of the day: [moisture](https://www.wordnik.com/words/moisture)
 <!--END_SECTION:randomWord-->
 
 <details>
