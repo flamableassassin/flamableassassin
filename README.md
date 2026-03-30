@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [moisture](https://www.wordnik.com/words/moisture)
+- Random word of the day: [stonk](https://www.wordnik.com/words/stonk)
 <!--END_SECTION:randomWord-->
 
 <details>
