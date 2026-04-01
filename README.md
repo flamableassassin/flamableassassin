@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [eurypygae](https://www.wordnik.com/words/eurypygae)
+- Random word of the day: [encounterers](https://www.wordnik.com/words/encounterers)
 <!--END_SECTION:randomWord-->
 
 <details>
