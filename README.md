@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [thyreoarytenoid](https://www.wordnik.com/words/thyreoarytenoid)
+- Random word of the day: [labella](https://www.wordnik.com/words/labella)
 <!--END_SECTION:randomWord-->
 
 <details>
