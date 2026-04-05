@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [labella](https://www.wordnik.com/words/labella)
+- Random word of the day: [suboesophageal](https://www.wordnik.com/words/suboesophageal)
 <!--END_SECTION:randomWord-->
 
 <details>
