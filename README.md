@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [suboesophageal](https://www.wordnik.com/words/suboesophageal)
+- Random word of the day: [pessulus](https://www.wordnik.com/words/pessulus)
 <!--END_SECTION:randomWord-->
 
 <details>
