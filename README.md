@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [pessulus](https://www.wordnik.com/words/pessulus)
+- Random word of the day: [stepparents](https://www.wordnik.com/words/stepparents)
 <!--END_SECTION:randomWord-->
 
 <details>
