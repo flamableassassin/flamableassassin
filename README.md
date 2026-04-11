@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [vapourers](https://www.wordnik.com/words/vapourers)
+- Random word of the day: [multivalvular](https://www.wordnik.com/words/multivalvular)
 <!--END_SECTION:randomWord-->
 
 <details>
