@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [multivalvular](https://www.wordnik.com/words/multivalvular)
+- Random word of the day: [unitemized](https://www.wordnik.com/words/unitemized)
 <!--END_SECTION:randomWord-->
 
 <details>
