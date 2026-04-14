@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [redolency](https://www.wordnik.com/words/redolency)
+- Random word of the day: [engorging](https://www.wordnik.com/words/engorging)
 <!--END_SECTION:randomWord-->
 
 <details>
