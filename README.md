@@ -31,10 +31,10 @@ JSON        23 mins               ▓░░░░░░░░░░░░░░�
     <br>
 
   <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#1](https://github.com/flamableassassin/tagitha/issues/1) in [flamableassassin/tagitha](https://github.com/flamableassassin/tagitha)
-2. ❗ Opened issue [#1](https://github.com/flamableassassin/tagitha/issues/1) in [flamableassassin/tagitha](https://github.com/flamableassassin/tagitha)
-3. ℹ️ Labeled issue [#110](https://github.com/flamableassassin/status/issues/110) in [flamableassassin/status](https://github.com/flamableassassin/status)
-4. ℹ️ Labeled issue [#110](https://github.com/flamableassassin/status/issues/110) in [flamableassassin/status](https://github.com/flamableassassin/status)
+1. 🎉 Merged PR [#16](https://github.com/fluxloader-team/fluxloader-site/pull/16) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
+2. 💪 Opened PR [#16](https://github.com/fluxloader-team/fluxloader-site/pull/16) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
+3. 🎉 Merged PR [#15](https://github.com/fluxloader-team/fluxloader-site/pull/15) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
+4. 💪 Opened PR [#15](https://github.com/fluxloader-team/fluxloader-site/pull/15) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
 5. ❗ Opened issue [#110](https://github.com/flamableassassin/status/issues/110) in [flamableassassin/status](https://github.com/flamableassassin/status)
   <!--END_SECTION:activity-->
 
