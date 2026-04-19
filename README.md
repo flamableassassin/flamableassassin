@@ -15,11 +15,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Markdown                   6 hrs 29 mins         ███████████░░░░░░░░░░░░░░   44.65 %
-YAML                       3 hrs 48 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.16 %
-Terraform                  56 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
-JSON                       52 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
-Nginx configuration file   40 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
+Terraform                  11 hrs 47 mins        ███████▓░░░░░░░░░░░░░░░░░   31.00 %
+Markdown                   8 hrs 38 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.72 %
+YAML                       7 hrs 38 mins         █████░░░░░░░░░░░░░░░░░░░░   20.11 %
+HCL                        3 hrs 23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
+Other                      2 hrs 43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
 ```
 
 <!--END_SECTION:waka-->
