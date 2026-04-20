@@ -31,11 +31,11 @@ Other                      2 hrs 43 mins         █▓░░░░░░░░�
     <br>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/fluxloader-team/fluxloader-site/pull/18#issuecomment-4274208278) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
-2. 💪 Opened PR [#18](https://github.com/fluxloader-team/fluxloader-site/pull/18) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
-3. 🎉 Merged PR [#16](https://github.com/fluxloader-team/fluxloader-site/pull/16) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
-4. 💪 Opened PR [#16](https://github.com/fluxloader-team/fluxloader-site/pull/16) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
-5. 🎉 Merged PR [#15](https://github.com/fluxloader-team/fluxloader-site/pull/15) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
+1. 🎉 Merged PR [#22](https://github.com/fluxloader-team/fluxloader-site/pull/22) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
+2. 💪 Opened PR [#22](https://github.com/fluxloader-team/fluxloader-site/pull/22) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
+3. 🎉 Merged PR [#21](https://github.com/fluxloader-team/fluxloader-site/pull/21) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
+4. 💪 Opened PR [#21](https://github.com/fluxloader-team/fluxloader-site/pull/21) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
+5. 🎉 Merged PR [#20](https://github.com/fluxloader-team/fluxloader-site/pull/20) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
   <!--END_SECTION:activity-->
 
 </details>
