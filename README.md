@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [indeprivability](https://www.wordnik.com/words/indeprivability)
+- Random word of the day: [hexastigm](https://www.wordnik.com/words/hexastigm)
 <!--END_SECTION:randomWord-->
 
 <details>
