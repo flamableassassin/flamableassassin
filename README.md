@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [hexastigm](https://www.wordnik.com/words/hexastigm)
+- Random word of the day: [asmalte](https://www.wordnik.com/words/asmalte)
 <!--END_SECTION:randomWord-->
 
 <details>
