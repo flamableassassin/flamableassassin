@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [vaults](https://www.wordnik.com/words/vaults)
+- Random word of the day: [pebrinous](https://www.wordnik.com/words/pebrinous)
 <!--END_SECTION:randomWord-->
 
 <details>
