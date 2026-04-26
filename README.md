@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [pebrinous](https://www.wordnik.com/words/pebrinous)
+- Random word of the day: [knees](https://www.wordnik.com/words/knees)
 <!--END_SECTION:randomWord-->
 
 <details>
