@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [knees](https://www.wordnik.com/words/knees)
+- Random word of the day: [sandaliform](https://www.wordnik.com/words/sandaliform)
 <!--END_SECTION:randomWord-->
 
 <details>
