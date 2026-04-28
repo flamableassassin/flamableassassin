@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [sandaliform](https://www.wordnik.com/words/sandaliform)
+- Random word of the day: [despotize](https://www.wordnik.com/words/despotize)
 <!--END_SECTION:randomWord-->
 
 <details>
