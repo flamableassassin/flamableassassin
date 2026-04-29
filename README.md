@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [despotize](https://www.wordnik.com/words/despotize)
+- Random word of the day: [recontribution](https://www.wordnik.com/words/recontribution)
 <!--END_SECTION:randomWord-->
 
 <details>
