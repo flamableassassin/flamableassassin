@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [dunkers](https://www.wordnik.com/words/dunkers)
+- Random word of the day: [unpersevering](https://www.wordnik.com/words/unpersevering)
 <!--END_SECTION:randomWord-->
 
 <details>
