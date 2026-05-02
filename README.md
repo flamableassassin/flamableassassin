@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [unpersevering](https://www.wordnik.com/words/unpersevering)
+- Random word of the day: [shipfitter](https://www.wordnik.com/words/shipfitter)
 <!--END_SECTION:randomWord-->
 
 <details>
