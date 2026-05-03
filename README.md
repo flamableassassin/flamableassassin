@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [shipfitter](https://www.wordnik.com/words/shipfitter)
+- Random word of the day: [abider](https://www.wordnik.com/words/abider)
 <!--END_SECTION:randomWord-->
 
 <details>
