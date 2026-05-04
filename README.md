@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [abider](https://www.wordnik.com/words/abider)
+- Random word of the day: [cyclopaedias](https://www.wordnik.com/words/cyclopaedias)
 <!--END_SECTION:randomWord-->
 
 <details>
