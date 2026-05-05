@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cyclopaedias](https://www.wordnik.com/words/cyclopaedias)
+- Random word of the day: [indical](https://www.wordnik.com/words/indical)
 <!--END_SECTION:randomWord-->
 
 <details>
