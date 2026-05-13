@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [thermoses](https://www.wordnik.com/words/thermoses)
+- Random word of the day: [salicaceous](https://www.wordnik.com/words/salicaceous)
 <!--END_SECTION:randomWord-->
 
 <details>
