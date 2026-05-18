@@ -31,11 +31,11 @@ JSON         1 hr 56 mins          ███░░░░░░░░░░░░
     <br>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/fluxloader-team/fluxloader-site/pull/27) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
-2. 💪 Opened PR [#27](https://github.com/fluxloader-team/fluxloader-site/pull/27) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
-3. 🎉 Merged PR [#26](https://github.com/fluxloader-team/fluxloader-site/pull/26) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
-4. ℹ️ Reopened PR [#26](https://github.com/fluxloader-team/fluxloader-site/pull/26) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
-5. ❌ Closed PR [#26](https://github.com/fluxloader-team/fluxloader-site/pull/26) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
+1. ❗ Opened issue [#32](https://github.com/grasmann/darktide-mods/issues/32) in [grasmann/darktide-mods](https://github.com/grasmann/darktide-mods)
+2. 🎉 Merged PR [#27](https://github.com/fluxloader-team/fluxloader-site/pull/27) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
+3. 💪 Opened PR [#27](https://github.com/fluxloader-team/fluxloader-site/pull/27) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
+4. 🎉 Merged PR [#26](https://github.com/fluxloader-team/fluxloader-site/pull/26) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
+5. ℹ️ Reopened PR [#26](https://github.com/fluxloader-team/fluxloader-site/pull/26) in [fluxloader-team/fluxloader-site](https://github.com/fluxloader-team/fluxloader-site)
   <!--END_SECTION:activity-->
 
 </details>
