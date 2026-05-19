@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [schizaxon](https://www.wordnik.com/words/schizaxon)
+- Random word of the day: [metantimonate](https://www.wordnik.com/words/metantimonate)
 <!--END_SECTION:randomWord-->
 
 <details>
