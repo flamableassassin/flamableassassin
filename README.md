@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [metantimonate](https://www.wordnik.com/words/metantimonate)
+- Random word of the day: [sporogonial](https://www.wordnik.com/words/sporogonial)
 <!--END_SECTION:randomWord-->
 
 <details>
