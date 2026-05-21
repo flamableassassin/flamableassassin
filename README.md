@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [sporogonial](https://www.wordnik.com/words/sporogonial)
+- Random word of the day: [unmodernized](https://www.wordnik.com/words/unmodernized)
 <!--END_SECTION:randomWord-->
 
 <details>
