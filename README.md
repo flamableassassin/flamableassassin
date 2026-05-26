@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [linebackers](https://www.wordnik.com/words/linebackers)
+- Random word of the day: [preadjectivally](https://www.wordnik.com/words/preadjectivally)
 <!--END_SECTION:randomWord-->
 
 <details>
