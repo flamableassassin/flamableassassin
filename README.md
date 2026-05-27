@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [preadjectivally](https://www.wordnik.com/words/preadjectivally)
+- Random word of the day: [kampylite](https://www.wordnik.com/words/kampylite)
 <!--END_SECTION:randomWord-->
 
 <details>
