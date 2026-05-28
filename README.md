@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [kampylite](https://www.wordnik.com/words/kampylite)
+- Random word of the day: [leanest](https://www.wordnik.com/words/leanest)
 <!--END_SECTION:randomWord-->
 
 <details>
