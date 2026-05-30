@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [deductible](https://www.wordnik.com/words/deductible)
+- Random word of the day: [afresca](https://www.wordnik.com/words/afresca)
 <!--END_SECTION:randomWord-->
 
 <details>
