@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [afresca](https://www.wordnik.com/words/afresca)
+- Random word of the day: [cologne](https://www.wordnik.com/words/cologne)
 <!--END_SECTION:randomWord-->
 
 <details>
