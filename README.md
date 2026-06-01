@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cologne](https://www.wordnik.com/words/cologne)
+- Random word of the day: [gotos](https://www.wordnik.com/words/gotos)
 <!--END_SECTION:randomWord-->
 
 <details>
