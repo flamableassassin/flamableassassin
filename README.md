@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [holotricha](https://www.wordnik.com/words/holotricha)
+- Random word of the day: [anchoritic](https://www.wordnik.com/words/anchoritic)
 <!--END_SECTION:randomWord-->
 
 <details>
