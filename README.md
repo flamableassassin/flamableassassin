@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [anchoritic](https://www.wordnik.com/words/anchoritic)
+- Random word of the day: [polyphenol](https://www.wordnik.com/words/polyphenol)
 <!--END_SECTION:randomWord-->
 
 <details>
