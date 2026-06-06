@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [bacterioid](https://www.wordnik.com/words/bacterioid)
+- Random word of the day: [pretransport](https://www.wordnik.com/words/pretransport)
 <!--END_SECTION:randomWord-->
 
 <details>
