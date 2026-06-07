@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [pretransport](https://www.wordnik.com/words/pretransport)
+- Random word of the day: [onanistic](https://www.wordnik.com/words/onanistic)
 <!--END_SECTION:randomWord-->
 
 <details>
