@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [onanistic](https://www.wordnik.com/words/onanistic)
+- Random word of the day: [longline](https://www.wordnik.com/words/longline)
 <!--END_SECTION:randomWord-->
 
 <details>
