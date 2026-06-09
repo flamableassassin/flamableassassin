@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [longline](https://www.wordnik.com/words/longline)
+- Random word of the day: [locoweed](https://www.wordnik.com/words/locoweed)
 <!--END_SECTION:randomWord-->
 
 <details>
