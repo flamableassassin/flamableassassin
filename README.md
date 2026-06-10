@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [locoweed](https://www.wordnik.com/words/locoweed)
+- Random word of the day: [unrevolting](https://www.wordnik.com/words/unrevolting)
 <!--END_SECTION:randomWord-->
 
 <details>
