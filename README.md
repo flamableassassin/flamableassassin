@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [baklava](https://www.wordnik.com/words/baklava)
+- Random word of the day: [finenesses](https://www.wordnik.com/words/finenesses)
 <!--END_SECTION:randomWord-->
 
 <details>
