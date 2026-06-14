@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [parasitotrope](https://www.wordnik.com/words/parasitotrope)
+- Random word of the day: [varitype](https://www.wordnik.com/words/varitype)
 <!--END_SECTION:randomWord-->
 
 <details>
