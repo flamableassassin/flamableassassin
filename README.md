@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [varitype](https://www.wordnik.com/words/varitype)
+- Random word of the day: [ampicillin](https://www.wordnik.com/words/ampicillin)
 <!--END_SECTION:randomWord-->
 
 <details>
