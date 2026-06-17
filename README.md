@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [enemied](https://www.wordnik.com/words/enemied)
+- Random word of the day: [microtelephonic](https://www.wordnik.com/words/microtelephonic)
 <!--END_SECTION:randomWord-->
 
 <details>
