@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [sibilating](https://www.wordnik.com/words/sibilating)
+- Random word of the day: [cotqueans](https://www.wordnik.com/words/cotqueans)
 <!--END_SECTION:randomWord-->
 
 <details>
