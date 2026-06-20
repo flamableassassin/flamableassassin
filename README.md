@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cotqueans](https://www.wordnik.com/words/cotqueans)
+- Random word of the day: [solidity](https://www.wordnik.com/words/solidity)
 <!--END_SECTION:randomWord-->
 
 <details>
