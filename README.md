@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [aryballoi](https://www.wordnik.com/words/aryballoi)
+- Random word of the day: [biathlons](https://www.wordnik.com/words/biathlons)
 <!--END_SECTION:randomWord-->
 
 <details>
