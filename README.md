@@ -15,9 +15,7 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Other        3 hrs 7 mins          █████████████████████▓░░░   86.74 %
-JSON         20 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
-PowerShell   8 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+Other   3 hrs 30 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
