@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [orgiastically](https://www.wordnik.com/words/orgiastically)
+- Random word of the day: [prionodesmacea](https://www.wordnik.com/words/prionodesmacea)
 <!--END_SECTION:randomWord-->
 
 <details>
