@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [prionodesmacea](https://www.wordnik.com/words/prionodesmacea)
+- Random word of the day: [mohrodendron](https://www.wordnik.com/words/mohrodendron)
 <!--END_SECTION:randomWord-->
 
 <details>
