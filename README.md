@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [mohrodendron](https://www.wordnik.com/words/mohrodendron)
+- Random word of the day: [umbiliform](https://www.wordnik.com/words/umbiliform)
 <!--END_SECTION:randomWord-->
 
 <details>
