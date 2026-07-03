@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [isopodans](https://www.wordnik.com/words/isopodans)
+- Random word of the day: [rounders](https://www.wordnik.com/words/rounders)
 <!--END_SECTION:randomWord-->
 
 <details>
