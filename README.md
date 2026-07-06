@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [capreolary](https://www.wordnik.com/words/capreolary)
+- Random word of the day: [antihierarchies](https://www.wordnik.com/words/antihierarchies)
 <!--END_SECTION:randomWord-->
 
 <details>
