@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [antihierarchies](https://www.wordnik.com/words/antihierarchies)
+- Random word of the day: [uppish](https://www.wordnik.com/words/uppish)
 <!--END_SECTION:randomWord-->
 
 <details>
