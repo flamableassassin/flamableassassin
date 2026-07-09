@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [panned](https://www.wordnik.com/words/panned)
+- Random word of the day: [kirigami](https://www.wordnik.com/words/kirigami)
 <!--END_SECTION:randomWord-->
 
 <details>
