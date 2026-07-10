@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [kirigami](https://www.wordnik.com/words/kirigami)
+- Random word of the day: [unsullenly](https://www.wordnik.com/words/unsullenly)
 <!--END_SECTION:randomWord-->
 
 <details>
