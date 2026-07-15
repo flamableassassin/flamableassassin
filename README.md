@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [carburizes](https://www.wordnik.com/words/carburizes)
+- Random word of the day: [calymma](https://www.wordnik.com/words/calymma)
 <!--END_SECTION:randomWord-->
 
 <details>
