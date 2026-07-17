@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cuplike](https://www.wordnik.com/words/cuplike)
+- Random word of the day: [eusol](https://www.wordnik.com/words/eusol)
 <!--END_SECTION:randomWord-->
 
 <details>
