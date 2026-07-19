@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [somberly](https://www.wordnik.com/words/somberly)
+- Random word of the day: [fanning](https://www.wordnik.com/words/fanning)
 <!--END_SECTION:randomWord-->
 
 <details>
