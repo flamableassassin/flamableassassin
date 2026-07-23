@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [hibernian](https://www.wordnik.com/words/hibernian)
+- Random word of the day: [quadridigitate](https://www.wordnik.com/words/quadridigitate)
 <!--END_SECTION:randomWord-->
 
 <details>
