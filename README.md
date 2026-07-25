@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [chipchap](https://www.wordnik.com/words/chipchap)
+- Random word of the day: [boscages](https://www.wordnik.com/words/boscages)
 <!--END_SECTION:randomWord-->
 
 <details>
