@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [nowise](https://www.wordnik.com/words/nowise)
+- Random word of the day: [katagelophobia](https://www.wordnik.com/words/katagelophobia)
 <!--END_SECTION:randomWord-->
 
 <details>
