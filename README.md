@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [katagelophobia](https://www.wordnik.com/words/katagelophobia)
+- Random word of the day: [lawbreakers](https://www.wordnik.com/words/lawbreakers)
 <!--END_SECTION:randomWord-->
 
 <details>
