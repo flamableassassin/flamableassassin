@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [lawbreakers](https://www.wordnik.com/words/lawbreakers)
+- Random word of the day: [proethical](https://www.wordnik.com/words/proethical)
 <!--END_SECTION:randomWord-->
 
 <details>
