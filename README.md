@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [pratty](https://www.wordnik.com/words/pratty)
+- Random word of the day: [beachcombing](https://www.wordnik.com/words/beachcombing)
 <!--END_SECTION:randomWord-->
 
 <details>
