@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [febres](https://www.wordnik.com/words/febres)
+- Random word of the day: [entelechial](https://www.wordnik.com/words/entelechial)
 <!--END_SECTION:randomWord-->
 
 <details>
