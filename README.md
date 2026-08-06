@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [entelechial](https://www.wordnik.com/words/entelechial)
+- Random word of the day: [virls](https://www.wordnik.com/words/virls)
 <!--END_SECTION:randomWord-->
 
 <details>
