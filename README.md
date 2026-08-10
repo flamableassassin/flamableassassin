@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [electropathy](https://www.wordnik.com/words/electropathy)
+- Random word of the day: [orgulous](https://www.wordnik.com/words/orgulous)
 <!--END_SECTION:randomWord-->
 
 <details>
