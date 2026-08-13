@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [atheologically](https://www.wordnik.com/words/atheologically)
+- Random word of the day: [fourre](https://www.wordnik.com/words/fourre)
 <!--END_SECTION:randomWord-->
 
 <details>
