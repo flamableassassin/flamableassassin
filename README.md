@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [fourre](https://www.wordnik.com/words/fourre)
+- Random word of the day: [correlations](https://www.wordnik.com/words/correlations)
 <!--END_SECTION:randomWord-->
 
 <details>
