@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [correlations](https://www.wordnik.com/words/correlations)
+- Random word of the day: [marianic](https://www.wordnik.com/words/marianic)
 <!--END_SECTION:randomWord-->
 
 <details>
