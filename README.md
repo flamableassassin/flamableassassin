@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [marianic](https://www.wordnik.com/words/marianic)
+- Random word of the day: [desoxalate](https://www.wordnik.com/words/desoxalate)
 <!--END_SECTION:randomWord-->
 
 <details>
