@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [desoxalate](https://www.wordnik.com/words/desoxalate)
+- Random word of the day: [unshamable](https://www.wordnik.com/words/unshamable)
 <!--END_SECTION:randomWord-->
 
 <details>
