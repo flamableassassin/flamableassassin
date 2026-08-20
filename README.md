@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [beshadowing](https://www.wordnik.com/words/beshadowing)
+- Random word of the day: [libido](https://www.wordnik.com/words/libido)
 <!--END_SECTION:randomWord-->
 
 <details>
