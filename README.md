@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [hallelujatic](https://www.wordnik.com/words/hallelujatic)
+- Random word of the day: [marsian](https://www.wordnik.com/words/marsian)
 <!--END_SECTION:randomWord-->
 
 <details>
