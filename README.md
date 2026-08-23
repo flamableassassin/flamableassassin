@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [marsian](https://www.wordnik.com/words/marsian)
+- Random word of the day: [strey](https://www.wordnik.com/words/strey)
 <!--END_SECTION:randomWord-->
 
 <details>
