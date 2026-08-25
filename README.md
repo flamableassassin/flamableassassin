@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [achaemenian](https://www.wordnik.com/words/achaemenian)
+- Random word of the day: [foredesk](https://www.wordnik.com/words/foredesk)
 <!--END_SECTION:randomWord-->
 
 <details>
