@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [foredesk](https://www.wordnik.com/words/foredesk)
+- Random word of the day: [pager](https://www.wordnik.com/words/pager)
 <!--END_SECTION:randomWord-->
 
 <details>
