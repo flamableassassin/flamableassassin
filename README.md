@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [dioecian](https://www.wordnik.com/words/dioecian)
+- Random word of the day: [incask](https://www.wordnik.com/words/incask)
 <!--END_SECTION:randomWord-->
 
 <details>
