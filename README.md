@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [semitheatric](https://www.wordnik.com/words/semitheatric)
+- Random word of the day: [pringle](https://www.wordnik.com/words/pringle)
 <!--END_SECTION:randomWord-->
 
 <details>
