@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [unrigged](https://www.wordnik.com/words/unrigged)
+- Random word of the day: [marlpit](https://www.wordnik.com/words/marlpit)
 <!--END_SECTION:randomWord-->
 
 <details>
