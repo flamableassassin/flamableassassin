@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [monactinellid](https://www.wordnik.com/words/monactinellid)
+- Random word of the day: [minuscular](https://www.wordnik.com/words/minuscular)
 <!--END_SECTION:randomWord-->
 
 <details>
