@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [millenium](https://www.wordnik.com/words/millenium)
+- Random word of the day: [idempotency](https://www.wordnik.com/words/idempotency)
 <!--END_SECTION:randomWord-->
 
 <details>
