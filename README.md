@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [idempotency](https://www.wordnik.com/words/idempotency)
+- Random word of the day: [enterorrhexis](https://www.wordnik.com/words/enterorrhexis)
 <!--END_SECTION:randomWord-->
 
 <details>
