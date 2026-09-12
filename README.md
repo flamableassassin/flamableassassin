@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [teinder](https://www.wordnik.com/words/teinder)
+- Random word of the day: [reinflated](https://www.wordnik.com/words/reinflated)
 <!--END_SECTION:randomWord-->
 
 <details>
