@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [glyoxim](https://www.wordnik.com/words/glyoxim)
+- Random word of the day: [sacrifices](https://www.wordnik.com/words/sacrifices)
 <!--END_SECTION:randomWord-->
 
 <details>
