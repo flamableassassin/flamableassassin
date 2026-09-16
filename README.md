@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [sacrifices](https://www.wordnik.com/words/sacrifices)
+- Random word of the day: [gweduck](https://www.wordnik.com/words/gweduck)
 <!--END_SECTION:randomWord-->
 
 <details>
