@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [gweduck](https://www.wordnik.com/words/gweduck)
+- Random word of the day: [exact](https://www.wordnik.com/words/exact)
 <!--END_SECTION:randomWord-->
 
 <details>
