@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [goatbush](https://www.wordnik.com/words/goatbush)
+- Random word of the day: [paragons](https://www.wordnik.com/words/paragons)
 <!--END_SECTION:randomWord-->
 
 <details>
