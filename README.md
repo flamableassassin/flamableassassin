@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [noecho](https://www.wordnik.com/words/noecho)
+- Random word of the day: [millfeed](https://www.wordnik.com/words/millfeed)
 <!--END_SECTION:randomWord-->
 
 <details>
