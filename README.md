@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [slaughterers](https://www.wordnik.com/words/slaughterers)
+- Random word of the day: [rottolo](https://www.wordnik.com/words/rottolo)
 <!--END_SECTION:randomWord-->
 
 <details>
