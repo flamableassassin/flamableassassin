@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [caufle](https://www.wordnik.com/words/caufle)
+- Random word of the day: [confuser](https://www.wordnik.com/words/confuser)
 <!--END_SECTION:randomWord-->
 
 <details>
