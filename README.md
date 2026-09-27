@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [confuser](https://www.wordnik.com/words/confuser)
+- Random word of the day: [oxozonide](https://www.wordnik.com/words/oxozonide)
 <!--END_SECTION:randomWord-->
 
 <details>
