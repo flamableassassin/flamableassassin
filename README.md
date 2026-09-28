@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [oxozonide](https://www.wordnik.com/words/oxozonide)
+- Random word of the day: [skyhook](https://www.wordnik.com/words/skyhook)
 <!--END_SECTION:randomWord-->
 
 <details>
