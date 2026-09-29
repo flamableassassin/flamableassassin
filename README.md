@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [skyhook](https://www.wordnik.com/words/skyhook)
+- Random word of the day: [semirefined](https://www.wordnik.com/words/semirefined)
 <!--END_SECTION:randomWord-->
 
 <details>
