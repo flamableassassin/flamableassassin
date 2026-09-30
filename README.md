@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [semirefined](https://www.wordnik.com/words/semirefined)
+- Random word of the day: [unterse](https://www.wordnik.com/words/unterse)
 <!--END_SECTION:randomWord-->
 
 <details>
