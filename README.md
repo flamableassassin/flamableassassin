@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [sherberts](https://www.wordnik.com/words/sherberts)
+- Random word of the day: [convenientness](https://www.wordnik.com/words/convenientness)
 <!--END_SECTION:randomWord-->
 
 <details>
