@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [convenientness](https://www.wordnik.com/words/convenientness)
+- Random word of the day: [mastorrhagia](https://www.wordnik.com/words/mastorrhagia)
 <!--END_SECTION:randomWord-->
 
 <details>
