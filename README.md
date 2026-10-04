@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [mastorrhagia](https://www.wordnik.com/words/mastorrhagia)
+- Random word of the day: [arminianizer](https://www.wordnik.com/words/arminianizer)
 <!--END_SECTION:randomWord-->
 
 <details>
