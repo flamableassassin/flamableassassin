@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [arminianizer](https://www.wordnik.com/words/arminianizer)
+- Random word of the day: [nonsignificancy](https://www.wordnik.com/words/nonsignificancy)
 <!--END_SECTION:randomWord-->
 
 <details>
