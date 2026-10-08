@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [glyconian](https://www.wordnik.com/words/glyconian)
+- Random word of the day: [nonastral](https://www.wordnik.com/words/nonastral)
 <!--END_SECTION:randomWord-->
 
 <details>
