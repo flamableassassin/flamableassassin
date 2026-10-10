@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [yellowbellies](https://www.wordnik.com/words/yellowbellies)
+- Random word of the day: [ferrous](https://www.wordnik.com/words/ferrous)
 <!--END_SECTION:randomWord-->
 
 <details>
