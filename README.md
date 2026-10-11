@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [ferrous](https://www.wordnik.com/words/ferrous)
+- Random word of the day: [gamebag](https://www.wordnik.com/words/gamebag)
 <!--END_SECTION:randomWord-->
 
 <details>
