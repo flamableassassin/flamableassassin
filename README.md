@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [hypoactive](https://www.wordnik.com/words/hypoactive)
+- Random word of the day: [sudsier](https://www.wordnik.com/words/sudsier)
 <!--END_SECTION:randomWord-->
 
 <details>
