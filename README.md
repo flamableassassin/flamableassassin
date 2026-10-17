@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [grippes](https://www.wordnik.com/words/grippes)
+- Random word of the day: [volitionless](https://www.wordnik.com/words/volitionless)
 <!--END_SECTION:randomWord-->
 
 <details>
