@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [monodont](https://www.wordnik.com/words/monodont)
+- Random word of the day: [immunising](https://www.wordnik.com/words/immunising)
 <!--END_SECTION:randomWord-->
 
 <details>
