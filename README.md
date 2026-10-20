@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [immunising](https://www.wordnik.com/words/immunising)
+- Random word of the day: [quadrilogue](https://www.wordnik.com/words/quadrilogue)
 <!--END_SECTION:randomWord-->
 
 <details>
