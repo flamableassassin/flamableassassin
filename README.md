@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [diarsenide](https://www.wordnik.com/words/diarsenide)
+- Random word of the day: [paternity](https://www.wordnik.com/words/paternity)
 <!--END_SECTION:randomWord-->
 
 <details>
