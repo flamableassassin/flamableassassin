@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [paternity](https://www.wordnik.com/words/paternity)
+- Random word of the day: [postnasal](https://www.wordnik.com/words/postnasal)
 <!--END_SECTION:randomWord-->
 
 <details>
