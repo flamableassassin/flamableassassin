@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [sorbates](https://www.wordnik.com/words/sorbates)
+- Random word of the day: [thyroidal](https://www.wordnik.com/words/thyroidal)
 <!--END_SECTION:randomWord-->
 
 <details>
