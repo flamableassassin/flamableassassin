@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [thyroidal](https://www.wordnik.com/words/thyroidal)
+- Random word of the day: [unrivaledness](https://www.wordnik.com/words/unrivaledness)
 <!--END_SECTION:randomWord-->
 
 <details>
