@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [unrivaledness](https://www.wordnik.com/words/unrivaledness)
+- Random word of the day: [quintelement](https://www.wordnik.com/words/quintelement)
 <!--END_SECTION:randomWord-->
 
 <details>
