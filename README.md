@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [quintelement](https://www.wordnik.com/words/quintelement)
+- Random word of the day: [liquesce](https://www.wordnik.com/words/liquesce)
 <!--END_SECTION:randomWord-->
 
 <details>
