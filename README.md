@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [liquesce](https://www.wordnik.com/words/liquesce)
+- Random word of the day: [musicality](https://www.wordnik.com/words/musicality)
 <!--END_SECTION:randomWord-->
 
 <details>
