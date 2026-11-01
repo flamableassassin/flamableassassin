@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [drowsily](https://www.wordnik.com/words/drowsily)
+- Random word of the day: [adossee](https://www.wordnik.com/words/adossee)
 <!--END_SECTION:randomWord-->
 
 <details>
