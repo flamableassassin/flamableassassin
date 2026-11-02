@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [adossee](https://www.wordnik.com/words/adossee)
+- Random word of the day: [hyperenthusiasm](https://www.wordnik.com/words/hyperenthusiasm)
 <!--END_SECTION:randomWord-->
 
 <details>
