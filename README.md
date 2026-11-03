@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [hyperenthusiasm](https://www.wordnik.com/words/hyperenthusiasm)
+- Random word of the day: [algodon](https://www.wordnik.com/words/algodon)
 <!--END_SECTION:randomWord-->
 
 <details>
