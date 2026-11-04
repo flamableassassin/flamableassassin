@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [algodon](https://www.wordnik.com/words/algodon)
+- Random word of the day: [gassy](https://www.wordnik.com/words/gassy)
 <!--END_SECTION:randomWord-->
 
 <details>
