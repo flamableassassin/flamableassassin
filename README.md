@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [gassy](https://www.wordnik.com/words/gassy)
+- Random word of the day: [morne](https://www.wordnik.com/words/morne)
 <!--END_SECTION:randomWord-->
 
 <details>
