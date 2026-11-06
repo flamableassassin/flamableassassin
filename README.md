@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [morne](https://www.wordnik.com/words/morne)
+- Random word of the day: [cacesthesia](https://www.wordnik.com/words/cacesthesia)
 <!--END_SECTION:randomWord-->
 
 <details>
