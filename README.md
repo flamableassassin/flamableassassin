@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [cacesthesia](https://www.wordnik.com/words/cacesthesia)
+- Random word of the day: [calif](https://www.wordnik.com/words/calif)
 <!--END_SECTION:randomWord-->
 
 <details>
