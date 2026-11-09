@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [rectory](https://www.wordnik.com/words/rectory)
+- Random word of the day: [judaical](https://www.wordnik.com/words/judaical)
 <!--END_SECTION:randomWord-->
 
 <details>
