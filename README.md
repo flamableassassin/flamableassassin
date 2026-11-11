@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [craspedote](https://www.wordnik.com/words/craspedote)
+- Random word of the day: [wanigans](https://www.wordnik.com/words/wanigans)
 <!--END_SECTION:randomWord-->
 
 <details>
