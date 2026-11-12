@@ -6,7 +6,7 @@
 - 🌐 [highlyflammable.tech](https://highlyflammable.tech)
 
 <!--START_SECTION:randomWord-->
-- Random word of the day: [wanigans](https://www.wordnik.com/words/wanigans)
+- Random word of the day: [malayoid](https://www.wordnik.com/words/malayoid)
 <!--END_SECTION:randomWord-->
 
 <details>
